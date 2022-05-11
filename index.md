@@ -33,6 +33,7 @@
 [NIC - canal de vídeos YouTube NICbrvideos](https://youtu.be/t_wSDdQeb58)
 
 Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
+
 [NICbrvideos - Como funciona a Internet? Parte 1: O protocolo IP](https://www.youtube.com/watch?v=HNQD0qJ0TC4)
 
 [NICbrvideos - Como funciona a Internet? Parte 2: Sistemas Autônomos, BGP, PTTs.](https://www.youtube.com/watch?v=C5qNAT_j63M)
@@ -44,6 +45,16 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 [NICbrvideos - O que é um domínio?](https://www.youtube.com/watch?v=t_wSDdQeb58)
 
 [NICbrvideos - Como registrar um domínio .br?](https://www.youtube.com/watch?v=gZRYDxWuYpk)
+
+
+### Organizações internacionais responsáveis por protocolos e atribuição de nomes/endereços
+[IETF (Internet Engineering Task Force)](https://www.ietf.org/)
+
+[IETF - Pesquisa de Request for Comments (RFCs)](https://www.rfc-editor.org/) 
+
+[IANA - autoridade para atribuição de nomes/endereços IP/números de protocolos](https://www.iana.org/)
+
+
 
 
 
