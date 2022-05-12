@@ -1,39 +1,43 @@
-## Welcome to GitHub Pages
+## Atividades, exercícios e trabalhos
 
-# DEC7126 - Redes de Computadores I (TIC)
+### DEC7126 - Redes de Computadores I (TIC)
 [Atividade de prática em redes](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7126-atividade-1-praticas.pdf)
 
-# DEC7128 - Redes de Computadores II (TIC)
+### DEC7128 - Redes de Computadores II (TIC)
 [Atividade de prática em redes](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7128-atividade-1-praticas.pdf)
 
-# DEC7557 - Redes de Computadores (ENC)
+### DEC7557 - Redes de Computadores (ENC)
 [Atividade de prática em redes](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7557-atividade-1-praticas.pdf)
 
-# DEC7523 - Modelagem e Simulação (ENC)
+### DEC7523 - Modelagem e Simulação (ENC)
 [Atividade de prática em redes](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7523-atividade-1-artigo-e-seminario.pdf)
 [Artigo Lang (2021)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/LANG-2021-open-source-discrete-event-simul-sw-for-app-in-production-and-logistics.pdf)
 
 ## Artigos e referências (histórias) em Internet
 [CERF; KAHN, 1974 - A Protocol For Packet Network Intercommunication](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/CERF-e-KAHN-1974-a-protocol-for-packet-network-intercommunication.pdf)
+
 [RFC1958 June 1996 - Architectural Principles of the Internet](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/RFC1958-Architectural-Principles-of-the-Internet-jun-1996.txt.pdf)
+
 [RFC3439 December 2002 - Some Internet Architectural Guidelines and Philosophy - updates RFC1958](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/RFC3439-Some-Internet-Architectural-Guidelines-and-Philosopy-dec-2002.pdf)
+
 [SALTZER; REED; CLARK, 1984 - End-to-end arguments in system design](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/SALTZER-1984-End-to-end-arguments-in-system-design.pdf)
+
 [KOBAYASHI An End to the End-to-End Arguments](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/KOBAYASHI-An_End_to_the_End-to-End_Arguments.pdf)
+
 [BRADNER, 2006 - The End of End-to-End Security?](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/BRADNER-2006-The-End-of-End-to-End-Security.pdf)
 
 
 
 ## Materiais para as disciplinas de Redes e de Modelagem e Simulação da UFSC
 
-# Redes de Computadores
-
-### REDES - Introdução
+### Redes de Computadores - Introdução
 [Redes - Introdução - Primeira - Parte](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-01-introducao-parte_1.pdf)
 
 [Redes - Introdução - Segunda - Parte](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-01-introducao-parte_2.pdf)
 
 
-### Alguns sítos para pesquisa de informações de rede
+### Redes de Computadores - alguns sítos para pesquisa de informações de rede
+
 [HE Network Tools - Internet Map](https://www.he.net/3d-map/)
 
 [NIC - IPv6 - Teste (e teste completo)](https://ipv6.br/)
@@ -54,7 +58,8 @@
 
 [RNP - Pontos de Presença (PoPs)](https://www.rnp.br/sistema-rnp/pontos-de-presenca)
 
-### Vídeos educativos sobre a Internet brasileira e sobre protocolos da Internet
+### Redes de Computadores - vídeos educativos sobre a Internet brasileira e sobre protocolos da Internet
+
 [NIC - canal de vídeos YouTube NICbrvideos](https://youtu.be/t_wSDdQeb58)
 
 Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
@@ -71,8 +76,16 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 
 [NICbrvideos - Como registrar um domínio .br?](https://www.youtube.com/watch?v=gZRYDxWuYpk)
 
+### Redes de Computadores - organizações nacionais
 
-### Organizações internacionais responsáveis por protocolos e atribuição de nomes/endereços
+[NIC.br - Núcleo de Informação e Coordenação do Ponto BR](https://nic.br/)
+
+[CGI.br - Comitê Gestor da Internet no Brasil](https://cgi.br/) 
+
+[RNP - Rede Nacional de Pesquisa](https://www.rnp.br/)
+
+### Redes de Computadores - organizações internacionais responsáveis por protocolos e atribuição de nomes/endereços
+
 [IETF (Internet Engineering Task Force)](https://www.ietf.org/)
 
 [IETF - Pesquisa de Request for Comments (RFCs)](https://www.rfc-editor.org/) 
