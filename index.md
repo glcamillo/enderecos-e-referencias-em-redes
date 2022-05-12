@@ -1,5 +1,28 @@
 ## Welcome to GitHub Pages
 
+# DEC7126 - Redes de Computadores I (TIC)
+[Atividade de prática em redes](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7126-atividade-1-praticas.pdf)
+
+# DEC7128 - Redes de Computadores II (TIC)
+[Atividade de prática em redes](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7128-atividade-1-praticas.pdf)
+
+# DEC7557 - Redes de Computadores (ENC)
+[Atividade de prática em redes](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7557-atividade-1-praticas.pdf)
+
+# DEC7523 - Modelagem e Simulação (ENC)
+[Atividade de prática em redes](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7523-atividade-1-artigo-e-seminario.pdf)
+[Artigo Lang (2021)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/LANG-2021-open-source-discrete-event-simul-sw-for-app-in-production-and-logistics.pdf)
+
+## Artigos e referências (histórias) em Internet
+[CERF; KAHN, 1974 - A Protocol For Packet Network Intercommunication](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/CERF-e-KAHN-1974-a-protocol-for-packet-network-intercommunication.pdf)
+[RFC1958 June 1996 - Architectural Principles of the Internet](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/RFC1958-Architectural-Principles-of-the-Internet-jun-1996.txt.pdf)
+[RFC3439 December 2002 - Some Internet Architectural Guidelines and Philosophy - updates RFC1958](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/RFC3439-Some-Internet-Architectural-Guidelines-and-Philosopy-dec-2002.pdf)
+[SALTZER; REED; CLARK, 1984 - End-to-end arguments in system design](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/SALTZER-1984-End-to-end-arguments-in-system-design.pdf)
+[KOBAYASHI An End to the End-to-End Arguments](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/KOBAYASHI-An_End_to_the_End-to-End_Arguments.pdf)
+[BRADNER, 2006 - The End of End-to-End Security?](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/BRADNER-2006-The-End-of-End-to-End-Security.pdf)
+
+
+
 ## Materiais para as disciplinas de Redes e de Modelagem e Simulação da UFSC
 
 # Redes de Computadores
@@ -11,6 +34,8 @@
 
 
 ### Alguns sítos para pesquisa de informações de rede
+[HE Network Tools - Internet Map](https://www.he.net/3d-map/)
+
 [NIC - IPv6 - Teste (e teste completo)](https://ipv6.br/)
 
 [NIC - Simet - Teste de conexão](https://beta.simet.nic.br/)
@@ -54,12 +79,4 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 
 [IANA - autoridade para atribuição de nomes/endereços IP/números de protocolos](https://www.iana.org/)
 
-
-
-
-
-# Modelagem e Simulação
-
-### Simulação - Artigo
-[Artigo Lang (2021)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/LANG-2021-open-source-discrete-event-simul-sw-for-app-in-production-and-logistics.pdf)
 
