@@ -1,11 +1,4 @@
-# aulas-ufsc-materiais
-Materiais de aula
+# UFSC - Araranguá
+## Materiais de aula (e referências), exercícios, tarefas avaliativas das disciplinas de Redes de Computadores e de Modelagem e Simulação
 
-### Primeira parte
-[Redes - Introdução - Primeira - Parte](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-01-introducao-parte_1.pdf)
-
-
-
-### Segunda parte
-[Redes - Introdução - Segunda - Parte](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-01-introducao-parte_2.pdf)
-
+[Link de acesso](https://github.com/glcamillo/aulas-ufsc-materiais/)
