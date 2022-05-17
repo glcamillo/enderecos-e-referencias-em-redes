@@ -2,16 +2,16 @@
 
 ### DEC7126 - Redes de Computadores I (TIC)
 1. [Atividade de prática em redes](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7126-atividade-1-praticas.pdf)
-2. ***[Tarefa Avaliativa I]***(https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7126-tarefa_aval-1-internet-organismos-e-info.pdf)
+2. [***Tarefa Avaliativa I***](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7126-tarefa_aval-1-internet-organismos-e-info.pdf)
 
 
 ### DEC7128 - Redes de Computadores II (TIC)
 1. [Atividade de prática em redes](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7128-atividade-1-praticas.pdf)
-2. ***[Tarefa Avaliativa I]***(https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7128-tarefa_aval-1-internet-organismos-e-info.pdf)
+2. [***Tarefa Avaliativa I***](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7128-tarefa_aval-1-internet-organismos-e-info.pdf)
 
 ### DEC7557 - Redes de Computadores (ENC)
 1. [Atividade de prática em redes](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7557-atividade-1-praticas.pdf)
-2. ***[Tarefa Avaliativa I]***(https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7557-tarefa_aval-1-internet-organismos-e-info-e-artigo.pdf)
+2. [***Tarefa Avaliativa I***](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7557-tarefa_aval-1-internet-organismos-e-info-e-artigo.pdf)
 
 ### DEC7523 - Modelagem e Simulação (ENC)
 [Atividade de seminário e artigo](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7523-atividade-1-artigo-e-seminario.pdf)
@@ -48,9 +48,9 @@
 
 [HE Network Tools - Internet Map https://www.he.net/3d-map/](https://www.he.net/3d-map/)
 
-[NIC - IPv6 - Teste (e teste completo) https://ipv6.br/]((https://ipv6.br/))
+[NIC - IPv6 - Teste (e teste completo) https://ipv6.br/](https://ipv6.br/))
 
-[NIC - Simet - Teste de conexão https://beta.simet.nic.br/]((https://beta.simet.nic.br/)
+[NIC - Simet - Teste de conexão https://beta.simet.nic.br/](https://beta.simet.nic.br/)
 
 [NIC - IX (ponto de troca de tráfego) - agregado https://ix.br/trafego/agregado/sp](https://ix.br/trafego/agregado/sp)
 
