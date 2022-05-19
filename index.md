@@ -20,6 +20,9 @@
 ## Artigos e referências (histórias) em Internet
 [CERF; KAHN, 1974 **A Protocol For Packet Network Intercommunication**](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/CERF-e-KAHN-1974-a-protocol-for-packet-network-intercommunication.pdf)
 
+[CERF, Vinton G.; CAIN, Edward, 1883 ***The DoD internet architecture model***](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/CERF-e-CAIN-1983-the-DoD-internet-architecture-model.pdf)
+
+
 [RFC1958 June 1996 **Architectural Principles of the Internet**](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/RFC1958-Architectural-Principles-of-the-Internet-jun-1996.txt.pdf)
 
 [RFC3439 December 2002 **Some Internet Architectural Guidelines and Philosophy - updates RFC1958**](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/RFC3439-Some-Internet-Architectural-Guidelines-and-Philosopy-dec-2002.pdf)
