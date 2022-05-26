@@ -2,26 +2,40 @@
 
 ### DEC7126 - Redes de Computadores I (TIC)
 1. [Atividade de prática em redes](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7126-atividade-1-praticas.pdf)
-2. [***Tarefa Avaliativa I***](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7126-tarefa_aval-1-internet-organismos-e-info.pdf)
+2. [Tarefa Avaliativa I](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7126-tarefa_aval-1-internet-organismos-e-info.pdf)
 
 
 ### DEC7128 - Redes de Computadores II (TIC)
 1. [Atividade de prática em redes](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7128-atividade-1-praticas.pdf)
-2. [***Tarefa Avaliativa I***](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7128-tarefa_aval-1-internet-organismos-e-info.pdf)
+2. [Tarefa Avaliativa I](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7128-tarefa_aval-1-internet-organismos-e-info.pdf)
 
 ### DEC7557 - Redes de Computadores (ENC)
 1. [Atividade de prática em redes](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7557-atividade-1-praticas.pdf)
-2. [***Tarefa Avaliativa I***](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7557-tarefa_aval-1-internet-organismos-e-info-e-artigo.pdf)
+2. [Tarefa Avaliativa I](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7557-tarefa_aval-1-internet-organismos-e-info-e-artigo.pdf)
 
 ### DEC7523 - Modelagem e Simulação (ENC)
 [Atividade de seminário e artigo](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7523-atividade-1-artigo-e-seminario.pdf)
 [Artigo Lang (2021)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/LANG-2021-open-source-discrete-event-simul-sw-for-app-in-production-and-logistics.pdf)
+## Materiais para as disciplinas de Redes e de Modelagem e Simulação da UFSC
 
-## Artigos e referências (histórias) em Internet
+### Redes de Computadores - Introdução
+[Redes - Introdução - Primeira - Parte](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-01-introducao-parte_1.pdf)
+
+[Redes - Introdução - Segunda - Parte](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-01-introducao-parte_2.pdf)
+
+
+### REDES: materiais complementares
+[***Camadas e Protocolos em Redes (OSI e TCP/IP)***](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/REDES-Material-Complementar-CAMADAS-e-PROTOCOLOS.pdf)
+
+[***Resumo comandos para visualizar informações de TCP/IP***](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/REDES-Material-Complementar-COMANDOS-para-VISUALIZAR-INFORMACOES-TCP_IP.pdf)
+
+[***Resumo ilustrativo de como se processa uma página Web (alterado de Kurose; Ross (2017)***](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/REDES-Material-Suplementar-como_se_processa_uma_solicitacao_pagina_Web.pdf)
+
+
+### REDES: artigos e referências (histórias) em Internet
 [CERF; KAHN, 1974 **A Protocol For Packet Network Intercommunication**](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/CERF-e-KAHN-1974-a-protocol-for-packet-network-intercommunication.pdf)
 
 [CERF, Vinton G.; CAIN, Edward, 1883 ***The DoD internet architecture model***](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/CERF-e-CAIN-1983-the-DoD-internet-architecture-model.pdf)
-
 
 [RFC1958 June 1996 **Architectural Principles of the Internet**](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/RFC1958-Architectural-Principles-of-the-Internet-jun-1996.txt.pdf)
 
@@ -36,15 +50,6 @@
 [KOBAYASHI An End to the End-to-End Arguments](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/KOBAYASHI-An_End_to_the_End-to-End_Arguments.pdf)
 
 [BRADNER, 2006 - The End of End-to-End Security?](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/BRADNER-2006-The-End-of-End-to-End-Security.pdf)
-
-
-
-## Materiais para as disciplinas de Redes e de Modelagem e Simulação da UFSC
-
-### Redes de Computadores - Introdução
-[Redes - Introdução - Primeira - Parte](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-01-introducao-parte_1.pdf)
-
-[Redes - Introdução - Segunda - Parte](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-01-introducao-parte_2.pdf)
 
 
 ### Redes de Computadores - alguns sítos para pesquisa de informações de rede
@@ -69,7 +74,7 @@
 
 [RNP - Pontos de Presença (PoPs) https://www.rnp.br/sistema-rnp/pontos-de-presenca](https://www.rnp.br/sistema-rnp/pontos-de-presenca)
 
-### Redes de Computadores - vídeos educativos sobre a Internet brasileira e sobre protocolos da Internet
+### REDES: vídeos educativos sobre a Internet brasileira e sobre protocolos da Internet
 
 [NIC - canal de vídeos YouTube NICbrvideos](https://youtu.be/t_wSDdQeb58)
 
@@ -97,7 +102,7 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 
 [RNP - Rede Nacional de Pesquisa https://www.rnp.br/](https://www.rnp.br/)
 
-### Redes de Computadores - organizações internacionais responsáveis por protocolos e atribuição de nomes/endereços
+### REDES: organizações internacionais responsáveis por protocolos e atribuição de nomes/endereços
 
 [IETF (Internet Engineering Task Force) https://www.ietf.org/](https://www.ietf.org/)
 
