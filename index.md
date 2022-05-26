@@ -23,6 +23,11 @@
 
 [Redes - Introdução - Segunda - Parte](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-01-introducao-parte_2.pdf)
 
+### Redes de Computadores - aula 2
+[***Redes - Camada de Transporte - TCP e UDP***](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-02-camada-transporte.pdf)
+
+[***Redes sem FIO - WLAN e Redes Móveis***](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-02-redes_sem_fio-e-redes_moveis.pdf)
+
 
 ### REDES: materiais complementares
 [***Camadas e Protocolos em Redes (OSI e TCP/IP)***](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/REDES-Material-Complementar-CAMADAS-e-PROTOCOLOS.pdf)
@@ -52,7 +57,7 @@
 [BRADNER, 2006 - The End of End-to-End Security?](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/BRADNER-2006-The-End-of-End-to-End-Security.pdf)
 
 
-### Redes de Computadores - alguns sítos para pesquisa de informações de rede
+### REDES: alguns sítos para pesquisa de informações de rede
 
 [HE Network Tools - Internet Map https://www.he.net/3d-map/](https://www.he.net/3d-map/)
 
@@ -94,7 +99,7 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 
 [Wikipedia - pilha de protocolos TCP/IP https://en.wikipedia.org/wiki/Internet_protocol_suite](https://en.wikipedia.org/wiki/Internet_protocol_suite)
 
-### Redes de Computadores - organizações nacionais
+### REDES: algumas organizações nacionais
 
 [NIC.br - Núcleo de Informação e Coordenação do Ponto BR https://nic.br/](https://nic.br/)
 
