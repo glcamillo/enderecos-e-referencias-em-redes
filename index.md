@@ -19,22 +19,21 @@
 ## Materiais para as disciplinas de Redes e de Modelagem e Simulação da UFSC
 
 ### Redes de Computadores - Introdução
-[Redes - Introdução - Primeira - Parte](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-01-introducao-parte_1.pdf)
-
-[Redes - Introdução - Segunda - Parte](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-01-introducao-parte_2.pdf)
+1. [Redes - Introdução - Primeira - Parte](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-01-introducao-parte_1.pdf)
+2. [Redes - Introdução - Segunda - Parte](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-01-introducao-parte_2.pdf)
 
 ### Redes de Computadores - aula 2
-[***Redes - Camada de Transporte - TCP e UDP***](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-02-camada-transporte.pdf)
+[Redes - Camada de Transporte - TCP e UDP (***Novo***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-02-camada-transporte.pdf)
 
-[***Redes sem FIO - WLAN e Redes Móveis***](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-02-redes_sem_fio-e-redes_moveis.pdf)
+[Redes sem FIO - WLAN e Redes Móveis (***Novo***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-02-redes_sem_fio-e-redes_moveis.pdf)
 
 
 ### REDES: materiais complementares
-[***Camadas e Protocolos em Redes (OSI e TCP/IP)***](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/REDES-Material-Complementar-CAMADAS-e-PROTOCOLOS.pdf)
+[Camadas e Protocolos em Redes (OSI e TCP/IP) (***Novo***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/REDES-Material-Complementar-CAMADAS-e-PROTOCOLOS.pdf)
 
-[***Resumo comandos para visualizar informações de TCP/IP***](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/REDES-Material-Complementar-COMANDOS-para-VISUALIZAR-INFORMACOES-TCP_IP.pdf)
+[Resumo comandos para visualizar informações de TCP/IP (***Novo***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/REDES-Material-Complementar-COMANDOS-para-VISUALIZAR-INFORMACOES-TCP_IP.pdf)
 
-[***Resumo ilustrativo de como se processa uma página Web (alterado de Kurose; Ross (2017)***](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/REDES-Material-Suplementar-como_se_processa_uma_solicitacao_pagina_Web.pdf)
+[Resumo ilustrativo de como se processa uma página Web (alterado de Kurose; Ross (2017) (***Novo***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/REDES-Material-Suplementar-como_se_processa_uma_solicitacao_pagina_Web.pdf)
 
 
 ### REDES: artigos e referências (histórias) em Internet
