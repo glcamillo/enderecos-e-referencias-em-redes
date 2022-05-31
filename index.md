@@ -14,8 +14,12 @@
 2. [Tarefa Avaliativa I](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7557-tarefa_aval-1-internet-organismos-e-info-e-artigo.pdf)
 
 ### DEC7523 - Modelagem e Simulação (ENC)
-[Atividade de seminário e artigo](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7523-atividade-1-artigo-e-seminario.pdf)
-[Artigo Lang (2021)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/LANG-2021-open-source-discrete-event-simul-sw-for-app-in-production-and-logistics.pdf)
+1. [Atividade de seminário e artigo](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7523-atividade-1-artigo-e-seminario.pdf)
+2. [Artigo Lang (2021)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/LANG-2021-open-source-discrete-event-simul-sw-for-app-in-production-and-logistics.pdf)
+3. [Pedágio - Arquivo de chegadas (***Novo***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/pedagio-chegadas.dst)
+4. [Pedágio - Arquivo de tempos de serviço (***Novo***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/pedagio-servico-rounded.dst)
+
+
 ## Materiais para as disciplinas de Redes e de Modelagem e Simulação da UFSC
 
 ### Redes de Computadores - Introdução
@@ -29,11 +33,11 @@
 
 
 ### REDES: materiais complementares
-[Camadas e Protocolos em Redes (OSI e TCP/IP) (***Novo***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/REDES-Material-Complementar-CAMADAS-e-PROTOCOLOS.pdf)
 
-[Resumo comandos para visualizar informações de TCP/IP (***Novo***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/REDES-Material-Complementar-COMANDOS-para-VISUALIZAR-INFORMACOES-TCP_IP.pdf)
-
-[Resumo ilustrativo de como se processa uma página Web (alterado de Kurose; Ross (2017) (***Novo***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/REDES-Material-Suplementar-como_se_processa_uma_solicitacao_pagina_Web.pdf)
+1. [Redes e Internet - Princípios gerais (TANENBAUM, 2003) (***Novo***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/REDES-internet-principios.pdf)
+2. [Camadas e Protocolos em Redes (OSI e TCP/IP) (***Novo***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/REDES-Material-Complementar-CAMADAS-e-PROTOCOLOS.pdf)
+3. [Resumo comandos para visualizar informações de TCP/IP (***Novo***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/REDES-Material-Complementar-COMANDOS-para-VISUALIZAR-INFORMACOES-TCP_IP.pdf)
+4. [Resumo ilustrativo de como se processa uma página Web (alterado de Kurose; Ross (2017) (***Novo***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/REDES-Material-Suplementar-como_se_processa_uma_solicitacao_pagina_Web.pdf)
 
 
 ### REDES: artigos e referências (histórias) em Internet
