@@ -21,8 +21,10 @@
 ### DEC7523 - Modelagem e Simulação (ENC)
 1. [Atividade de seminário e artigo](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7523-atividade-1-artigo-e-seminario.pdf)
 2. [Artigo Lang (2021)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/LANG-2021-open-source-discrete-event-simul-sw-for-app-in-production-and-logistics.pdf)
-3. [Pedágio - Arquivo de chegadas (***Novo***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/pedagio-chegadas.dst)
-4. [Pedágio - Arquivo de tempos de serviço (***Novo***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/pedagio-servico-rounded.dst)
+3. [Pedágio - Arquivo de chegadas](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/pedagio-chegadas.dst)
+4. [Pedágio - Arquivo de tempos de serviço](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/pedagio-servico-rounded.dst)
+5. [Lavação - Arquivo de chegadas (***Novo***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/lavacao-dados-chegadas-rounded-110.dst)
+6. [Lavação - Arquivo de tempos de serviço (***Novo***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/lavacao-dados-temposervicos-100.dst)
 
 
 ## Materiais para as disciplinas de Redes e de Modelagem e Simulação da UFSC
