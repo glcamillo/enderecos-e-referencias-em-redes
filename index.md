@@ -13,6 +13,7 @@
 ### DEC7128 - Redes de Computadores II (TIC)
 1. [Atividade de prática em redes](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7128-atividade-1-praticas.pdf)
 2. [Tarefa Avaliativa I](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7128-tarefa_aval-1-internet-organismos-e-info.pdf)
+3. [Atividade ***Avaliativa*** II](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7128-atvd_aval-2-seminario.pdf)
 
 ### DEC7557 - Redes de Computadores (ENC)
 1. [Atividade de prática em redes](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7557-atividade-1-praticas.pdf)
@@ -23,9 +24,9 @@
 2. [Artigo Lang (2021)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/LANG-2021-open-source-discrete-event-simul-sw-for-app-in-production-and-logistics.pdf)
 3. [Pedágio - Arquivo de chegadas](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/pedagio-chegadas.dst)
 4. [Pedágio - Arquivo de tempos de serviço](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/pedagio-servico-rounded.dst)
-5. [Lavação - Arquivo de chegadas (***Novo***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/lavacao-dados-chegadas-rounded-110.dst)
+5. [Lavação - Arquivo de chegadas (***Retificado***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/lavacao-dados-chegadas-110.dst)
 6. [Lavação - Arquivo de tempos de serviço (***Novo***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/lavacao-dados-temposervicos-100.dst)
-
+7. [Atividade ***Avaliativa*** II](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7523-atvd-aval-2-pratica-dados-lavacao.pdf)
 
 ## Materiais para as disciplinas de Redes e de Modelagem e Simulação da UFSC
 
