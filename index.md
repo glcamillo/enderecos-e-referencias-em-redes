@@ -8,7 +8,7 @@
 ### DEC7126 - Redes de Computadores I (TIC)
 1. [Atividade de prática em redes](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7126-atividade-1-praticas.pdf)
 2. [Tarefa Avaliativa I](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7126-tarefa_aval-1-internet-organismos-e-info.pdf)
-
+3. [Tarefa ***Avaliativa*** II](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7126-atvd_aval-2-questionario.odt)
 
 ### DEC7128 - Redes de Computadores II (TIC)
 1. [Atividade de prática em redes](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7128-atividade-1-praticas.pdf)
@@ -18,6 +18,7 @@
 ### DEC7557 - Redes de Computadores (ENC)
 1. [Atividade de prática em redes](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7557-atividade-1-praticas.pdf)
 2. [Tarefa Avaliativa I](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7557-tarefa_aval-1-internet-organismos-e-info-e-artigo.pdf)
+3. [Atividade ***Avaliativa*** II](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7557-atvd_aval-2-questionario.odt)
 
 ### DEC7523 - Modelagem e Simulação (ENC)
 1. [Atividade de seminário e artigo](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7523-atividade-1-artigo-e-seminario.pdf)
@@ -35,7 +36,7 @@
 2. [Redes - Introdução - Segunda - Parte](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-01-introducao-parte_2.pdf)
 
 ### Redes de Computadores - aula 2
-1. [Redes - Camada de Transporte - TCP e UDP](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-02-camada-transporte.pdf)
+1. [Redes - Camada de Transporte - TCP e UDP (***Revisado***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-02-camada-transporte.pdf)
 2. [Redes - Camada de Transporte - novos desenvolvimentos (***Novo***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-02-camada-transporte-novos-protocolos.pdf)
 3. [Redes sem FIO - WLAN e Redes Móveis (***Novo***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-02-redes_sem_fio-e-redes_moveis.pdf)
 
