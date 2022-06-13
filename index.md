@@ -14,6 +14,7 @@
 1. [Atividade de prática em redes](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7128-atividade-1-praticas.pdf)
 2. [Tarefa Avaliativa I](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7128-tarefa_aval-1-internet-organismos-e-info.pdf)
 3. [Atividade ***Avaliativa*** II](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7128-atvd_aval-2-seminario.pdf)
+4. [Atividade ***Avaliativa*** III](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7128-atvd_aval-3-questionario.odt)
 
 ### DEC7557 - Redes de Computadores (ENC)
 1. [Atividade de prática em redes](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7557-atividade-1-praticas.pdf)
@@ -38,7 +39,7 @@
 ### Redes de Computadores - aula 2
 1. [Redes - Camada de Transporte - TCP e UDP (***Revisado***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-02-camada-transporte.pdf)
 2. [Redes - Camada de Transporte - novos desenvolvimentos (***Novo***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-02-camada-transporte-novos-protocolos.pdf)
-3. [Redes sem FIO - WLAN e Redes Móveis (***Novo***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-02-redes_sem_fio-e-redes_moveis.pdf)
+3. [Redes sem Fio - WLAN e Redes Móveis (***Revisado***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-02-redes_sem_fio-e-redes_moveis.pdf)
 
 
 ### REDES: materiais complementares
