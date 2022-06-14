@@ -31,7 +31,7 @@
 7. [Atividade ***Avaliativa*** II](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7523-atvd-aval-2-pratica-dados-lavacao.pdf)
 
 ### Observação quanto aos envios de arquivos.
-1. Nomear como segue: DEC7xxx-atvd-avaliativa-XX-NOME_ALUNO-2022-06-DD.[pdf|odt|doc]
+1. Nomear como segue: ***DEC7xxx-atvd-avaliativa-XX-NOME_ALUNO-2022-06-DD.[pdf|odt|doc]***
 
 ## Materiais para as disciplinas de Redes e de Modelagem e Simulação da UFSC
 
