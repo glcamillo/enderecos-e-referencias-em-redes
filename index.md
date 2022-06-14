@@ -41,6 +41,9 @@
 2. [Redes - Camada de Transporte - novos desenvolvimentos (***Novo***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-02-camada-transporte-novos-protocolos.pdf)
 3. [Redes sem Fio - WLAN e Redes Móveis (***Revisado***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-02-redes_sem_fio-e-redes_moveis.pdf)
 
+#### Modelagem e Simulação
+1. [Notas de Aula ***Novo***](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7523-modelagem-e-simulacao-NOTAS_AULA.pdf)
+
 
 ### REDES: materiais complementares
 
