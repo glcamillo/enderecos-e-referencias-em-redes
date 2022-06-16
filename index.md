@@ -9,12 +9,14 @@
 1. [Atividade de prática em redes](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7126-atividade-1-praticas.pdf)
 2. [Atividade Avaliativa I](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7126-tarefa_aval-1-internet-organismos-e-info.pdf)
 3. [Atividade ***Avaliativa*** II](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7126-atvd_aval-2-questionario.odt)
+4. [Plano de Ensino ***Novo***](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/plano-ensino-2022.1-DEC7126-Redes-de-Computadores-I.pdf)
 
 ### DEC7128 - Redes de Computadores II (TIC)
 1. [Atividade de prática em redes](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7128-atividade-1-praticas.pdf)
 2. [Atividade Avaliativa I](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7128-tarefa_aval-1-internet-organismos-e-info.pdf)
-3. [Atividade ***Avaliativa*** II](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7128-atvd_aval-2-seminario.pdf)
+3. [Atividade de Seminário II](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7128-atvd_aval-2-seminario.pdf)
 4. [Atividade ***Avaliativa*** III](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7128-atvd_aval-3-questionario.odt)
+5. [Plano de Ensino ***Novo***](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/plano-ensino-2022.1-DEC7126-Redes-de-Computadores-II.pdf)
 
 ### DEC7557 - Redes de Computadores (ENC)
 1. [Atividade de prática em redes](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7557-atividade-1-praticas.pdf)
@@ -35,17 +37,35 @@
 
 ## Materiais para as disciplinas de Redes e de Modelagem e Simulação da UFSC
 
-### Redes de Computadores - Introdução
+### Redes de Computadores - Notas de Aula - Introdução
 1. [Redes - Introdução - Primeira - Parte](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-01-introducao-parte_1.pdf)
 2. [Redes - Introdução - Segunda - Parte](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-01-introducao-parte_2.pdf)
+3. [Plano de Ensino (***Novo***)]()
 
-### Redes de Computadores - aula 2
+### Redes de Computadores - Notas de Aula - aula 2
 1. [Redes - Camada de Transporte - TCP e UDP (***Revisado***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-02-camada-transporte.pdf)
-2. [Redes - Camada de Transporte - novos desenvolvimentos (***Novo***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-02-camada-transporte-novos-protocolos.pdf)
-3. [Redes sem Fio - WLAN e Redes Móveis (***Revisado***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-02-redes_sem_fio-e-redes_moveis.pdf)
+2. [Redes - Camada de Transporte - novos desenvolvimentos](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-02-camada-transporte-novos-protocolos.pdf)
+3. [Redes sem Fio - WLAN e Redes Móveis](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-02-redes_sem_fio-e-redes_moveis.pdf)
+4. [Plano de Ensino (***Novo***)]()
 
 #### Modelagem e Simulação
 1. [Notas de Aula ***Novo***](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7523-modelagem-e-simulacao-NOTAS_AULA.pdf)
+
+### Redes de Computadores - materiais de referência
+1. Bibliografia complementar: LIVRO disponibilizado na licença Creative Commons: DORDAL, Peter L. ***An Introduction to Computer Networks***. Second Ed. Department of Computer Science:Loyola University Chicago. Disponível:[https://intronetworks.cs.luc.edu/current2/html/index.html](https://intronetworks.cs.luc.edu/current2/html/index.html)
+2. A SANS disponibiliza documentos em forma de _Cheat_ _Sheets_.  [https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
+3. SANS Cheat Sheets: TCP/IP e tcpdump (formatos e campos das unidades de dados dos protocolos de camda de rede e de transporte) ***Novo***](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/SANS-CheatSheets-TCPIPCheatsheet2021.pdf)
+4. SANS Cheat Sheets: IPv6 (formatos e campos da unidade de dados do protocolo de rede IPv6) ***Novo***](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/SANS-CheatSheets-ipv6_tcpip_pocketguide.pdf)
+
+### Redes de Computadores - Vídeos sobre TCP/IP, OSI da ISO e Camadas (aplicação)
+1. [Vídeo - YouTube:  what is TCP/IP and OSI? // FREE CCNA // EP 3 ***Novo***](https://www.youtube.com/watch?v=CRdL1PcherM)
+2. [Vídeo - YouTube: REAL LIFE example!! (TCP/IP and OSI layers) // FREE CCNA // EP 4 ***Novo***](https://www.youtube.com/watch?v=3kfO61Mensg) 
+3. [Vídeo - YouTube:   how the OSI model works on YouTube (Application and Transport Layers) // FREE CCNA // EP 5 ***Novo***](https://www.youtube.com/watch?v=oIRkXulqJA4)
+
+### Redes de Computadores - Vídeos sobre TCP/IP (camada rede e de enlace)
+1. [Vídeo - YouTube: How Data moves through the Internet - Networking Fundamentals ***Novo***](https://www.youtube.com/watch?v=YJGGYKAV4pA)
+2. [Vídeo - YouTube:  Routers, Switches, Packets and Frames  ***Novo***](https://www.youtube.com/watch?v=zhlMLRNY5-4)
+3; [Vídeo - YouTube: Packet Traveling - How Packets Move Through a Network  ***Novo***]()
 
 
 ### REDES: materiais complementares
