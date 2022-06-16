@@ -52,9 +52,9 @@
 
 ### Redes de Computadores - materiais de referência (***Novo***)
 1. Bibliografia complementar: LIVRO disponibilizado na licença Creative Commons: DORDAL, Peter L. ***An Introduction to Computer Networks***. Second Ed. Department of Computer Science:Loyola University Chicago. Disponível:[https://intronetworks.cs.luc.edu/current2/html/index.html](https://intronetworks.cs.luc.edu/current2/html/index.html)
-2. [A SANS disponibiliza documentos em forma de _Cheat_ _Sheets_:https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
-3. [SANS _Cheat_ _Sheets_: TCP/IP e tcpdump (formatos e campos das unidades de dados dos protocolos de camda de rede e de transporte)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/SANS-CheatSheets-TCPIPCheatsheet2021.pdf)
-4. SANS _Cheat_ _Sheets_: IPv6 (formatos e campos da unidade de dados do protocolo de rede IPv6)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/SANS-CheatSheets-ipv6_tcpip_pocketguide.pdf)
+2. A SANS disponibiliza documentos em forma de _Cheat_ _Sheets_:[https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
+3. SANS _Cheat_ _Sheets_: TCP/IP e tcpdump (formatos e campos das unidades de dados dos protocolos de camda de rede e de transporte)(https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/SANS-CheatSheets-TCPIPCheatsheet2021.pdf)
+4. SANS _Cheat_ _Sheets_: IPv6 (formatos e campos da unidade de dados do protocolo de rede IPv6)(https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/SANS-CheatSheets-ipv6_tcpip_pocketguide.pdf)
 
 ### Redes de Computadores - Vídeos sobre TCP/IP, OSI da ISO e Camadas (aplicação)
 1. [Vídeo - YouTube:  what is TCP/IP and OSI? // FREE CCNA // EP 3](https://www.youtube.com/watch?v=CRdL1PcherM)
@@ -71,7 +71,7 @@
 1. [Redes e Internet - Princípios gerais (TANENBAUM, 2003)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/REDES-internet-principios.pdf)
 2. [Camadas e Protocolos em Redes (OSI e TCP/IP) (***Importante***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/REDES-Material-Complementar-CAMADAS-e-PROTOCOLOS.pdf)
 3. [Resumo comandos para visualizar informações de TCP/IP](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/REDES-Material-Complementar-COMANDOS-para-VISUALIZAR-INFORMACOES-TCP_IP.pdf)
-4. [Resumo ilustrativo de como se processa uma página Web (alterado de Kurose; Ross (2017) (***Novo***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/REDES-Material-Suplementar-como_se_processa_uma_solicitacao_pagina_Web.pdf)
+4. [Resumo ilustrativo de como se processa uma página Web (alterado de Kurose; Ross (2017)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/REDES-Material-Suplementar-como_se_processa_uma_solicitacao_pagina_Web.pdf)
 
 
 ### REDES: artigos e referências (histórias) em Internet
