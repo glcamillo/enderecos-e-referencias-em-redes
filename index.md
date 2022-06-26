@@ -32,9 +32,6 @@
 6. [Lavação - Arquivo de tempos de serviço (***Novo***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/lavacao-dados-temposervicos-100.dst)
 7. [Atividade ***Avaliativa*** II](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7523-atvd-aval-2-pratica-dados-lavacao.pdf)
 
-### Observação quanto aos envios de arquivos.
-1. ***Nomear*** como segue: DEC7xxx-atvd-avaliativa-XX-NOME_ALUNO-2022-06-DD.\[pdf\|odt\|doc\]
-
 ## Materiais para as disciplinas de Redes e de Modelagem e Simulação da UFSC
 
 ### Redes de Computadores - Notas de Aula - Introdução
@@ -47,9 +44,6 @@
 3. [Redes sem Fio - WLAN e Redes Móveis](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-02-redes_sem_fio-e-redes_moveis.pdf)
 
 
-#### Modelagem e Simulação
-1. [Notas de Aula (***Novo***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7523-modelagem-e-simulacao-NOTAS_AULA.pdf)
-
 ### Redes de Computadores - materiais de referência (***Novo***)
 1. Bibliografia complementar: LIVRO disponibilizado na licença Creative Commons: DORDAL, Peter L. ***An Introduction to Computer Networks***. Second Ed. Department of Computer Science:Loyola University Chicago. Disponível:[https://intronetworks.cs.luc.edu/current2/html/index.html](https://intronetworks.cs.luc.edu/current2/html/index.html)
 2. A SANS disponibiliza documentos em forma de _Cheat_ _Sheets_:[https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
@@ -57,9 +51,9 @@
 4. SANS _Cheat_ _Sheets_: IPv6 (formatos e campos da unidade de dados do protocolo de rede IPv6)(https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/SANS-CheatSheets-ipv6_tcpip_pocketguide.pdf)
 
 ### Redes de Computadores - Vídeos sobre TCP/IP, OSI da ISO e Camadas (aplicação)
-1. [Vídeo - YouTube:  what is TCP/IP and OSI? // FREE CCNA // EP 3](https://www.youtube.com/watch?v=CRdL1PcherM)
+1. [Vídeo - YouTube: what is TCP/IP and OSI? // FREE CCNA // EP 3](https://www.youtube.com/watch?v=CRdL1PcherM)
 2. [Vídeo - YouTube: REAL LIFE example!! (TCP/IP and OSI layers) // FREE CCNA // EP 4](https://www.youtube.com/watch?v=3kfO61Mensg) 
-3. [Vídeo - YouTube:   how the OSI model works on YouTube (Application and Transport Layers) // FREE CCNA // EP 5](https://www.youtube.com/watch?v=oIRkXulqJA4)
+3. [Vídeo - YouTube: how the OSI model works on YouTube (Application and Transport Layers) // FREE CCNA // EP 5](https://www.youtube.com/watch?v=oIRkXulqJA4)
 
 ### Redes de Computadores - Vídeos sobre TCP/IP (camada rede e de enlace)
 1. [Vídeo - YouTube: How Data moves through the Internet - Networking Fundamentals](https://www.youtube.com/watch?v=YJGGYKAV4pA)
@@ -97,6 +91,13 @@
 8. [NIC - Registro (domínios) https://registro.br/](https://registro.br/)
 9. [RNP -Rede Ipê (rede acadêmica brasileira) https://www.rnp.br/sistema-rnp/rede-ipe](https://www.rnp.br/sistema-rnp/rede-ipe)
 10. [RNP - Pontos de Presença (PoPs) https://www.rnp.br/sistema-rnp/pontos-de-presenca](https://www.rnp.br/sistema-rnp/pontos-de-presenca)
+11. [Teste Internet - Is your internet up to date?  (***Novo***)](https://www.internet.nl/)
+12. [Web - Can I Use - Compatibilidade  (***Novo***)](https://caniuse.com/)
+13. [Web - HTML5 - teste (***Novo***)](https://html5test.com/)
+14. [Web - Sítios up/down (***Novo***)](https://www.isitdownrightnow.com/)
+15. [HTTP3 - Check (***Novo***)](https://http3check.net/)
+16. [TLS/SSL - Check (***Novo***)](https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html)
+17. [TCP Ports - scan for open ports (***Novo***)](https://pentest-tools.com/network-vulnerability-scanning/tcp-port-scanner-online-nmap)
 
 ### REDES: vídeos educativos sobre a Internet brasileira e sobre protocolos da Internet
 
