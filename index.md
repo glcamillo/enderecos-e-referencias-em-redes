@@ -92,12 +92,20 @@
 9. [RNP -Rede Ipê (rede acadêmica brasileira) https://www.rnp.br/sistema-rnp/rede-ipe](https://www.rnp.br/sistema-rnp/rede-ipe)
 10. [RNP - Pontos de Presença (PoPs) https://www.rnp.br/sistema-rnp/pontos-de-presenca](https://www.rnp.br/sistema-rnp/pontos-de-presenca)
 11. [Teste Internet - Is your internet up to date?  (***Novo***)](https://www.internet.nl/)
-12. [Web - Can I Use - Compatibilidade  (***Novo***)](https://caniuse.com/)
-13. [Web - HTML5 - teste (***Novo***)](https://html5test.com/)
-14. [Web - Sítios up/down (***Novo***)](https://www.isitdownrightnow.com/)
-15. [HTTP3 - Check (***Novo***)](https://http3check.net/)
-16. [TLS/SSL - Check (***Novo***)](https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html)
-17. [TCP Ports - scan for open ports (***Novo***)](https://pentest-tools.com/network-vulnerability-scanning/tcp-port-scanner-online-nmap)
+12. [TCP Ports - scan for open ports (***Novo***)](https://pentest-tools.com/network-vulnerability-scanning/tcp-port-scanner-online-nmap)
+
+### REDES: HTTP, Web e REST APIs
+1. [Cloudflare - HTTP/2 x HTTP/1.1 (***Novo***) https://www.cloudflare.com/pt-br/learning/performance/http2-vs-http1.1/](https://www.cloudflare.com/pt-br/learning/performance/http2-vs-http1.1/)
+2. [Cloudflare - HTTP/3 (***Novo***) https://www.cloudflare.com/pt-br/learning/performance/what-is-http3/]([https://www.cloudflare.com/pt-br/learning/performance/http2-vs-http1.1/](https://www.cloudflare.com/pt-br/learning/performance/what-is-http3/)
+3. [FIELDING, Roy Thomas (2000) Architectural Styles and REST (***Novo***)https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
+4. [Nordic APIs - REST vs SOAP: The Key Features and Differences (***Novo***) https://nordicapis.com/rest-vs-soap-the-key-features-and-differences/](https://nordicapis.com/rest-vs-soap-the-key-features-and-differences/)
+5. [Nordic APIs - LiveCast: API Design Best Practices (***Novo***)](https://nordicapis.com/events/api-design-best-practices/)
+6. [Web - Can I Use - Compatibilidade  (***Novo***) https://caniuse.com/](https://caniuse.com/)
+7. [Web - HTML5 - teste (***Novo***) https://html5test.com/](https://html5test.com/)
+8. [Netcraft - servidores Web mais usados (***Novo***)) https://news.netcraft.com/](https://news.netcraft.com/)
+9. [Web - Sítios up/down (***Novo***)https://www.isitdownrightnow.com/](https://www.isitdownrightnow.com/)
+10. [Web - Sítios up/down (***Novo***) https://downdetector.com/](https://downdetector.com/)
+11. 10. [TLS/SSL - Check (***Novo***)](https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html)
 
 ### REDES: vídeos educativos sobre a Internet brasileira e sobre protocolos da Internet
 
