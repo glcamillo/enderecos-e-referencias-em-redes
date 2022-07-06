@@ -45,10 +45,10 @@
 
 
 ### Redes de Computadores - materiais de referência (***Novo***)
-1. Bibliografia complementar: LIVRO disponibilizado na licença Creative Commons: DORDAL, Peter L. ***An Introduction to Computer Networks***. Second Ed. Department of Computer Science:Loyola University Chicago. Disponível:[https://intronetworks.cs.luc.edu/current2/html/index.html](https://intronetworks.cs.luc.edu/current2/html/index.html)
-2. A SANS disponibiliza documentos em forma de _Cheat_ _Sheets_:[https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
-3. SANS _Cheat_ _Sheets_: TCP/IP e tcpdump (formatos e campos das unidades de dados dos protocolos de camda de rede e de transporte)(https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/SANS-CheatSheets-TCPIPCheatsheet2021.pdf)
-4. SANS _Cheat_ _Sheets_: IPv6 (formatos e campos da unidade de dados do protocolo de rede IPv6)(https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/SANS-CheatSheets-ipv6_tcpip_pocketguide.pdf)
+1. Bibliografia complementar: LIVRO disponibilizado na licença Creative Commons: DORDAL, Peter L. ***An Introduction to Computer Networks***. Second Ed. Department of Computer Science:Loyola University Chicago. Disponível: [https://intronetworks.cs.luc.edu/current2/html/index.html](https://intronetworks.cs.luc.edu/current2/html/index.html)
+2. A SANS disponibiliza documentos em forma de _Cheat_ _Sheets_: [https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
+3. SANS _Cheat_ _Sheets_: [TCP/IP e tcpdump (formatos e campos das unidades de dados dos protocolos de camda de rede e de transporte)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/SANS-CheatSheets-TCPIPCheatsheet2021.pdf)
+4. SANS _Cheat_ _Sheets_: [IPv6 (formatos e campos da unidade de dados do protocolo de rede IPv6)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/SANS-CheatSheets-ipv6_tcpip_pocketguide.pdf)
 
 ### Redes de Computadores - Vídeos sobre TCP/IP, OSI da ISO e Camadas (aplicação)
 1. [Vídeo - YouTube: what is TCP/IP and OSI? // FREE CCNA // EP 3](https://www.youtube.com/watch?v=CRdL1PcherM)
@@ -81,31 +81,37 @@
 
 
 ### REDES: alguns sítos para pesquisa de informações de rede
-1. [HE Network Tools - Internet Map https://www.he.net/3d-map/](https://www.he.net/3d-map/)
-2. [NIC - IPv6 - Teste (e teste completo) https://ipv6.br/](https://ipv6.br/))
-3. [NIC - Simet - Teste de conexão https://beta.simet.nic.br/](https://beta.simet.nic.br/)
-4. [NIC - IX (ponto de troca de tráfego) - agregado https://ix.br/trafego/agregado/sp](https://ix.br/trafego/agregado/sp)
-5. [NIC - Mapa de Sistemas Autônomos (SA) https://mapadeas.ceptro.br/](https://mapadeas.ceptro.br/)
-6. [CERT (Centro de Estudos, Resposta e Tratamento de Incidentes de Segurança no Brasil) https://www.cert.br/](https://www.cert.br/)
-7. [NIC - Cartilha de Segurança da Internet https://cartilha.cert.br/](https://cartilha.cert.br/)
-8. [NIC - Registro (domínios) https://registro.br/](https://registro.br/)
-9. [RNP -Rede Ipê (rede acadêmica brasileira) https://www.rnp.br/sistema-rnp/rede-ipe](https://www.rnp.br/sistema-rnp/rede-ipe)
-10. [RNP - Pontos de Presença (PoPs) https://www.rnp.br/sistema-rnp/pontos-de-presenca](https://www.rnp.br/sistema-rnp/pontos-de-presenca)
-11. [Teste Internet - Is your internet up to date?  (***Novo***)](https://www.internet.nl/)
-12. [TCP Ports - scan for open ports (***Novo***)](https://pentest-tools.com/network-vulnerability-scanning/tcp-port-scanner-online-nmap)
+1. HE Network Tools - Internet Map [https://www.he.net/3d-map/](https://www.he.net/3d-map/)
+2. NIC - IPv6 - Teste (e teste completo) [https://ipv6.br/](https://ipv6.br/))
+3. NIC - Simet - Teste de conexão [https://beta.simet.nic.br/](https://beta.simet.nic.br/)
+4. NIC - IX (ponto de troca de tráfego) - agregado [https://ix.br/trafego/agregado/sp](https://ix.br/trafego/agregado/sp)
+5. NIC - Mapa de Sistemas Autônomos (SA) [https://mapadeas.ceptro.br/](https://mapadeas.ceptro.br/)
+6. CERT (Centro de Estudos, Resposta e Tratamento de Incidentes de Segurança no Brasil) [https://www.cert.br/](https://www.cert.br/)
+7. NIC - Cartilha de Segurança da Internet [https://cartilha.cert.br/](https://cartilha.cert.br/)
+8. NIC - Registro (domínios) [https://registro.br/](https://registro.br/)
+9. RNP -Rede Ipê (rede acadêmica brasileira) [https://www.rnp.br/sistema-rnp/rede-ipe](https://www.rnp.br/sistema-rnp/rede-ipe)
+10. RNP - Pontos de Presença (PoPs) [https://www.rnp.br/sistema-rnp/pontos-de-presenca](https://www.rnp.br/sistema-rnp/pontos-de-presenca)
+11. Teste Internet - Is your internet up to date?  (***Novo***)[https://www.internet.nl/](https://www.internet.nl/)
+12. TCP Ports - [scan for open ports (***Novo***)](https://pentest-tools.com/network-vulnerability-scanning/tcp-port-scanner-online-nmap)
 
 ### REDES: HTTP, Web e REST APIs
-1. [Cloudflare - HTTP/2 x HTTP/1.1 (***Novo***) https://www.cloudflare.com/pt-br/learning/performance/http2-vs-http1.1/](https://www.cloudflare.com/pt-br/learning/performance/http2-vs-http1.1/)
-2. [Cloudflare - HTTP/3 (***Novo***) https://www.cloudflare.com/pt-br/learning/performance/what-is-http3/]([https://www.cloudflare.com/pt-br/learning/performance/http2-vs-http1.1/](https://www.cloudflare.com/pt-br/learning/performance/what-is-http3/)
-3. [FIELDING, Roy Thomas (2000) Architectural Styles and REST (***Novo***)https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
-4. [Nordic APIs - REST vs SOAP: The Key Features and Differences (***Novo***) https://nordicapis.com/rest-vs-soap-the-key-features-and-differences/](https://nordicapis.com/rest-vs-soap-the-key-features-and-differences/)
-5. [Nordic APIs - LiveCast: API Design Best Practices (***Novo***)](https://nordicapis.com/events/api-design-best-practices/)
-6. [Web - Can I Use - Compatibilidade  (***Novo***) https://caniuse.com/](https://caniuse.com/)
-7. [Web - HTML5 - teste (***Novo***) https://html5test.com/](https://html5test.com/)
-8. [Netcraft - servidores Web mais usados (***Novo***)) https://news.netcraft.com/](https://news.netcraft.com/)
-9. [Web - Sítios up/down (***Novo***)https://www.isitdownrightnow.com/](https://www.isitdownrightnow.com/)
-10. [Web - Sítios up/down (***Novo***) https://downdetector.com/](https://downdetector.com/)
-11. 10. [TLS/SSL - Check (***Novo***)](https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html)
+1. Cloudflare - HTTP/2 x HTTP/1.1 (***Novo***) [https://www.cloudflare.com/pt-br/learning/performance/http2-vs-http1.1/](https://www.cloudflare.com/pt-br/learning/performance/http2-vs-http1.1/)
+2. Cloudflare - HTTP/3 (***Novo***) [https://www.cloudflare.com/pt-br/learning/performance/what-is-http3/](https://www.cloudflare.com/pt-br/learning/performance/what-is-http3/)
+3. FIELDING, Roy Thomas (2000) Architectural Styles and REST (***Novo***) [https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
+4. Nordic APIs - REST vs SOAP: The Key Features and Differences (***Novo***) [https://nordicapis.com/rest-vs-soap-the-key-features-and-differences/](https://nordicapis.com/rest-vs-soap-the-key-features-and-differences/)
+5. Nordic APIs - LiveCast: API Design Best Practices (***Novo***)[https://nordicapis.com/events/api-design-best-practices/](https://nordicapis.com/events/api-design-best-practices/)
+6. Web - Can I Use - Compatibilidade  (***Novo***) [https://caniuse.com/](https://caniuse.com/)
+7. Web - HTML5 - teste (***Novo***) [https://html5test.com/](https://html5test.com/)
+8. Netcraft - servidores Web mais usados (***Novo***)) [https://news.netcraft.com/](https://news.netcraft.com/)
+9. Web - Sítios up/down (***Novo***) [https://www.isitdownrightnow.com/](https://www.isitdownrightnow.com/)
+10. Web - Sítios up/down (***Novo***) [https://downdetector.com/](https://downdetector.com/)
+11. TLS/SSL - Check (***Novo***) [https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html](https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html)
+
+### REDES: informações gerais
+1. Base64 - conversão (***Novo***) [https://www.motobit.com/util/base64-decoder-encoder.as}p](https://www.motobit.com/util/base64-decoder-encoder.as}p)
+2. CyberChef - códigos e respectivas conversões além de cripto [https://gchq.github.io/CyberChef/](https://gchq.github.io/CyberChef/)
+
+
 
 ### REDES: vídeos educativos sobre a Internet brasileira e sobre protocolos da Internet
 
@@ -126,7 +132,7 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 3. [RNP - Rede Nacional de Pesquisa https://www.rnp.br/](https://www.rnp.br/)
 
 ### REDES: organizações internacionais responsáveis por protocolos e atribuição de nomes/endereços
-1. [IETF (Internet Engineering Task Force) https://www.ietf.org/](https://www.ietf.org/)
-2. [IETF - Pesquisa de Request for Comments (RFCs) https://www.rfc-editor.org/](https://www.rfc-editor.org/) 
-3. [IANA - autoridade para atribuição de nomes/endereços IP/números de protocolos (https://www.iana.org/)](https://www.iana.org/)
+1. IETF (Internet Engineering Task Force) [https://www.ietf.org/](https://www.ietf.org/)
+2. IETF - Pesquisa de Request for Comments (RFCs) [https://www.rfc-editor.org/](https://www.rfc-editor.org/) 
+3. IANA - autoridade para atribuição de nomes/endereços IP/números de protocolos [https://www.iana.org/](https://www.iana.org/)
 
