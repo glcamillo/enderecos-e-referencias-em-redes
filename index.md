@@ -49,6 +49,7 @@
 2. A SANS disponibiliza documentos em forma de _Cheat_ _Sheets_: [https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
 3. SANS _Cheat_ _Sheets_: [TCP/IP e tcpdump (formatos e campos das unidades de dados dos protocolos de camda de rede e de transporte)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/SANS-CheatSheets-TCPIPCheatsheet2021.pdf)
 4. SANS _Cheat_ _Sheets_: [IPv6 (formatos e campos da unidade de dados do protocolo de rede IPv6)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/SANS-CheatSheets-ipv6_tcpip_pocketguide.pdf)
+5. IPv6 Cheat Sheet by Jens Roesen [https://www.roesen.org/files/ipv6_cheat_sheet.pdf](https://www.roesen.org/files/ipv6_cheat_sheet.pdf)
 
 ### Redes de Computadores - Vídeos sobre TCP/IP, OSI da ISO e Camadas (aplicação)
 1. [Vídeo - YouTube: what is TCP/IP and OSI? // FREE CCNA // EP 3](https://www.youtube.com/watch?v=CRdL1PcherM)
