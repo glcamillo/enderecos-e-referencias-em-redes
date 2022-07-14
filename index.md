@@ -23,14 +23,6 @@
 2. [Atividade Avaliativa I](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7557-tarefa_aval-1-internet-organismos-e-info-e-artigo.pdf)
 3. [Atividade ***Avaliativa*** II](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7557-atvd_aval-2-questionario.odt)
 
-### DEC7523 - Modelagem e Simulação (ENC)
-1. [Atividade de seminário e artigo](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7523-atividade-1-artigo-e-seminario.pdf)
-2. [Artigo Lang (2021)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/LANG-2021-open-source-discrete-event-simul-sw-for-app-in-production-and-logistics.pdf)
-3. [Pedágio - Arquivo de chegadas](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/pedagio-chegadas.dst)
-4. [Pedágio - Arquivo de tempos de serviço](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/pedagio-servico-rounded.dst)
-5. [Lavação - Arquivo de chegadas (***Retificado***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/lavacao-dados-chegadas-110.dst)
-6. [Lavação - Arquivo de tempos de serviço (***Novo***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/lavacao-dados-temposervicos-100.dst)
-7. [Atividade ***Avaliativa*** II](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7523-atvd-aval-2-pratica-dados-lavacao.pdf)
 
 ## Materiais para as disciplinas de Redes e de Modelagem e Simulação da UFSC
 
@@ -95,6 +87,13 @@
 11. Teste Internet - Is your internet up to date?  (***Novo***)[https://www.internet.nl/](https://www.internet.nl/)
 12. TCP Ports - [scan for open ports (***Novo***)](https://pentest-tools.com/network-vulnerability-scanning/tcp-port-scanner-online-nmap)
 
+### REDES: DNS e NTP
+1. DNS-OARC (Domain Name System Operations Analysis and Research Center) 
+2. Root-Servers: 13 servidores DNS root globais. [https://root-servers.org/](https://root-servers.org/)
+3. IANA: arquivos com informações sobre servidores root e sobre domínios TLD [https://www.iana.org/domains/root/files](https://www.iana.org/domains/root/files)
+4. DNS Terminologia (IETF revisou normas anteriores para consistência de termos) [https://www.rfc-editor.org/rfc/rfc8499](https://www.rfc-editor.org/rfc/rfc8499)
+5. NIC - NTP.br: serviço de tempo para Internet provido pelo NIC.br [https://ntp.br/](https://ntp.br/)
+
 ### REDES: HTTP, Web e REST APIs
 1. Cloudflare - HTTP/2 x HTTP/1.1 (***Novo***) [https://www.cloudflare.com/pt-br/learning/performance/http2-vs-http1.1/](https://www.cloudflare.com/pt-br/learning/performance/http2-vs-http1.1/)
 2. Cloudflare - HTTP/3 (***Novo***) [https://www.cloudflare.com/pt-br/learning/performance/what-is-http3/](https://www.cloudflare.com/pt-br/learning/performance/what-is-http3/)
@@ -107,6 +106,10 @@
 9. Web - Sítios up/down (***Novo***) [https://www.isitdownrightnow.com/](https://www.isitdownrightnow.com/)
 10. Web - Sítios up/down (***Novo***) [https://downdetector.com/](https://downdetector.com/)
 11. TLS/SSL - Check (***Novo***) [https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html](https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html)
+
+### REDES: protocolo IP (IPv4 e IPv6)
+1. NIC - IPv6: página com informações e calculadora de máscara [https://www.ipv6.br/](https://www.ipv6.br/)
+
 
 ### REDES: informações gerais
 1. Base64 - conversão (***Novo***) [https://www.motobit.com/util/base64-decoder-encoder.as}p](https://www.motobit.com/util/base64-decoder-encoder.as}p)
@@ -136,4 +139,17 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 1. IETF (Internet Engineering Task Force) [https://www.ietf.org/](https://www.ietf.org/)
 2. IETF - Pesquisa de Request for Comments (RFCs) [https://www.rfc-editor.org/](https://www.rfc-editor.org/) 
 3. IANA - autoridade para atribuição de nomes/endereços IP/números de protocolos [https://www.iana.org/](https://www.iana.org/)
+
+
+## Atividades, exercícios e trabalhos
+
+
+### DEC7523 - Modelagem e Simulação (ENC)
+1. [Atividade de seminário e artigo](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7523-atividade-1-artigo-e-seminario.pdf)
+2. [Artigo Lang (2021)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/LANG-2021-open-source-discrete-event-simul-sw-for-app-in-production-and-logistics.pdf)
+3. [Pedágio - Arquivo de chegadas](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/pedagio-chegadas.dst)
+4. [Pedágio - Arquivo de tempos de serviço](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/pedagio-servico-rounded.dst)
+5. [Lavação - Arquivo de chegadas (***Retificado***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/lavacao-dados-chegadas-110.dst)
+6. [Lavação - Arquivo de tempos de serviço (***Novo***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/lavacao-dados-temposervicos-100.dst)
+7. [Atividade ***Avaliativa*** II](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7523-atvd-aval-2-pratica-dados-lavacao.pdf)
 
