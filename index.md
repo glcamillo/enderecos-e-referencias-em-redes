@@ -152,4 +152,5 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 5. [Lavação - Arquivo de chegadas (***Retificado***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/lavacao-dados-chegadas-110.dst)
 6. [Lavação - Arquivo de tempos de serviço (***Novo***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/lavacao-dados-temposervicos-100.dst)
 7. [Atividade ***Avaliativa*** II](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7523-atvd-aval-2-pratica-dados-lavacao.pdf)
+8. [DEC7523-atividade-2-pratica-dados-pedagio.pdf](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7523-atividade-2-pratica-dados-pedagio.pdf)
 
