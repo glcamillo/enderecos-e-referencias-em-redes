@@ -1,29 +1,3 @@
-## Atividades, exercícios e trabalhos
-
-### Atividade prática: TCP e uso do Wireshark (DEC7126 e DEC7557)
-1. [Atividade (editável) para conexão à Internet e visualização de informações de TCP (abertura e fechamento de conexão; e, tráfego dados(***Novo***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7126-e-DEC7557-atividade-conexao-TCP-e-Wireshar.odt)
-2. [Arquivo contendo captura de pacotes para o exemplo da atividade (***Novo***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/REDES-pratica-TCP-open-and-close-con-with-wireshark-2022-06-08.pcapng)
-
-
-### DEC7126 - Redes de Computadores I (TIC)
-1. [Atividade de prática em redes](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7126-atividade-1-praticas.pdf)
-2. [Atividade Avaliativa I](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7126-tarefa_aval-1-internet-organismos-e-info.pdf)
-3. [Atividade ***Avaliativa*** II](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7126-atvd_aval-2-questionario.odt)
-4. [Plano de Ensino (***Novo***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/plano-ensino-2022.1-DEC7126-Redes-de-Computadores-I.pdf)
-
-### DEC7128 - Redes de Computadores II (TIC)
-1. [Atividade de prática em redes](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7128-atividade-1-praticas.pdf)
-2. [Atividade Avaliativa I](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7128-tarefa_aval-1-internet-organismos-e-info.pdf)
-3. [Atividade de Seminário II](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7128-atvd_aval-2-seminario.pdf)
-4. [Atividade ***Avaliativa*** III](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7128-atvd_aval-3-questionario.odt)
-5. [Plano de Ensino (***Novo***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/plano-ensino-2022.1-DEC7126-Redes-de-Computadores-II.pdf)
-
-### DEC7557 - Redes de Computadores (ENC)
-1. [Atividade de prática em redes](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7557-atividade-1-praticas.pdf)
-2. [Atividade Avaliativa I](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7557-tarefa_aval-1-internet-organismos-e-info-e-artigo.pdf)
-3. [Atividade ***Avaliativa*** II](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7557-atvd_aval-2-questionario.odt)
-
-
 ## Materiais para as disciplinas de Redes e de Modelagem e Simulação da UFSC
 
 ### Redes de Computadores - Notas de Aula - Introdução
@@ -36,7 +10,7 @@
 3. [Redes sem Fio - WLAN e Redes Móveis](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-02-redes_sem_fio-e-redes_moveis.pdf)
 
 
-### Redes de Computadores - materiais de referência (***Novo***)
+### Redes de Computadores - materiais de referência
 1. Bibliografia complementar: LIVRO disponibilizado na licença Creative Commons: DORDAL, Peter L. ***An Introduction to Computer Networks***. Second Ed. Department of Computer Science:Loyola University Chicago. Disponível: [https://intronetworks.cs.luc.edu/current2/html/index.html](https://intronetworks.cs.luc.edu/current2/html/index.html)
 2. A SANS disponibiliza documentos em forma de _Cheat_ _Sheets_: [https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
 3. SANS _Cheat_ _Sheets_: [TCP/IP e tcpdump (formatos e campos das unidades de dados dos protocolos de camda de rede e de transporte)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/SANS-CheatSheets-TCPIPCheatsheet2021.pdf)
@@ -61,7 +35,7 @@
 4. [Resumo ilustrativo de como se processa uma página Web (alterado de Kurose; Ross (2017)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/REDES-Material-Suplementar-como_se_processa_uma_solicitacao_pagina_Web.pdf)
 
 
-### REDES: artigos e referências (histórias) em Internet
+### REDES: artigos e referências (históricas) em Internet (tratam dos princípios das redes forjaram a Internet)
 1. [CERF; KAHN, 1974 **A Protocol For Packet Network Intercommunication**](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/CERF-e-KAHN-1974-a-protocol-for-packet-network-intercommunication.pdf)
 2. [CERF, Vinton G.; CAIN, Edward, 1883 ***The DoD internet architecture model***](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/CERF-e-CAIN-1983-the-DoD-internet-architecture-model.pdf)
 3. [RFC1958 June 1996 **Architectural Principles of the Internet**](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/RFC1958-Architectural-Principles-of-the-Internet-jun-1996.txt.pdf)
@@ -73,7 +47,7 @@
 9. [BRADNER, 2006 - The End of End-to-End Security?](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/BRADNER-2006-The-End-of-End-to-End-Security.pdf)
 
 
-### REDES: alguns sítos para pesquisa de informações de rede
+### REDES: informações e dados em REDES e Internet
 1. HE Network Tools - Internet Map [https://www.he.net/3d-map/](https://www.he.net/3d-map/)
 2. NIC - IPv6 - Teste (e teste completo) [https://ipv6.br/](https://ipv6.br/))
 3. NIC - Simet - Teste de conexão [https://beta.simet.nic.br/](https://beta.simet.nic.br/)
@@ -82,12 +56,12 @@
 6. CERT (Centro de Estudos, Resposta e Tratamento de Incidentes de Segurança no Brasil) [https://www.cert.br/](https://www.cert.br/)
 7. NIC - Cartilha de Segurança da Internet [https://cartilha.cert.br/](https://cartilha.cert.br/)
 8. NIC - Registro (domínios) [https://registro.br/](https://registro.br/)
-9. RNP -Rede Ipê (rede acadêmica brasileira) [https://www.rnp.br/sistema-rnp/rede-ipe](https://www.rnp.br/sistema-rnp/rede-ipe)
+9. RNP - Rede Ipê (rede acadêmica brasileira) [https://www.rnp.br/sistema-rnp/rede-ipe](https://www.rnp.br/sistema-rnp/rede-ipe)
 10. RNP - Pontos de Presença (PoPs) [https://www.rnp.br/sistema-rnp/pontos-de-presenca](https://www.rnp.br/sistema-rnp/pontos-de-presenca)
-11. Teste Internet - Is your internet up to date?  (***Novo***)[https://www.internet.nl/](https://www.internet.nl/)
-12. TCP Ports - [scan for open ports (***Novo***)](https://pentest-tools.com/network-vulnerability-scanning/tcp-port-scanner-online-nmap)
+11. Teste Internet - Is your internet up to date?[https://www.internet.nl/](https://www.internet.nl/)
+12. TCP Ports - [scan for open ports](https://pentest-tools.com/network-vulnerability-scanning/tcp-port-scanner-online-nmap)
 
-### REDES: DNS e NTP
+### REDES: informações e dados sobre protocolos e serviços: DNS, BGP e NTP
 1. DNS-OARC (Domain Name System Operations Analysis and Research Center) 
 2. Root-Servers: 13 servidores DNS root globais. [https://root-servers.org/](https://root-servers.org/)
 3. IANA: arquivos com informações sobre servidores root e sobre domínios TLD [https://www.iana.org/domains/root/files](https://www.iana.org/domains/root/files)
@@ -112,7 +86,7 @@
 
 
 ### REDES: informações gerais
-1. Base64 - conversão (***Novo***) [https://www.motobit.com/util/base64-decoder-encoder.as}p](https://www.motobit.com/util/base64-decoder-encoder.as}p)
+1. Base64 - conversão [https://www.motobit.com/util/base64-decoder-encoder.as}p](https://www.motobit.com/util/base64-decoder-encoder.as}p)
 2. CyberChef - códigos e respectivas conversões além de cripto [https://gchq.github.io/CyberChef/](https://gchq.github.io/CyberChef/)
 
 
@@ -139,18 +113,3 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 1. IETF (Internet Engineering Task Force) [https://www.ietf.org/](https://www.ietf.org/)
 2. IETF - Pesquisa de Request for Comments (RFCs) [https://www.rfc-editor.org/](https://www.rfc-editor.org/) 
 3. IANA - autoridade para atribuição de nomes/endereços IP/números de protocolos [https://www.iana.org/](https://www.iana.org/)
-
-
-## Atividades, exercícios e trabalhos
-
-
-### DEC7523 - Modelagem e Simulação (ENC)
-1. [Atividade de seminário e artigo](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7523-atividade-1-artigo-e-seminario.pdf)
-2. [Artigo Lang (2021)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/LANG-2021-open-source-discrete-event-simul-sw-for-app-in-production-and-logistics.pdf)
-3. [Pedágio - Arquivo de chegadas](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/pedagio-chegadas.dst)
-4. [Pedágio - Arquivo de tempos de serviço](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/pedagio-servico-rounded.dst)
-5. [Lavação - Arquivo de chegadas (***Retificado***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/lavacao-dados-chegadas-110.dst)
-6. [Lavação - Arquivo de tempos de serviço (***Novo***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/lavacao-dados-temposervicos-100.dst)
-7. [Atividade ***Avaliativa*** II](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7523-atvd-aval-2-pratica-dados-lavacao.pdf)
-8. [DEC7523-atividade-2-pratica-dados-pedagio.pdf](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/DEC7523-atividade-2-pratica-dados-pedagio.pdf)
-
