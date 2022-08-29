@@ -1,14 +1,4 @@
-## Materiais para as disciplinas de Redes e de Modelagem e Simulação da UFSC
-
-### Redes de Computadores - Notas de Aula - Introdução
-1. [Redes - Introdução - Primeira - Parte](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-01-introducao-parte_1.pdf)
-2. [Redes - Introdução - Segunda - Parte](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-01-introducao-parte_2.pdf)
-
-### Redes de Computadores - Notas de Aula - aula 2
-1. [Redes - Camada de Transporte - TCP e UDP (***Revisado***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-02-camada-transporte.pdf)
-2. [Redes - Camada de Transporte - novos desenvolvimentos](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-02-camada-transporte-novos-protocolos.pdf)
-3. [Redes sem Fio - WLAN e Redes Móveis](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-02-redes_sem_fio-e-redes_moveis.pdf)
-
+## Redes de Computadores
 
 ### Redes de Computadores - materiais de referência
 1. Bibliografia complementar: LIVRO disponibilizado na licença Creative Commons: DORDAL, Peter L. ***An Introduction to Computer Networks***. Second Ed. Department of Computer Science:Loyola University Chicago. Disponível: [https://intronetworks.cs.luc.edu/current2/html/index.html](https://intronetworks.cs.luc.edu/current2/html/index.html)
@@ -60,6 +50,13 @@
 10. RNP - Pontos de Presença (PoPs) [https://www.rnp.br/sistema-rnp/pontos-de-presenca](https://www.rnp.br/sistema-rnp/pontos-de-presenca)
 11. Teste Internet - Is your internet up to date?[https://www.internet.nl/](https://www.internet.nl/)
 12. TCP Ports - [scan for open ports](https://pentest-tools.com/network-vulnerability-scanning/tcp-port-scanner-online-nmap)
+
+
+### REDES: informações em redes (celulares
+1. HE (Hurricane Electric) - informação de AS referente ao ISP [bgp.he.net](https://bgp.he.net/)
+2. Banco de dados de células em redes de telefonia [opencellid.org](https://opencellid.org/)
+3. Busca de células em redes de telefonia [cellidfinder.com](https://cellidfinder.com/)
+4. Localização baseada em endereço IP [iplocation.com](https://iplocation.com/)
 
 ### REDES: informações e dados sobre protocolos e serviços: DNS, BGP e NTP
 1. DNS-OARC (Domain Name System Operations Analysis and Research Center) 
@@ -113,3 +110,14 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 1. IETF (Internet Engineering Task Force) [https://www.ietf.org/](https://www.ietf.org/)
 2. IETF - Pesquisa de Request for Comments (RFCs) [https://www.rfc-editor.org/](https://www.rfc-editor.org/) 
 3. IANA - autoridade para atribuição de nomes/endereços IP/números de protocolos [https://www.iana.org/](https://www.iana.org/)
+
+## Segurança
+
+### Uso de criptografia em sistemas aplicativos: cifragem e assinaturas digitais de email e arquivos
+1. [GPG for Windows - gpg4win.org](https://gpg4win.org/)
+2. [GPG for MacOS - gpgtools.org](https://gpgtools.org/)
+3. [GPG for Android - openkeychain.org](https://www.openkeychain.org/)
+4. [GPG from GuardiaProject - inativo - guardianproject.info/archive/gnupg](https://guardianproject.info/archive/gnupg/)
+5. [GPG from GuardiaProject - GitHub - github.com/guardianproject/gnupg-for-android](https://github.com/guardianproject/gnupg-for-android)
+
+
