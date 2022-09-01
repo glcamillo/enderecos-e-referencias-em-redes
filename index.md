@@ -50,6 +50,7 @@
 10. RNP - Pontos de Presença (PoPs) [https://www.rnp.br/sistema-rnp/pontos-de-presenca](https://www.rnp.br/sistema-rnp/pontos-de-presenca)
 11. Teste Internet - Is your internet up to date?[https://www.internet.nl/](https://www.internet.nl/)
 12. TCP Ports - [scan for open ports](https://pentest-tools.com/network-vulnerability-scanning/tcp-port-scanner-online-nmap)
+13. Telia Carrier [Internet Exposed](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/20170215_Telia_Carrier_Internet_exposed_infographic_W10158xH4921.png)
 
 
 ### REDES: informações em redes (celulares
