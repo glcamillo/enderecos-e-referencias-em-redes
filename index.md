@@ -41,8 +41,8 @@ Materiais atualizados disponibilizados no Moodle (respectivas disciplinas).
 7. [MOORS, Tim, 2002 **A critical review of "end-to-end arguments in system design"**](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/MOORS-2002-critial-review-of-end-to-end-argument.pdf)
 8. [KOBAYASHI An End to the End-to-End Arguments](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/KOBAYASHI-An_End_to_the_End-to-End_Arguments.pdf)
 9. [BRADNER, 2006 - The End of End-to-End Security?](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/BRADNER-2006-The-End-of-End-to-End-Security.pdf)
-10. [IETF discussão sobre consolidação](https://www.ietf.org/blog/consolidation/)
-11. [IETF - Protocol and Engineering Effects of Consolidation - datatracker.ietf.org/doc/draft-lazanski-consolidation/](https://datatracker.ietf.org/doc/draft-lazanski-consolidation/)
+10. [IETF discussão sobre ***consolidação na Internet***](https://www.ietf.org/blog/consolidation/)
+11. [IETF - ***Protocol and Engineering Effects of Consolidation*** - datatracker.ietf.org/doc/draft-lazanski-consolidation/](https://datatracker.ietf.org/doc/draft-lazanski-consolidation/)
 
 
 ### REDES: informações e dados em REDES e Internet
@@ -52,7 +52,8 @@ Materiais atualizados disponibilizados no Moodle (respectivas disciplinas).
 4. NIC - Simet - Teste de conexão [beta.simet.nic.br/](https://beta.simet.nic.br/)
 5. NIC - IX (ponto de troca de tráfego) - agregado [ix.br/trafego/agregado/sp](https://ix.br/trafego/agregado/sp)
 6. NIC - Mapa de Sistemas Autônomos (SA) [mapadeas.ceptro.br/](https://mapadeas.ceptro.br/)
-7. IP Info [ipinfo.io](https://ipinfo.io/)
+7. IP Info - informações sobre o próprio IP [ipinfo.io](https://ipinfo.io/)
+8. MeuIP - informações sobre o próprio IP [meuip.com](http://meuip.com)
 9. NIC - Registro (domínios) [registro.br/](https://registro.br/)
 10. RNP - Rede Ipê (rede acadêmica brasileira) [www.rnp.br/sistema-rnp/rede-ipe](https://www.rnp.br/sistema-rnp/rede-ipe)
 11. RNP - Pontos de Presença (PoPs) [www.rnp.br/sistema-rnp/pontos-de-presenca](https://www.rnp.br/sistema-rnp/pontos-de-presenca)
@@ -86,7 +87,8 @@ Materiais atualizados disponibilizados no Moodle (respectivas disciplinas).
 7. DNS Terminologia (IETF revisou normas anteriores para consistência de termos) [www.rfc-editor.org/rfc/rfc8499](https://www.rfc-editor.org/rfc/rfc8499)
 8. NIC - NTP.br: serviço de tempo para Internet provido pelo NIC.br [ntp.br/](https://ntp.br/)
 9. Network Time Foundation: serviço de tempo a nível mundial (referência, documentação e implementação) [ntp.org](https://ntp.org/)
-10. Google Developers - serviço de tempo [developers.google.com/time](https://developers.google.com/time/)
+10. IANA - TIme Zone Databases [www.iana.org/time-zones](https://www.iana.org/time-zones)
+11. Google Developers - serviço de tempo [developers.google.com/time](https://developers.google.com/time/)
 
 ### REDES: HTTP, Web e REST APIs
 1. Cloudflare - HTTP/2 x HTTP/1.1 [www.cloudflare.com/pt-br/learning/performance/http2-vs-http1.1/](https://www.cloudflare.com/pt-br/learning/performance/http2-vs-http1.1/)
