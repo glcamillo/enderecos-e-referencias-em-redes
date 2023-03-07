@@ -19,6 +19,8 @@
 
 ### REDES: materiais de aula e complementares
 
+Materiais atualizados disponibilizados no Moodle (respectivas disciplinas).
+
 1. [Redes - introdução](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-01-introducao.pdf)
 2. [Redes - modelo OSI e arquitetura TCP/IP](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-02-modelo-referencia-OSI-e-arquitetura-TCPIP.pdf)
 3. [Redes - camada de transporte - TCP e UDP](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-03-camada-transporte.pdf)
@@ -39,52 +41,65 @@
 7. [MOORS, Tim, 2002 **A critical review of "end-to-end arguments in system design"**](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/MOORS-2002-critial-review-of-end-to-end-argument.pdf)
 8. [KOBAYASHI An End to the End-to-End Arguments](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/KOBAYASHI-An_End_to_the_End-to-End_Arguments.pdf)
 9. [BRADNER, 2006 - The End of End-to-End Security?](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/BRADNER-2006-The-End-of-End-to-End-Security.pdf)
+10. [IETF discussão sobre consolidação](https://www.ietf.org/blog/consolidation/)
+11. [IETF - Protocol and Engineering Effects of Consolidation - datatracker.ietf.org/doc/draft-lazanski-consolidation/](https://datatracker.ietf.org/doc/draft-lazanski-consolidation/)
 
 
 ### REDES: informações e dados em REDES e Internet
-1. HE Network Tools - Internet Map [https://www.he.net/3d-map/](https://www.he.net/3d-map/)
-2. NIC - IPv6 - Teste (e teste completo) [https://ipv6.br/](https://ipv6.br/))
-3. NIC - Simet - Teste de conexão [https://beta.simet.nic.br/](https://beta.simet.nic.br/)
-4. NIC - IX (ponto de troca de tráfego) - agregado [https://ix.br/trafego/agregado/sp](https://ix.br/trafego/agregado/sp)
-5. NIC - Mapa de Sistemas Autônomos (SA) [https://mapadeas.ceptro.br/](https://mapadeas.ceptro.br/)
-6. CERT (Centro de Estudos, Resposta e Tratamento de Incidentes de Segurança no Brasil) [https://www.cert.br/](https://www.cert.br/)
-7. NIC - Cartilha de Segurança da Internet [https://cartilha.cert.br/](https://cartilha.cert.br/)
-8. NIC - Registro (domínios) [https://registro.br/](https://registro.br/)
-9. RNP - Rede Ipê (rede acadêmica brasileira) [https://www.rnp.br/sistema-rnp/rede-ipe](https://www.rnp.br/sistema-rnp/rede-ipe)
-10. RNP - Pontos de Presença (PoPs) [https://www.rnp.br/sistema-rnp/pontos-de-presenca](https://www.rnp.br/sistema-rnp/pontos-de-presenca)
-11. Teste Internet - Is your internet up to date?[https://www.internet.nl/](https://www.internet.nl/)
-12. TCP Ports - [scan for open ports](https://pentest-tools.com/network-vulnerability-scanning/tcp-port-scanner-online-nmap)
-13. Telia Carrier [Internet Exposed](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/20170215_Telia_Carrier_Internet_exposed_infographic_W10158xH4921.png)
+1. HE (Hurricane Electric) - Network Tools - Internet Map [www.he.net/3d-map/](https://www.he.net/3d-map/)
+2. HE (Hurricane Electric) - informação de AS referente ao ISP [bgp.he.net](https://bgp.he.net/)
+3. NIC - IPv6 - Teste (e teste completo) [ipv6.br/](https://ipv6.br/))
+4. NIC - Simet - Teste de conexão [beta.simet.nic.br/](https://beta.simet.nic.br/)
+5. NIC - IX (ponto de troca de tráfego) - agregado [ix.br/trafego/agregado/sp](https://ix.br/trafego/agregado/sp)
+6. NIC - Mapa de Sistemas Autônomos (SA) [mapadeas.ceptro.br/](https://mapadeas.ceptro.br/)
+7. IP Info [ipinfo.io](https://ipinfo.io/)
+9. NIC - Registro (domínios) [registro.br/](https://registro.br/)
+10. RNP - Rede Ipê (rede acadêmica brasileira) [www.rnp.br/sistema-rnp/rede-ipe](https://www.rnp.br/sistema-rnp/rede-ipe)
+11. RNP - Pontos de Presença (PoPs) [www.rnp.br/sistema-rnp/pontos-de-presenca](https://www.rnp.br/sistema-rnp/pontos-de-presenca)
+12. Teste Internet - Is your internet up to date? [www.internet.nl/](https://www.internet.nl/)
+13. TCP Ports - [scan for open ports](https://pentest-tools.com/network-vulnerability-scanning/tcp-port-scanner-online-nmap)
+14. Telia Carrier [Internet Exposed](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/20170215_Telia_Carrier_Internet_exposed_infographic_W10158xH4921.png)
 
+### REDES: protocolo IPv6
+1. IBM - comparativo entre IPv4 e IPv6 [www.ibm.com/docs/en/i/7.2?topic=6-comparison-ipv4-ipv6](https://www.ibm.com/docs/en/i/7.2?topic=6-comparison-ipv4-ipv6)
+2. NIC - informações sobre o IPv6 [www.ipv6.br/post/introducao/](https://www.ipv6.br/post/introducao/)
+3. IANA - informações de atribuição de prefixos IPv6 [www.iana.org/assignments/ipv6-unicast-address-assignments/ipv6-unicast-address-assignments.xhtml](https://www.iana.org/assignments/ipv6-unicast-address-assignments/ipv6-unicast-address-assignments.xhtml)
+4. Google - estatísticas de implantação de IPv6 [www.google.com/intl/en/ipv6/statistics.html](https://www.google.com/intl/en/ipv6/statistics.html)
 
-### REDES: informações em redes (celulares
-1. HE (Hurricane Electric) - informação de AS referente ao ISP [bgp.he.net](https://bgp.he.net/)
+### REDES: informações sobre redes sem fio e redes celulares móveis
+1. 3GLTEInfo - informações sobre os códigos MCC e MNC [www.3glteinfo.com/mobile-country-code-mcc-and-mobile-network-code-mnc/](https://www.3glteinfo.com/mobile-country-code-mcc-and-mobile-network-code-mnc/)
 2. Banco de dados de células em redes de telefonia [opencellid.org](https://opencellid.org/)
 3. Busca de células em redes de telefonia [cellidfinder.com](https://cellidfinder.com/)
-4. Localização baseada em endereço IP [iplocation.com](https://iplocation.com/)
+4. Informações sobre as frequências alocadas às redes móveis celulares no Brasil [www.teleco.com.br/areasc.asp](https://www.teleco.com.br/areasc.asp)
+5. GSMArena - informações de cobertura celular no mundo [www.gsmarena.com/network-bands.php3](https://www.gsmarena.com/network-bands.php3)
+6. CellTower Locator [www.cell2gps.com](http://www.cell2gps.com/)
+7. CellMapper - calculadora de ID de célula [www.cellmapper.net/enbid](https://www.cellmapper.net/enbid)
+
 
 ### REDES: informações e dados sobre protocolos e serviços: DNS, BGP e NTP
-1. DNS-OARC (Domain Name System Operations Analysis and Research Center) 
-2. Root-Servers: 13 servidores DNS root globais. [https://root-servers.org/](https://root-servers.org/)
-3. IANA: arquivos com informações sobre servidores root e sobre domínios TLD [https://www.iana.org/domains/root/files](https://www.iana.org/domains/root/files)
-4. DNS Terminologia (IETF revisou normas anteriores para consistência de termos) [https://www.rfc-editor.org/rfc/rfc8499](https://www.rfc-editor.org/rfc/rfc8499)
-5. NIC - NTP.br: serviço de tempo para Internet provido pelo NIC.br [https://ntp.br/](https://ntp.br/)
+1. DNS-OARC (Domain Name System Operations Analysis and Research Center) [www.dns-oarc.net](https://www.dns-oarc.net/)
+2. DNSViz - pesquisa de informações de zona (domínios DNS) [dnsviz.net](https://dnsviz.net/)
+3. Google Admin Toolbox Dig - pesquisa de informações de DNS [toolbox.googleapps.com/apps/dig](https://toolbox.googleapps.com/apps/dig/)
+4. Root-Servers: 13 servidores DNS root globais [root-servers.org/](https://root-servers.org/)
+5. IANA - serviço Whois (pesquisa de nomes de domínio, endereços IP e números de AS) [www.iana.org/whois](https://www.iana.org/whois)
+6. IANA: arquivos com informações sobre servidores root e sobre domínios TLD [www.iana.org/domains/root/files](https://www.iana.org/domains/root/files)
+7. DNS Terminologia (IETF revisou normas anteriores para consistência de termos) [www.rfc-editor.org/rfc/rfc8499](https://www.rfc-editor.org/rfc/rfc8499)
+8. NIC - NTP.br: serviço de tempo para Internet provido pelo NIC.br [ntp.br/](https://ntp.br/)
+9. Network Time Foundation: serviço de tempo a nível mundial (referência, documentação e implementação) [ntp.org](https://ntp.org/)
+10. Google Developers - serviço de tempo [developers.google.com/time](https://developers.google.com/time/)
 
 ### REDES: HTTP, Web e REST APIs
-1. Cloudflare - HTTP/2 x HTTP/1.1 (***Novo***) [https://www.cloudflare.com/pt-br/learning/performance/http2-vs-http1.1/](https://www.cloudflare.com/pt-br/learning/performance/http2-vs-http1.1/)
-2. Cloudflare - HTTP/3 (***Novo***) [https://www.cloudflare.com/pt-br/learning/performance/what-is-http3/](https://www.cloudflare.com/pt-br/learning/performance/what-is-http3/)
-3. FIELDING, Roy Thomas (2000) Architectural Styles and REST (***Novo***) [https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
-4. Nordic APIs - REST vs SOAP: The Key Features and Differences (***Novo***) [https://nordicapis.com/rest-vs-soap-the-key-features-and-differences/](https://nordicapis.com/rest-vs-soap-the-key-features-and-differences/)
-5. Nordic APIs - LiveCast: API Design Best Practices (***Novo***)[https://nordicapis.com/events/api-design-best-practices/](https://nordicapis.com/events/api-design-best-practices/)
-6. Web - Can I Use - Compatibilidade  (***Novo***) [https://caniuse.com/](https://caniuse.com/)
-7. Web - HTML5 - teste (***Novo***) [https://html5test.com/](https://html5test.com/)
-8. Netcraft - servidores Web mais usados (***Novo***)) [https://news.netcraft.com/](https://news.netcraft.com/)
-9. Web - Sítios up/down (***Novo***) [https://www.isitdownrightnow.com/](https://www.isitdownrightnow.com/)
-10. Web - Sítios up/down (***Novo***) [https://downdetector.com/](https://downdetector.com/)
-11. TLS/SSL - Check (***Novo***) [https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html](https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html)
-
-### REDES: protocolo IP (IPv4 e IPv6)
-1. NIC - IPv6: página com informações e calculadora de máscara [https://www.ipv6.br/](https://www.ipv6.br/)
+1. Cloudflare - HTTP/2 x HTTP/1.1 [www.cloudflare.com/pt-br/learning/performance/http2-vs-http1.1/](https://www.cloudflare.com/pt-br/learning/performance/http2-vs-http1.1/)
+2. Cloudflare - HTTP/3 [www.cloudflare.com/pt-br/learning/performance/what-is-http3/](https://www.cloudflare.com/pt-br/learning/performance/what-is-http3/)
+3. FIELDING, Roy Thomas (2000) Architectural Styles and REST [www.ics.uci.edu/~fielding/pubs/dissertation/top.htm](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
+4. Nordic APIs - REST vs SOAP: The Key Features and Differences [nordicapis.com/rest-vs-soap-the-key-features-and-differences/](https://nordicapis.com/rest-vs-soap-the-key-features-and-differences/)
+5. Nordic APIs - LiveCast: API Design Best Practices [nordicapis.com/events/api-design-best-practices/](https://nordicapis.com/events/api-design-best-practices/)
+6. Web - Can I Use - Compatibilidade [caniuse.com/](https://caniuse.com/)
+7. Web - HTML5 - teste [html5test.com/](https://html5test.com/)
+8. Netcraft - servidores Web mais usados [news.netcraft.com/](https://news.netcraft.com/)
+9. Web - Sítios up/down [www.isitdownrightnow.com/](https://www.isitdownrightnow.com/)
+10. Web - Sítios up/down [downdetector.com/](https://downdetector.com/)
+11. TLS/SSL - Check [clienttest.ssllabs.com:8443/ssltest/viewMyClient.html](https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html)
 
 
 ### REDES: informações gerais
@@ -112,11 +127,14 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 3. [RNP - Rede Nacional de Pesquisa https://www.rnp.br/](https://www.rnp.br/)
 
 ### REDES: organizações internacionais responsáveis por protocolos e atribuição de nomes/endereços
-1. IETF (Internet Engineering Task Force) [https://www.ietf.org/](https://www.ietf.org/)
-2. IETF - Pesquisa de Request for Comments (RFCs) [https://www.rfc-editor.org/](https://www.rfc-editor.org/) 
-3. IANA - autoridade para atribuição de nomes/endereços IP/números de protocolos [https://www.iana.org/](https://www.iana.org/)
+1. IETF (Internet Engineering Task Force) [www.ietf.org/](https://www.ietf.org/)
+2. IETF - Pesquisa de Request for Comments (RFCs) [www.rfc-editor.org/](https://www.rfc-editor.org/) 
+3. IANA - autoridade para atribuição de nomes/endereços IP/números de protocolos [www.iana.org/](https://www.iana.org/)
 
 ## Segurança
+1. CERT (Centro de Estudos, Resposta e Tratamento de Incidentes de Segurança no Brasil) [www.cert.br](https://www.cert.br/)
+2. NIC - Cartilha de Segurança da Internet [cartilha.cert.br](https://cartilha.cert.br/)
+
 
 ### Uso de criptografia em sistemas aplicativos: cifragem e assinaturas digitais de email e arquivos
 1. [GPG for Windows - gpg4win.org](https://gpg4win.org/)
@@ -126,3 +144,4 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 5. [GPG from GuardiaProject - GitHub - github.com/guardianproject/gnupg-for-android](https://github.com/guardianproject/gnupg-for-android)
 
 
+Last Revision: 2023-03-06
