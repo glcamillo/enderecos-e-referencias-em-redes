@@ -159,5 +159,23 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 4. [GPG from GuardiaProject - inativo - guardianproject.info/archive/gnupg](https://guardianproject.info/archive/gnupg/)
 5. [GPG from GuardiaProject - GitHub - github.com/guardianproject/gnupg-for-android](https://github.com/guardianproject/gnupg-for-android)
 
+### Dados e recursos para atividades de modelagem e simulação
+1. Run R code online [https://rdrr.io/snippets/](https://rdrr.io/snippets/)
+2. R online editor, IDE, compiler, interpreter [https://replit.com/languages/rlang](https://replit.com/languages/rlang)
+3. R Online Compiler by Programiz [https://www.programiz.com/r/online-compiler/](https://www.programiz.com/r/online-compiler/)
+4. [Dados A1](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/dados-a1.csv)
+5. [Dados A2](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/dados-a2.csv)
+6. [Dados B](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/dados-b.csv)
+7. [Dados C](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/dados-c.csv)
+8. [Dados D](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/dados-d.csv)
 
-Last Revision: 2023-03-29
+
+### Revisão de literatura (para artigos científicos)
+1. Livro: [Metodologia de Pesquisa para Ciência da Computação do Prof. Raul Sidnei Wazlawick](https://raulwazlawick.paginas.ufsc.br/livros/metodologia-de-pesquisa-para-ciencia-da-computacao/)
+2. Live sobre Pesquisa em CC com Prof. Raul Wazlawick[https://www.youtube.com/watch?v=RayW_ELIlyc](https://www.youtube.com/watch?v=RayW_ELIlyc)
+3. Vídeo Youtube by goms tech talks: [LITERATURE REVIEW: a guide to write an effective literature review | simple and easy explanation](https://youtu.be/jzISoM3ssIw)
+
+
+
+
+Last Revision: 2023-04-18
