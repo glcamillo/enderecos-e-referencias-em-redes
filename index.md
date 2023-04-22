@@ -1,4 +1,4 @@
-Algumas referências em redes e segurança de redes como ponto de partida das pesquisas. Objetivo inicial atender ás aulas de redes na UFSC em Araranguá.
+Algumas referências básicas em redes de computadores e cibersegurança que tinham como objetivo atender ás aulas na UFSC em Araranguá.
 
 ## Redes de Computadores
 
@@ -10,17 +10,12 @@ Algumas referências em redes e segurança de redes como ponto de partida das pe
 5. IPv6 Cheat Sheet by Jens Roesen [https://www.roesen.org/files/ipv6_cheat_sheet.pdf](https://www.roesen.org/files/ipv6_cheat_sheet.pdf)
 
 
-### REDES: materiais de aula e complementares
+### REDES: materiais de aula complementares
 
-Materiais atualizados disponibilizados no Moodle (respectivas disciplinas).
-
-1. [Redes - introdução](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-01-introducao.pdf)
-2. [Redes - modelo OSI e arquitetura TCP/IP](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-02-modelo-referencia-OSI-e-arquitetura-TCPIP.pdf)
-3. [Redes - camada de transporte - TCP e UDP](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-03-camada-transporte.pdf)
-4. [Redes - camada de transporte - novos protocolos](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/aula-redes-04-camada-transporte-novos-protocolos.pdf)
-5. [Redes e Internet - Princípios gerais (TANENBAUM, 2003)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/REDES-internet-principios.pdf)
-6. [Camadas e Protocolos em Redes (OSI e TCP/IP) (***Importante***)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/REDES-Material-Complementar-CAMADAS-e-PROTOCOLOS.pdf)
-7. [Resumo comandos para visualizar informações de TCP/IP](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/REDES-Material-Complementar-COMANDOS-para-VISUALIZAR-INFORMACOES-TCP_IP.pdf)
+1. [Redes e Internet - Princípios gerais (TANENBAUM, 2003)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/REDES-internet-PRINCIPIOS-arquiteturais-by-Tanenbaum.pdf)
+2. [Camadas e Protocolos - modelos de referẽncia OSI e arquitetura TCP/IP)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/REDES-modelo-referencia-OSI-e-arquitetura-TCPIP.pdf)
+3. [Camadas e Protocolos - aspectos gerais](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/REDES-camadas-e-protocolos.pdf)
+4. [Resumo comandos para visualizar informações de TCP/IP](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/REDES-comandos-e-programas-em-tcpip.pdf)
 8. [Resumo ilustrativo de como se processa uma página Web (alterado de Kurose; Ross (2017)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/REDES-Material-Suplementar-como_se_processa_uma_solicitacao_pagina_Web.pdf)
 
 
@@ -39,54 +34,48 @@ Materiais atualizados disponibilizados no Moodle (respectivas disciplinas).
 
 
 ### REDES: informações/dados/testes em Redes e Internet
-1. HE (Hurricane Electric) - Network Tools - Internet Map[www.he.net/3d-map/](https://www.he.net/3d-map/)2. 
-3. NIC - IPv6 - Teste (e teste completo)[ipv6.br/](https://ipv6.br/))
-4. NIC - Simet - Teste de conexão [beta.simet.nic.br/](https://beta.simet.nic.br/)
-5. NIC - IX (ponto de troca de tráfego) - agregado[ix.br/trafego/agregado/sp](https://ix.br/trafego/agregado/sp)
-6. NIC - Mapa de Sistemas Autônomos (SA)[mapadeas.ceptro.br/](https://mapadeas.ceptro.br/)
-7. RNP - Rede Ipê (rede acadêmica brasileira) [www.rnp.br/sistema-rnp/rede-ipe](https://www.rnp.br/sistema-rnp/rede-ipe)
-8. RNP - Pontos de Presença (PoPs)[www.rnp.br/sistema-rnp/pontos-de-presenca](https://www.rnp.br/sistema-rnp/pontos-de-presenca)
-9. IP Info - informações sobre o próprio IP[ipinfo.io](https://ipinfo.io/)
-10. MeuIP - informações sobre o próprio IP[meuip.com](http://meuip.com)
-11. Registro.br (domínios)[registro.br/](https://registro.br/)
-12. Registro.br - serviço Whois (pesquisa nomes, endereços e AS) [registro.br/tecnologia/ferramentas/whois](https://registro.br/tecnologia/ferramentas/whois/)
-13. IANA - serviço Whois [www.iana.org/whois](https://www.iana.org/whois)
-14. HE (Hurricane Electric) - informação de AS referente ao ISP [bgp.he.net](https://bgp.he.net/) 
-15. CIDR-report - informações de AS e alocação endereços [www.cidr-report.org/as2.0][https://www.cidr-report.org/as2.0/]
-17. (Segurança) Teste Internet - Is your internet up to date? [www.internet.nl/](https://www.internet.nl/)
-18. (Segurança) NIC - padrões de segurança para redes e ISPs[https://bcp.nic.br/i+seg/](https://bcp.nic.br/i+seg/)
-19. (Segurança) NIC - TOP (testes sítios, email, TLS, DNS(SEC), IPv6)[https://top.nic.br](https://top.nic.br)
-20. (Segurança) Testes de SITIOS/redes by .auCheck[https://aucheck.com.au/](https://aucheck.com.au/)
-21. (Segurança) Testes de SITIOS/redes by Sikkerpånettet.dk[https://sikkerpånettet.dk/](https://sikkerpånettet.dk/)
-22. TCP Ports - [scan for open ports](https://pentest-tools.com/network-vulnerability-scanning/tcp-port-scanner-online-nmap)
-23. Telia Carrier [Internet Exposed](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/20170215_Telia_Carrier_Internet_exposed_infographic_W10158xH4921.png)
-24. Calculadora máscaras/prefixos IPv4/IPv6 by NIC[https://www.ipv6.br/paginas/subnet](https://www.ipv6.br/paginas/subnet)
-25. Calculadora máscaras rede IPv4 by Jodies[https://jodies.de/ipcalc](https://jodies.de/ipcalc)
+1. HE (Hurricane Electric) - Network Tools - Internet Map [www.he.net/3d-map/](https://www.he.net/3d-map/)
+2. NIC - IPv6 - Teste (e teste completo) [ipv6.br/](https://ipv6.br/))
+3. NIC - Simet - Teste de conexão [beta.simet.nic.br/](https://beta.simet.nic.br/)
+4. NIC - IX (ponto de troca de tráfego) - agregado [ix.br/trafego/agregado/sp](https://ix.br/trafego/agregado/sp)
+5. NIC - Mapa de Sistemas Autônomos (SA) [mapadeas.ceptro.br/](https://mapadeas.ceptro.br/)
+6. RNP - Rede Ipê (rede acadêmica brasileira) [www.rnp.br/sistema-rnp/rede-ipe](https://www.rnp.br/sistema-rnp/rede-ipe)
+7. RNP - Pontos de Presença (PoPs) [www.rnp.br/sistema-rnp/pontos-de-presenca](https://www.rnp.br/sistema-rnp/pontos-de-presenca)
+8. IP Info - informações sobre o próprio IP [ipinfo.io](https://ipinfo.io/)
+9. MeuIP - informações sobre o próprio IP [meuip.com](http://meuip.com)
+10. Registro.br (domínios) [registro.br/](https://registro.br/)
+11. Registro.br - serviço Whois (pesquisa nomes, endereços e AS) [registro.br/tecnologia/ferramentas/whois](https://registro.br/tecnologia/ferramentas/whois/)
+12. IANA - serviço Whois [www.iana.org/whois](https://www.iana.org/whois)
+13. HE (Hurricane Electric) - informação de AS referente ao ISP [bgp.he.net](https://bgp.he.net/)
+14. CIDR-report - informações de AS e alocação endereços [www.cidr-report.org/as2.0][https://www.cidr-report.org/as2.0/]
+15. Telia Carrier [Internet Exposed](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/20170215_Telia_Carrier_Internet_exposed_infographic_W10158xH4921.png)
+16. Calculadora máscaras/prefixos IPv4/IPv6 by NIC [https://www.ipv6.br/paginas/subnet](https://www.ipv6.br/paginas/subnet)
+17. Calculadora máscaras rede IPv4 by Jodies [https://jodies.de/ipcalc](https://jodies.de/ipcalc)
 
 ### REDES: vídeos educativos sobre a Internet brasileira e sobre protocolos da Internet
 
 [NIC - canal de vídeos YouTube NICbrvideos](https://youtu.be/t_wSDdQeb58)
 
 Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
-1. NICbrvideos YouTube-Como funciona a Internet? Parte 1: O protocolo IP[https://www.youtube.com/watch?v=HNQD0qJ0TC4](https://www.youtube.com/watch?v=HNQD0qJ0TC4)
-2. NICbrvideos YouTube-Como funciona a Internet? Parte 2: Sistemas Autônomos, BGP, PTTs[https://www.youtube.com/watch?v=C5qNAT_j63M](https://www.youtube.com/watch?v=C5qNAT_j63M)
-4. NICbrvideos YouTube-Como funciona a Internet? Parte 3: DNS[https://www.youtube.com/watch?v=ACGuo26MswI](https://www.youtube.com/watch?v=ACGuo26MswI)
-5. NICbrvideos YouTube-Como funciona a Internet? Parte 4: Governança da Internet[https://www.youtube.com/watch?v=ZYsjMEISR6E](https://www.youtube.com/watch?v=ZYsjMEISR6E)
-6. NICbrvideos YouTube-Os endereços IP não são todos iguais - parte 1 (IPv6)][https://www.youtube.com/watch?v=jnuHODaLcO8](https://www.youtube.com/watch?v=jnuHODaLcO8)
-7. NICbrvideos YouTube-Os endereços IP não são todos iguais - parte 2 (IPv6)[https://www.youtube.com/watch?v=63M61wttuMk](https://www.youtube.com/watch?v=63M61wttuMk)
-8. NICbrvideos YouTube-O que é um domínio?[https://www.youtube.com/watch?v=t_wSDdQeb58](https://www.youtube.com/watch?v=t_wSDdQeb58)
-9. NICbrvideos YouTube-Como registrar um domínio .br?[https://www.youtube.com/watch?v=gZRYDxWuYpk](https://www.youtube.com/watch?v=gZRYDxWuYpk)
+1. NICbrvideos YouTube-Como funciona a Internet? Parte 1: O protocolo IP [https://www.youtube.com/watch?v=HNQD0qJ0TC4](https://www.youtube.com/watch?v=HNQD0qJ0TC4)
+2. NICbrvideos YouTube-Como funciona a Internet? Parte 2: Sistemas Autônomos, BGP, PTTs [https://www.youtube.com/watch?v=C5qNAT_j63M](https://www.youtube.com/watch?v=C5qNAT_j63M)
+4. NICbrvideos YouTube-Como funciona a Internet? Parte 3: DNS [https://www.youtube.com/watch?v=ACGuo26MswI](https://www.youtube.com/watch?v=ACGuo26MswI)
+5. NICbrvideos YouTube-Como funciona a Internet? Parte 4: Governança da Internet [https://www.youtube.com/watch?v=ZYsjMEISR6E](https://www.youtube.com/watch?v=ZYsjMEISR6E)
+6. NICbrvideos YouTube-Os endereços IP não são todos iguais - parte 1 (IPv6)] [https://www.youtube.com/watch?v=jnuHODaLcO8](https://www.youtube.com/watch?v=jnuHODaLcO8)
+7. NICbrvideos YouTube-Os endereços IP não são todos iguais - parte 2 (IPv6) [https://www.youtube.com/watch?v=63M61wttuMk](https://www.youtube.com/watch?v=63M61wttuMk)
+8. NICbrvideos YouTube-O que é um domínio? [https://www.youtube.com/watch?v=t_wSDdQeb58](https://www.youtube.com/watch?v=t_wSDdQeb58)
+9. NICbrvideos YouTube-Como registrar um domínio .br? [https://www.youtube.com/watch?v=gZRYDxWuYpk](https://www.youtube.com/watch?v=gZRYDxWuYpk)
 10. Wikipedia - pilha de protocolos TCP/IP [https://en.wikipedia.org/wiki/Internet_protocol_suite](https://en.wikipedia.org/wiki/Internet_protocol_suite)
 
 
 ### Redes de Computadores - Vídeos sobre TCP/IP, OSI da ISO e Camadas (aplicação)
-1. Vídeo-YouTube: what is TCP/IP and OSI? // FREE CCNA // EP 3[https://www.youtube.com/watch?v=CRdL1PcherM](https://www.youtube.com/watch?v=CRdL1PcherM)
-2. Vídeo-YouTube: REAL LIFE example!! (TCP/IP and OSI layers) // FREE CCNA // EP 4[https://www.youtube.com/watch?v=3kfO61Mensg](https://www.youtube.com/watch?v=3kfO61Mensg)
-3. Vídeo - YouTube: how the OSI model works on YouTube (Application and Transport Layers) // FREE CCNA // EP 5[https://www.youtube.com/watch?v=oIRkXulqJA4](https://www.youtube.com/watch?v=oIRkXulqJA4)
+1. Vídeo-YouTube: what is TCP/IP and OSI? // FREE CCNA // EP 3 [https://www.youtube.com/watch?v=CRdL1PcherM](https://www.youtube.com/watch?v=CRdL1PcherM)
+2. Vídeo-YouTube: REAL LIFE example!! (TCP/IP and OSI layers) // FREE CCNA // EP 4 [https://www.youtube.com/watch?v=3kfO61Mensg](https://www.youtube.com/watch?v=3kfO61Mensg)
+3. Vídeo - YouTube: how the OSI model works on YouTube (Application and Transport Layers) // FREE CCNA // EP 5 [https://www.youtube.com/watch?v=oIRkXulqJA4](https://www.youtube.com/watch?v=oIRkXulqJA4)
 
 ### Redes de Computadores - Vídeos sobre TCP/IP (camada rede e de enlace)
-1. Vídeo-YouTube: How Data moves through the Internet - Networking Fundamentals[https://www.youtube.com/watch?v=YJGGYKAV4pA](https://www.youtube.com/watch?v=YJGGYKAV4pA)
-2. Vídeo-YouTube:  Routers, Switches, Packets and Frames[https://www.youtube.com/watch?v=zhlMLRNY5-4](https://www.youtube.com/watch?v=zhlMLRNY5-4)
+1. Vídeo-YouTube: How Data moves through the Internet - Networking Fundamentals [https://www.youtube.com/watch?v=YJGGYKAV4pA](https://www.youtube.com/watch?v=YJGGYKAV4pA)
+2. Vídeo-YouTube:  Routers, Switches, Packets and Frames [https://www.youtube.com/watch?v=zhlMLRNY5-4](https://www.youtube.com/watch?v=zhlMLRNY5-4)
 
 
 ### REDES: protocolo IPv6
@@ -95,14 +84,15 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 3. IANA - informações de atribuição de prefixos IPv6 [www.iana.org/assignments/ipv6-unicast-address-assignments/ipv6-unicast-address-assignments.xhtml](https://www.iana.org/assignments/ipv6-unicast-address-assignments/ipv6-unicast-address-assignments.xhtml)
 4. Google - estatísticas de implantação de IPv6 [www.google.com/intl/en/ipv6/statistics.html](https://www.google.com/intl/en/ipv6/statistics.html)
 
-### REDES: informações sobre redes sem fio e redes celulares móveis
-1. 3GLTEInfo - informações sobre os códigos MCC e MNC [www.3glteinfo.com/mobile-country-code-mcc-and-mobile-network-code-mnc/](https://www.3glteinfo.com/mobile-country-code-mcc-and-mobile-network-code-mnc/)
-2. Banco de dados de células em redes de telefonia [opencellid.org](https://opencellid.org/)
-3. Busca de células em redes de telefonia [cellidfinder.com](https://cellidfinder.com/)
-4. Informações sobre as frequências alocadas às redes móveis celulares no Brasil [www.teleco.com.br/areasc.asp](https://www.teleco.com.br/areasc.asp)
-5. GSMArena - informações de cobertura celular no mundo [www.gsmarena.com/network-bands.php3](https://www.gsmarena.com/network-bands.php3)
-6. CellTower Locator [www.cell2gps.com](http://www.cell2gps.com/)
-7. CellMapper - calculadora de ID de célula [www.cellmapper.net/enbid](https://www.cellmapper.net/enbid)
+### REDES: informações sobre redes celulares móveis
+1. Códigos país de de operadoras de rede celular móvel [https://mcc-mnc-list.com/list](https://mcc-mnc-list.com/list)
+2. 3GLTEInfo - informações sobre os códigos MCC e MNC [www.3glteinfo.com/mobile-country-code-mcc-and-mobile-network-code-mnc/](https://www.3glteinfo.com/mobile-country-code-mcc-and-mobile-network-code-mnc/)
+3. Banco de dados de células em redes de telefonia [opencellid.org](https://opencellid.org/)
+4. Busca de células em redes de telefonia [cellidfinder.com](https://cellidfinder.com/)
+5. Informações sobre as frequências alocadas às redes móveis celulares no Brasil [www.teleco.com.br/areasc.asp](https://www.teleco.com.br/areasc.asp)
+6. GSMArena - informações de cobertura celular no mundo [www.gsmarena.com/network-bands.php3](https://www.gsmarena.com/network-bands.php3)
+7. CellTower Locator [www.cell2gps.com](http://www.cell2gps.com/)
+8. CellMapper - calculadora de ID de célula [www.cellmapper.net/enbid](https://www.cellmapper.net/enbid)
 
 
 ### REDES: informações e dados sobre protocolos e serviços: DNS, BGP e NTP
@@ -147,9 +137,22 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 3. IANA - autoridade para atribuição de nomes/endereços IP/números de protocolos [www.iana.org/](https://www.iana.org/)
 4. W3C (World Wide Consortium) - padrões Web [www.w3.org](https://www.w3.org/)
 
-## Segurança
+## Cibersegurança
 1. CERT (Centro de Estudos, Resposta e Tratamento de Incidentes de Segurança no Brasil) [www.cert.br](https://www.cert.br/)
 2. NIC - Cartilha de Segurança da Internet [cartilha.cert.br](https://cartilha.cert.br/)
+3. NIC - padrões de segurança para redes e ISPs[https://bcp.nic.br/i+seg/](https://bcp.nic.br/i+seg/)
+4. NIC - TOP (testes sítios, email, TLS, DNS(SEC), IPv6) [https://top.nic.br](https://top.nic.br)
+5. Teste Internet - Is your internet up to date? [www.internet.nl/](https://www.internet.nl/)
+6. Testes de SITIOS/redes by .auCheck [https://aucheck.com.au/](https://aucheck.com.au/)
+7. Testes de SITIOS/redes by Sikkerpånettet.dk [https://sikkerpånettet.dk/](https://sikkerpånettet.dk/)
+8. TCP Ports - [varredura online por portas TCP abertas](https://pentest-tools.com/network-vulnerability-scanning/tcp-port-scanner-online-nmap)
+
+### Cibersegurança - pesquisa sobre vulnerabilidades
+1. NVD (National Vulnerability Database) by NIST [https://nvd.nist.gov/](https://nvd.nist.gov/)
+2. CWE (Common Weakness Enumeration) by Mitre [https://cwe.mitre.org/index.html](https://cwe.mitre.org/index.html)
+3. OWASP Top10 2021 [https://owasp.org/Top10/](https://owasp.org/Top10/)
+4. Information is Beatiful - World's Biggest Data Breaches & Hacks [https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/](https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/)
+5. Information is Beatiful - Ranwomware Attacks [https://informationisbeautiful.net/visualizations/ransomware-attacks/](https://informationisbeautiful.net/visualizations/ransomware-attacks/)
 
 
 ### Uso de criptografia em sistemas aplicativos: cifragem e assinaturas digitais de email e arquivos
@@ -172,10 +175,10 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 
 ### Revisão de literatura (para artigos científicos)
 1. Livro: [Metodologia de Pesquisa para Ciência da Computação do Prof. Raul Sidnei Wazlawick](https://raulwazlawick.paginas.ufsc.br/livros/metodologia-de-pesquisa-para-ciencia-da-computacao/)
-2. Live sobre Pesquisa em CC com Prof. Raul Wazlawick[https://www.youtube.com/watch?v=RayW_ELIlyc](https://www.youtube.com/watch?v=RayW_ELIlyc)
-3. Vídeo Youtube by goms tech talks: [LITERATURE REVIEW: a guide to write an effective literature review | simple and easy explanation](https://youtu.be/jzISoM3ssIw)
+2. Live sobre Pesquisa em CC com Prof. Raul Wazlawick [https://www.youtube.com/watch?v=RayW_ELIlyc](https://www.youtube.com/watch?v=RayW_ELIlyc)
+3. Vídeo Youtube by goms tech talks: [LITERATURE REVIEW: a guide to write an effective literature review - simple and easy explanation](https://youtu.be/jzISoM3ssIw)
 
 
 
 
-Last Revision: 2023-04-18
+Last Revision: 2023-04-21
