@@ -138,14 +138,18 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 4. W3C (World Wide Consortium) - padrões Web [www.w3.org](https://www.w3.org/)
 
 ## Cibersegurança
-1. CERT (Centro de Estudos, Resposta e Tratamento de Incidentes de Segurança no Brasil) [www.cert.br](https://www.cert.br/)
-2. NIC - Cartilha de Segurança da Internet [cartilha.cert.br](https://cartilha.cert.br/)
-3. NIC - padrões de segurança para redes e ISPs[https://bcp.nic.br/i+seg/](https://bcp.nic.br/i+seg/)
-4. NIC - TOP (testes sítios, email, TLS, DNS(SEC), IPv6) [https://top.nic.br](https://top.nic.br)
-5. Teste Internet - Is your internet up to date? [www.internet.nl/](https://www.internet.nl/)
-6. Testes de SITIOS/redes by .auCheck [https://aucheck.com.au/](https://aucheck.com.au/)
-7. Testes de SITIOS/redes by Sikkerpånettet.dk [https://sikkerpånettet.dk/](https://sikkerpånettet.dk/)
-8. TCP Ports - [varredura online por portas TCP abertas](https://pentest-tools.com/network-vulnerability-scanning/tcp-port-scanner-online-nmap)
+1. CERT (Centro de Estudos, Resposta e Tratamento de Incidentes de Segurança no Brasil) [https://www.cert.br](https://www.cert.br/)
+2. NIC - Cartilha de Segurança da Internet [https://cartilha.cert.br](https://cartilha.cert.br/)
+3. ANPD (Autoridade Nac Proteção Dados) [https://www.gov.br/anpd/pt-br](https://www.gov.br/anpd/pt-br)
+4. ANPD - [https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-4-de-24-de-fevereiro-de-2023-466146077](https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-4-de-24-de-fevereiro-de-2023-466146077)
+5. Gov.br - Privacidade e Segurança da Informação [https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados](https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados)
+6. Gov.br - Guia LGPD [https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/guias-operacionais-para-adequacao-a-lei-geral-de-protecao-de-dados-pessoais-lgpd](https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/guias-operacionais-para-adequacao-a-lei-geral-de-protecao-de-dados-pessoais-lgpd)
+7. NIC - padrões de segurança para redes e ISPs [https://bcp.nic.br/i+seg/](https://bcp.nic.br/i+seg/)
+8. NIC - TOP (testes sítios, email, TLS, DNS(SEC), IPv6) [https://top.nic.br](https://top.nic.br)
+9. Teste Internet - Is your internet up to date? [www.internet.nl/](https://www.internet.nl/)
+10. Testes de SITIOS/redes by .auCheck [https://aucheck.com.au/](https://aucheck.com.au/)
+11. Testes de SITIOS/redes by Sikkerpånettet.dk [https://sikkerpånettet.dk/](https://sikkerpånettet.dk/)
+12. TCP Ports - [varredura online por portas TCP abertas](https://pentest-tools.com/network-vulnerability-scanning/tcp-port-scanner-online-nmap)
 
 ### Cibersegurança - pesquisa sobre vulnerabilidades
 1. NVD (National Vulnerability Database) by NIST [https://nvd.nist.gov/](https://nvd.nist.gov/)
@@ -181,4 +185,4 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 
 
 
-Last Revision: 2023-04-21
+Last Revision: 2023-04-25
