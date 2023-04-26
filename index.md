@@ -34,23 +34,40 @@ Algumas referências básicas em redes de computadores e cibersegurança que tin
 
 
 ### REDES: informações/dados/testes em Redes e Internet
-1. HE (Hurricane Electric) - Network Tools - Internet Map [www.he.net/3d-map/](https://www.he.net/3d-map/)
-2. NIC - IPv6 - Teste (e teste completo) [ipv6.br/](https://ipv6.br/))
-3. NIC - Simet - Teste de conexão [beta.simet.nic.br/](https://beta.simet.nic.br/)
-4. NIC - IX (ponto de troca de tráfego) - agregado [ix.br/trafego/agregado/sp](https://ix.br/trafego/agregado/sp)
-5. NIC - Mapa de Sistemas Autônomos (SA) [mapadeas.ceptro.br/](https://mapadeas.ceptro.br/)
-6. RNP - Rede Ipê (rede acadêmica brasileira) [www.rnp.br/sistema-rnp/rede-ipe](https://www.rnp.br/sistema-rnp/rede-ipe)
-7. RNP - Pontos de Presença (PoPs) [www.rnp.br/sistema-rnp/pontos-de-presenca](https://www.rnp.br/sistema-rnp/pontos-de-presenca)
-8. IP Info - informações sobre o próprio IP [ipinfo.io](https://ipinfo.io/)
-9. MeuIP - informações sobre o próprio IP [meuip.com](http://meuip.com)
-10. Registro.br (domínios) [registro.br/](https://registro.br/)
-11. Registro.br - serviço Whois (pesquisa nomes, endereços e AS) [registro.br/tecnologia/ferramentas/whois](https://registro.br/tecnologia/ferramentas/whois/)
-12. IANA - serviço Whois [www.iana.org/whois](https://www.iana.org/whois)
+1. HE (Hurricane Electric) - informação de AS referente ao ISP [bgp.he.net](https://bgp.he.net/)
+2. NIC - Simet - Teste de conexão [beta.simet.nic.br/](https://beta.simet.nic.br/)
+3. NIC - IX (ponto de troca de tráfego) - agregado [ix.br/trafego/agregado/sp](https://ix.br/trafego/agregado/sp)
+4. NIC - Mapa de Sistemas Autônomos (SA) [mapadeas.ceptro.br/](https://mapadeas.ceptro.br/)
+5. RNP - Rede Ipê (rede acadêmica brasileira) [www.rnp.br/sistema-rnp/rede-ipe](https://www.rnp.br/sistema-rnp/rede-ipe)
+6. RNP - Pontos de Presença (PoPs) [www.rnp.br/sistema-rnp/pontos-de-presenca](https://www.rnp.br/sistema-rnp/pontos-de-presenca)
+7. IP Info - informações sobre o próprio IP [ipinfo.io](https://ipinfo.io/)
+8. MeuIP - informações sobre o próprio IP [meuip.com](http://meuip.com)
+9. Registro.br (domínios) [registro.br/](https://registro.br/)
+10. Registro.br - serviço Whois (pesquisa nomes, endereços e AS) [registro.br/tecnologia/ferramentas/whois](https://registro.br/tecnologia/ferramentas/whois/)
+11. IANA - serviço Whois [www.iana.org/whois](https://www.iana.org/whois)
+12. Verisign - serviço Whois [https://webwhois.verisign.com/webwhois-ui/index.jsp?language=en_US](https://webwhois.verisign.com/webwhois-ui/index.jsp?language=en_US)
+13. CIDR-report - informações de AS e alocação endereços [www.cidr-report.org/as2.0](https://www.cidr-report.org/as2.0/)
+14. Cisco - BGPStream [https://bgpstream.crosswork.cisco.com/](https://bgpstream.crosswork.cisco.com/)
+15. HE (Hurricane Electric) - Network Tools - Internet Map [www.he.net/3d-map/](https://www.he.net/3d-map/)
+16. Telia Carrier [Internet Exposed](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/20170215_Telia_Carrier_Internet_exposed_infographic_W10158xH4921.png)
+17. Calculadora máscaras/prefixos IPv4/IPv6 by NIC [https://www.ipv6.br/paginas/subnet](https://www.ipv6.br/paginas/subnet)
+18. Calculadora máscaras rede IPv4 by Jodies [https://jodies.de/ipcalc](https://jodies.de/ipcalc)
+
+### REDES: informações e dados sobre protocolos e serviços: DNS, BGP e NTP
+1. DNS-OARC (Domain Name System Operations Analysis and Research Center) [www.dns-oarc.net](https://www.dns-oarc.net/)
+2. DNSViz pesquisa de informações de zona (domínios DNS) [dnsviz.net](https://dnsviz.net/)
+3. Google Admin Toolbox Dig - pesquisa de informações de DNS [toolbox.googleapps.com/apps/dig](https://toolbox.googleapps.com/apps/dig/)
+4. Root-Servers - 13 servidores DNS root globais [root-servers.org/](https://root-servers.org/)
+5. IANA serviço Whois (pesquisa de nomes de domínio, endereços IP e números de AS) [www.iana.org/whois](https://www.iana.org/whois)
+6. IANA arquivos com informações sobre servidores root e sobre domínios TLD [www.iana.org/domains/root/files](https://www.iana.org/domains/root/files)
+7. DNS Terminologia (IETF revisou normas anteriores para consistência de termos) [www.rfc-editor.org/rfc/rfc8499](https://www.rfc-editor.org/rfc/rfc8499)
+8. NIC - NTP.br: serviço de tempo para Internet provido pelo NIC.br [ntp.br](https://ntp.br/)
+9. Network Time Foundation: serviço de tempo a nível mundial (referência, documentação e implementação) [ntp.org](https://ntp.org/)
+10. IANA - TIme Zone Databases [www.iana.org/time-zones](https://www.iana.org/time-zones)
+11. Google Developers - serviço de tempo [developers.google.com/time](https://developers.google.com/time/)
+12. BGP e AS [https://irrexplorer.nlnog.net/](https://irrexplorer.nlnog.net/)
 13. HE (Hurricane Electric) - informação de AS referente ao ISP [bgp.he.net](https://bgp.he.net/)
-14. CIDR-report - informações de AS e alocação endereços [www.cidr-report.org/as2.0][https://www.cidr-report.org/as2.0/]
-15. Telia Carrier [Internet Exposed](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/20170215_Telia_Carrier_Internet_exposed_infographic_W10158xH4921.png)
-16. Calculadora máscaras/prefixos IPv4/IPv6 by NIC [https://www.ipv6.br/paginas/subnet](https://www.ipv6.br/paginas/subnet)
-17. Calculadora máscaras rede IPv4 by Jodies [https://jodies.de/ipcalc](https://jodies.de/ipcalc)
+
 
 ### REDES: vídeos educativos sobre a Internet brasileira e sobre protocolos da Internet
 
@@ -79,10 +96,11 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 
 
 ### REDES: protocolo IPv6
-1. IBM - comparativo entre IPv4 e IPv6 [www.ibm.com/docs/en/i/7.2?topic=6-comparison-ipv4-ipv6](https://www.ibm.com/docs/en/i/7.2?topic=6-comparison-ipv4-ipv6)
+1. NIC - IPv6 - Teste (e teste completo) [ipv6.br/](https://ipv6.br/)
 2. NIC - informações sobre o IPv6 [www.ipv6.br/post/introducao/](https://www.ipv6.br/post/introducao/)
 3. IANA - informações de atribuição de prefixos IPv6 [www.iana.org/assignments/ipv6-unicast-address-assignments/ipv6-unicast-address-assignments.xhtml](https://www.iana.org/assignments/ipv6-unicast-address-assignments/ipv6-unicast-address-assignments.xhtml)
-4. Google - estatísticas de implantação de IPv6 [www.google.com/intl/en/ipv6/statistics.html](https://www.google.com/intl/en/ipv6/statistics.html)
+4. IBM - comparativo entre IPv4 e IPv6 [www.ibm.com/docs/en/i/7.2?topic=6-comparison-ipv4-ipv6](https://www.ibm.com/docs/en/i/7.2?topic=6-comparison-ipv4-ipv6)
+5. Google - estatísticas de implantação de IPv6 [www.google.com/intl/en/ipv6/statistics.html](https://www.google.com/intl/en/ipv6/statistics.html)
 
 ### REDES: informações sobre redes celulares móveis
 1. Códigos país de de operadoras de rede celular móvel [https://mcc-mnc-list.com/list](https://mcc-mnc-list.com/list)
@@ -93,20 +111,6 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 6. GSMArena - informações de cobertura celular no mundo [www.gsmarena.com/network-bands.php3](https://www.gsmarena.com/network-bands.php3)
 7. CellTower Locator [www.cell2gps.com](http://www.cell2gps.com/)
 8. CellMapper - calculadora de ID de célula [www.cellmapper.net/enbid](https://www.cellmapper.net/enbid)
-
-
-### REDES: informações e dados sobre protocolos e serviços: DNS, BGP e NTP
-1. DNS-OARC (Domain Name System Operations Analysis and Research Center) [www.dns-oarc.net](https://www.dns-oarc.net/)
-2. DNSViz - pesquisa de informações de zona (domínios DNS) [dnsviz.net](https://dnsviz.net/)
-3. Google Admin Toolbox Dig - pesquisa de informações de DNS [toolbox.googleapps.com/apps/dig](https://toolbox.googleapps.com/apps/dig/)
-4. Root-Servers: 13 servidores DNS root globais [root-servers.org/](https://root-servers.org/)
-5. IANA - serviço Whois (pesquisa de nomes de domínio, endereços IP e números de AS) [www.iana.org/whois](https://www.iana.org/whois)
-6. IANA: arquivos com informações sobre servidores root e sobre domínios TLD [www.iana.org/domains/root/files](https://www.iana.org/domains/root/files)
-7. DNS Terminologia (IETF revisou normas anteriores para consistência de termos) [www.rfc-editor.org/rfc/rfc8499](https://www.rfc-editor.org/rfc/rfc8499)
-8. NIC - NTP.br: serviço de tempo para Internet provido pelo NIC.br [ntp.br](https://ntp.br/)
-9. Network Time Foundation: serviço de tempo a nível mundial (referência, documentação e implementação) [ntp.org](https://ntp.org/)
-10. IANA - TIme Zone Databases [www.iana.org/time-zones](https://www.iana.org/time-zones)
-11. Google Developers - serviço de tempo [developers.google.com/time](https://developers.google.com/time/)
 
 ### REDES: HTTP, Web e REST APIs
 1. Cloudflare - HTTP/2 x HTTP/1.1 [www.cloudflare.com/pt-br/learning/performance/http2-vs-http1.1/](https://www.cloudflare.com/pt-br/learning/performance/http2-vs-http1.1/)
@@ -141,7 +145,7 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 1. CERT (Centro de Estudos, Resposta e Tratamento de Incidentes de Segurança no Brasil) [https://www.cert.br](https://www.cert.br/)
 2. NIC - Cartilha de Segurança da Internet [https://cartilha.cert.br](https://cartilha.cert.br/)
 3. ANPD (Autoridade Nac Proteção Dados) [https://www.gov.br/anpd/pt-br](https://www.gov.br/anpd/pt-br)
-4. ANPD - [https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-4-de-24-de-fevereiro-de-2023-466146077](https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-4-de-24-de-fevereiro-de-2023-466146077)
+4. ANPD multas e dosimetria [https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-4-de-24-de-fevereiro-de-2023-466146077](https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-4-de-24-de-fevereiro-de-2023-466146077)
 5. Gov.br - Privacidade e Segurança da Informação [https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados](https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados)
 6. Gov.br - Guia LGPD [https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/guias-operacionais-para-adequacao-a-lei-geral-de-protecao-de-dados-pessoais-lgpd](https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/guias-operacionais-para-adequacao-a-lei-geral-de-protecao-de-dados-pessoais-lgpd)
 7. NIC - padrões de segurança para redes e ISPs [https://bcp.nic.br/i+seg/](https://bcp.nic.br/i+seg/)
@@ -152,11 +156,17 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 12. TCP Ports - [varredura online por portas TCP abertas](https://pentest-tools.com/network-vulnerability-scanning/tcp-port-scanner-online-nmap)
 
 ### Cibersegurança - pesquisa sobre vulnerabilidades
-1. NVD (National Vulnerability Database) by NIST [https://nvd.nist.gov/](https://nvd.nist.gov/)
-2. CWE (Common Weakness Enumeration) by Mitre [https://cwe.mitre.org/index.html](https://cwe.mitre.org/index.html)
-3. OWASP Top10 2021 [https://owasp.org/Top10/](https://owasp.org/Top10/)
-4. Information is Beatiful - World's Biggest Data Breaches & Hacks [https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/](https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/)
-5. Information is Beatiful - Ranwomware Attacks [https://informationisbeautiful.net/visualizations/ransomware-attacks/](https://informationisbeautiful.net/visualizations/ransomware-attacks/)
+1. Vulnerabilidades (CVE) by CVE.org [https://www.cve.org/](https://www.cve.org/)
+2. Vulnerabilidades (CVE) by NVD [https://nvd.nist.gov/](https://nvd.nist.gov/)
+3. CVSS - indicador severidade de uma CVE - by FIRST [https://www.first.org/cvss/v3.1/specification-document](https://www.first.org/cvss/v3.1/specification-document)
+4. CWE (Common Weakness Enumeration) by Mitre [https://cwe.mitre.org/index.html](https://cwe.mitre.org/index.html)
+5. SANS CWE/SANS TOP 25 Most Dangerous Software Errors [https://www.sans.org/top25-software-errors/](https://www.sans.org/top25-software-errors/)
+9. OWASP Top10 2021 [https://owasp.org/Top10/](https://owasp.org/Top10/)
+7. IBM Security X-Force Threat Intelligence Index 2023 [https://www.ibm.com/reports/threat-intelligence](https://www.ibm.com/reports/threat-intelligence)
+8. Verizon - 2022 Data Breach Investigations Report [https://www.verizon.com/business/resources/reports/dbir/](https://www.verizon.com/business/resources/reports/dbir/)
+9. Cisco Talos Intelligence [https://talosintelligence.com/](https://talosintelligence.com/)
+10. Information is Beatiful - World's Biggest Data Breaches & Hacks [https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/](https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/)
+11. Information is Beatiful - Ransomware Attacks [https://informationisbeautiful.net/visualizations/ransomware-attacks/](https://informationisbeautiful.net/visualizations/ransomware-attacks/)
 
 
 ### Uso de criptografia em sistemas aplicativos: cifragem e assinaturas digitais de email e arquivos
@@ -166,7 +176,13 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 4. [GPG from GuardiaProject - inativo - guardianproject.info/archive/gnupg](https://guardianproject.info/archive/gnupg/)
 5. [GPG from GuardiaProject - GitHub - github.com/guardianproject/gnupg-for-android](https://github.com/guardianproject/gnupg-for-android)
 
-### Dados e recursos para atividades de modelagem e simulação
+### LABS: minicurso segurança
+1. Arquivo [run-a.exe](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/run-a.exe)
+2. Arquivo [run-b](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/run-b)
+3. Arquivo [run-c.txt](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/run-c.txt)
+
+
+### LABS: Dados e recursos para atividades de modelagem e simulação
 1. Run R code online [https://rdrr.io/snippets/](https://rdrr.io/snippets/)
 2. R online editor, IDE, compiler, interpreter [https://replit.com/languages/rlang](https://replit.com/languages/rlang)
 3. R Online Compiler by Programiz [https://www.programiz.com/r/online-compiler/](https://www.programiz.com/r/online-compiler/)
@@ -185,4 +201,4 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 
 
 
-Last Revision: 2023-04-25
+Last Revision: 2023-04-26
