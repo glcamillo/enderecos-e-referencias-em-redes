@@ -199,6 +199,7 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 3. Vídeo Youtube by goms tech talks: [LITERATURE REVIEW: a guide to write an effective literature review - simple and easy explanation](https://youtu.be/jzISoM3ssIw)
 
 
+### UFSC - minicurso segurança - o que é preciso saber
+1. [Minicurso Segurança - o que é preciso saber](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/UFSC-minicurso-SEGURANCA-o-que-e-preciso-saber-202304.pdf)
 
-
-Last Revision: 2023-04-26
+Last Revision: 2023-04-27
