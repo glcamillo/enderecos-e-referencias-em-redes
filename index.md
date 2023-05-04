@@ -129,6 +129,8 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 ### REDES: informações gerais
 1. Base64 - conversão [https://www.motobit.com/util/base64-decoder-encoder.as}p](https://www.motobit.com/util/base64-decoder-encoder.as}p)
 2. CyberChef - códigos e respectivas conversões além de cripto [https://gchq.github.io/CyberChef/](https://gchq.github.io/CyberChef/)
+3. URL encoder [https://www.urlencoder.io/](https://www.urlencoder.io/) e decoder [https://www.urldecoder.io/](https://www.urldecoder.io/)
+4. JWT (JSON Web Tokens) decoder [https://jwt.io/](https://jwt.io/)
 
 ### REDES: algumas organizações nacionais
 1. [NIC.br - Núcleo de Informação e Coordenação do Ponto BR https://nic.br/](https://nic.br/)
@@ -202,4 +204,4 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 ### UFSC - minicurso segurança - o que é preciso saber
 1. [Minicurso Segurança - o que é preciso saber](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/UFSC-minicurso-SEGURANCA-o-que-e-preciso-saber-202304.pdf)
 
-Last Revision: 2023-04-27
+Last Revision: 2023-05-04
