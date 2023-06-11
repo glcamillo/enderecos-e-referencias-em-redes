@@ -1,4 +1,4 @@
-Algumas referências básicas em redes de computadores e cibersegurança que tinham como objetivo atender ás aulas na UFSC em Araranguá.
+Algumas referências básicas em redes de computadores e cibersegurança (objetivo original: atender ás aulas na UFSC em Araranguá).
 
 ## Redes de Computadores
 
@@ -85,14 +85,15 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 10. Wikipedia - pilha de protocolos TCP/IP [https://en.wikipedia.org/wiki/Internet_protocol_suite](https://en.wikipedia.org/wiki/Internet_protocol_suite)
 
 
-### Redes de Computadores - Vídeos sobre TCP/IP, OSI da ISO e Camadas (aplicação)
+### Redes de Computadores - Vídeos sobre TCP/IP e OSI da ISO
 1. Vídeo-YouTube: what is TCP/IP and OSI? // FREE CCNA // EP 3 [https://www.youtube.com/watch?v=CRdL1PcherM](https://www.youtube.com/watch?v=CRdL1PcherM)
 2. Vídeo-YouTube: REAL LIFE example!! (TCP/IP and OSI layers) // FREE CCNA // EP 4 [https://www.youtube.com/watch?v=3kfO61Mensg](https://www.youtube.com/watch?v=3kfO61Mensg)
-3. Vídeo - YouTube: how the OSI model works on YouTube (Application and Transport Layers) // FREE CCNA // EP 5 [https://www.youtube.com/watch?v=oIRkXulqJA4](https://www.youtube.com/watch?v=oIRkXulqJA4)
+3. Vídeo-YouTube: how the OSI model works on YouTube (Application and Transport Layers) // FREE CCNA // EP 5 [https://www.youtube.com/watch?v=oIRkXulqJA4](https://www.youtube.com/watch?v=oIRkXulqJA4)
 
 ### Redes de Computadores - Vídeos sobre TCP/IP (camada rede e de enlace)
-1. Vídeo-YouTube: How Data moves through the Internet - Networking Fundamentals [https://www.youtube.com/watch?v=YJGGYKAV4pA](https://www.youtube.com/watch?v=YJGGYKAV4pA)
-2. Vídeo-YouTube:  Routers, Switches, Packets and Frames [https://www.youtube.com/watch?v=zhlMLRNY5-4](https://www.youtube.com/watch?v=zhlMLRNY5-4)
+1. Vídeo-YouTube: Ethernet (50th Birthday) - Computerphile [https://www.youtube.com/watch?v=TkOVgkcrvbg](https://www.youtube.com/watch?v=TkOVgkcrvbg)
+2. Vídeo-YouTube: How Data moves through the Internet - Networking Fundamentals [https://www.youtube.com/watch?v=YJGGYKAV4pA](https://www.youtube.com/watch?v=YJGGYKAV4pA)
+3. Vídeo-YouTube:  Routers, Switches, Packets and Frames [https://www.youtube.com/watch?v=zhlMLRNY5-4](https://www.youtube.com/watch?v=zhlMLRNY5-4)
 
 
 ### REDES: protocolo IPv6
@@ -205,4 +206,4 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 ### UFSC - minicurso segurança - o que é preciso saber
 1. [Minicurso Segurança - o que é preciso saber](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/UFSC-minicurso-SEGURANCA-o-que-e-preciso-saber-202304.pdf)
 
-Last Revision: 2023-05-04
+Last Revision: 2023-06-11
