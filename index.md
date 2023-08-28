@@ -1,4 +1,4 @@
-Algumas referências básicas em redes de computadores e cibersegurança (objetivo original: atender ás aulas na UFSC em Araranguá).
+Algumas referências básicas em redes de computadores, cibersegurança e arquitetura de computadores. Objetivo original: atender ás aulas na UFSC em Araranguá.
 
 ## Redes de Computadores
 
@@ -13,7 +13,7 @@ Algumas referências básicas em redes de computadores e cibersegurança (objeti
 ### REDES: materiais de aula complementares
 
 1. [Redes e Internet - Princípios gerais (TANENBAUM, 2003)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/REDES-internet-PRINCIPIOS-arquiteturais-by-Tanenbaum.pdf)
-2. [Camadas e Protocolos - modelos de referẽncia OSI e arquitetura TCP/IP)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/REDES-modelo-referencia-OSI-e-arquitetura-TCPIP.pdf)
+2. [Camadas e Protocolos - modelos de referência OSI e arquitetura TCP/IP)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/REDES-modelo-referencia-OSI-e-arquitetura-TCPIP.pdf)
 3. [Camadas e Protocolos - aspectos gerais](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/REDES-camadas-e-protocolos.pdf)
 4. [Resumo comandos para visualizar informações de TCP/IP](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/REDES-comandos-e-programas-em-tcpip.pdf)
 8. [Resumo ilustrativo de como se processa uma página Web (alterado de Kurose; Ross (2017)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/REDES-Material-Suplementar-como_se_processa_uma_solicitacao_pagina_Web.pdf)
@@ -144,6 +144,7 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 2. IETF - Pesquisa de Request for Comments (RFCs) [www.rfc-editor.org/](https://www.rfc-editor.org/) 
 3. IANA - autoridade para atribuição de nomes/endereços IP/números de protocolos [www.iana.org/](https://www.iana.org/)
 4. W3C (World Wide Consortium) - padrões Web [www.w3.org](https://www.w3.org/)
+5. IEEE - padrões da série 802 para redes locais [https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=68](https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=68) Obs.: o acesso aos documentos requer conta no sistema da IEEE.
 
 ## Cibersegurança
 1. CERT (Centro de Estudos, Resposta e Tratamento de Incidentes de Segurança no Brasil) [https://www.cert.br](https://www.cert.br/)
@@ -206,4 +207,28 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 ### UFSC - minicurso segurança - o que é preciso saber
 1. [Minicurso Segurança - o que é preciso saber](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/UFSC-minicurso-SEGURANCA-o-que-e-preciso-saber-202304.pdf)
 
-Last Revision: 2023-06-11
+
+## Arquitetura de Computadores
+
+### Compilers and Assemblers (online)
+1. Compiler Explorer: [https://godbolt.org/](https://godbolt.org/)
+
+### RISC-V
+1. Foundation and Especification of ISA: [https://riscv.org/](https://riscv.org/)
+2. Resources to Learn about: [https://riscv.org/risc-v-learn-online/](https://riscv.org/risc-v-learn-online/) 
+3. RISC-V Instruction Set Architecture (ISA) - Unprivileged and Privileged:[https://riscv.org/technical/specifications/](https://riscv.org/technical/specifications/)
+4. RISC-V Instruction Set Manual[https://github.com/riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual)
+5. Reference Card - [Green Card (by Elsevier) - from book P&H](https://www.elsevier.com/__data/assets/pdf_file/0011/297533/RISC-V-Reference-Data.pdf#RISC-V%20Reference%20Data)
+6. Book: [Computer Organization and Design RISC-V Edition](https://shop.elsevier.com/books/computer-organization-and-design-risc-v-edition/patterson/978-0-12-820331-6) The Hardware Software Interface - 2nd Edition - Dec 11, 2020 - David A. Patterson and John L. Hennessy
+7. Emulator by Computer Architectures for Education: [https://comparch.edu.cvut.cz/](https://comparch.edu.cvut.cz/)
+8. Emulator - QtRvSIM (RISC-V CPU simulator for education)[https://github.com/cvut/qtrvsim](https://github.com/cvut/qtrvsim)
+9. Emulator - QtRvSIM online: [https://comparch.edu.cvut.cz/qtrvsim/app/](https://comparch.edu.cvut.cz/qtrvsim/app/)
+10. Assembly Programming (book and simulator) by Prof. Edson Borin (Unicamp): [https://riscv-programming.org/](https://riscv-programming.org/)
+11. Assembly Programming (RISC-V book):[https://riscv-programming.org/book/riscv-book.html](https://riscv-programming.org/book/riscv-book.html)
+12. RISC-V Assembly Learn Environment: [https://colab.research.google.com/drive/1PM-3ulMFqeo4Ce2hIwir3IftcWyQ0SMh?usp=sharing](https://colab.research.google.com/drive/1PM-3ulMFqeo4Ce2hIwir3IftcWyQ0SMh?usp=sharing)
+13. Interpreter by CS3410 (Cornell University)[https://www.cs.cornell.edu/courses/cs3410/2019sp/riscv/interpreter/]
+(https://www.cs.cornell.edu/courses/cs3410/2019sp/riscv/interpreter/)
+
+
+
+Last Revision: 2023-08-28
