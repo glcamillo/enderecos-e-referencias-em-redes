@@ -226,8 +226,7 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 10. Assembly Programming (book and simulator) by Prof. Edson Borin (Unicamp): [https://riscv-programming.org/](https://riscv-programming.org/)
 11. Assembly Programming (RISC-V book):[https://riscv-programming.org/book/riscv-book.html](https://riscv-programming.org/book/riscv-book.html)
 12. RISC-V Assembly Learn Environment: [https://colab.research.google.com/drive/1PM-3ulMFqeo4Ce2hIwir3IftcWyQ0SMh?usp=sharing](https://colab.research.google.com/drive/1PM-3ulMFqeo4Ce2hIwir3IftcWyQ0SMh?usp=sharing)
-13. Interpreter by CS3410 (Cornell University)[https://www.cs.cornell.edu/courses/cs3410/2019sp/riscv/interpreter/]
-(https://www.cs.cornell.edu/courses/cs3410/2019sp/riscv/interpreter/)
+13. Interpreter by CS3410 at Cornell University:[https://www.cs.cornell.edu/courses/cs3410/2019sp/riscv/interpreter/](https://www.cs.cornell.edu/courses/cs3410/2019sp/riscv/interpreter/)
 
 
 
