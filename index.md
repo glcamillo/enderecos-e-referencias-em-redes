@@ -212,6 +212,8 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 
 ### Compilers and Assemblers (online)
 1. Compiler Explorer: [https://godbolt.org/](https://godbolt.org/)
+2. Programming models for 64 bits (ISA x86-64):[https://wiki.osdev.org/X86-64](https://wiki.osdev.org/X86-64)
+3. Programming Unix/Linux with 64 bits - model LP64: [https://unix.org/version2/whatsnew/lp64_wp.html](https://unix.org/version2/whatsnew/lp64_wp.html)
 
 ### RISC-V
 1. Foundation and Especification of ISA: [https://riscv.org/](https://riscv.org/)
@@ -230,4 +232,4 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 
 
 
-Last Revision: 2023-08-28
+Last Revision: 2023-08-30
