@@ -3,7 +3,7 @@ Algumas referências básicas em redes de computadores, cibersegurança e arquit
 ## Redes de Computadores
 
 ### Redes de Computadores - materiais de referência
-1. Bibliografia complementar: LIVRO disponibilizado na licença Creative Commons: DORDAL, Peter L. ***An Introduction to Computer Networks***. Second Ed. Department of Computer Science:Loyola University Chicago. Disponível: [https://intronetworks.cs.luc.edu/current2/html/index.html](https://intronetworks.cs.luc.edu/current2/html/index.html)
+1. Livro disponibilizado na licença Creative Commons: DORDAL, Peter L. ***An Introduction to Computer Networks***. Second Ed. Department of Computer Science:Loyola University Chicago. Disponível: [https://intronetworks.cs.luc.edu/current2/html/index.html](https://intronetworks.cs.luc.edu/current2/html/index.html)
 2. A SANS disponibiliza documentos em forma de _Cheat_ _Sheets_: [https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
 3. SANS _Cheat_ _Sheets_: [TCP/IP e tcpdump (formatos e campos das unidades de dados dos protocolos de camda de rede e de transporte)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/SANS-CheatSheets-TCPIPCheatsheet2021.pdf)
 4. SANS _Cheat_ _Sheets_: [IPv6 (formatos e campos da unidade de dados do protocolo de rede IPv6)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/SANS-CheatSheets-ipv6_tcpip_pocketguide.pdf)
@@ -208,7 +208,11 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 1. [Minicurso Segurança - o que é preciso saber](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/UFSC-minicurso-SEGURANCA-o-que-e-preciso-saber-202304.pdf)
 
 
-## Arquitetura de Computadores
+## Arquitetura de Computadores e Sistemas Operacionais
+1. Blog: Why Textbooks Should Be Free by Remzi Arpaci-Dusseau [https://from-a-to-remzi.blogspot.com/2014/01/the-case-for-free-online-books-fobs.html](https://from-a-to-remzi.blogspot.com/2014/01/the-case-for-free-online-books-fobs.html)
+
+### Sistemas Operacionais
+1. Livro disponibilizado na forma livre (free online operating systems book) por Remzi H. Arpaci-Dusseau e Andrea C. Arpaci-Dusseau (University of Wisconsin-Madison): ***Operating Systems: Three Easy Pieces***. Version 1.00. Arpaci-Dusseau Books. Ago. 2018. Disponível em: [https://pages.cs.wisc.edu/\~remzi/OSTEP/](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 ### Compilers and Assemblers (online)
 1. Compiler Explorer: [https://godbolt.org/](https://godbolt.org/)
@@ -232,4 +236,4 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 
 
 
-Last Revision: 2023-08-30
+Last Revision: 2023-09-15
