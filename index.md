@@ -213,6 +213,7 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 
 ### Sistemas Operacionais
 1. Livro disponibilizado na forma livre (free online operating systems book) por Remzi H. Arpaci-Dusseau e Andrea C. Arpaci-Dusseau (University of Wisconsin-Madison): ***Operating Systems: Three Easy Pieces***. Version 1.00. Arpaci-Dusseau Books. Ago. 2018. Disponível em: [https://pages.cs.wisc.edu/\~remzi/OSTEP/](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+2. Portal sobre sistems operacionais e arquitetura[https://wiki.osdev.org/Main_Page](https://wiki.osdev.org/Main_Page)
 
 ### Compilers and Assemblers (online)
 1. Compiler Explorer: [https://godbolt.org/](https://godbolt.org/)
