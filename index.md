@@ -1,4 +1,4 @@
-Algumas referências básicas em redes de computadores, cibersegurança e arquitetura de computadores. Objetivo original: atender ás aulas na UFSC em Araranguá.
+Algumas referências básicas em redes de computadores, cibersegurança, arquitetura de computadores e sistemas operacionais. Objetivo original: atender às aulas na UFSC em Araranguá.
 
 ## Redes de Computadores
 
