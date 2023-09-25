@@ -181,10 +181,12 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 4. [GPG from GuardiaProject - inativo - guardianproject.info/archive/gnupg](https://guardianproject.info/archive/gnupg/)
 5. [GPG from GuardiaProject - GitHub - github.com/guardianproject/gnupg-for-android](https://github.com/guardianproject/gnupg-for-android)
 
-### LABS: minicurso segurança
-1. Arquivo [run-a.exe](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/run-a.exe)
-2. Arquivo [run-b](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/run-b)
-3. Arquivo [run-c.txt](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/run-c.txt)
+### LABS: segurança da informação
+1. [Segurança: práticas e informações em hashing e criptografia simétrica](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/seguranca-hashing-e-cripto-INFO-e-PRATICAS-20230925.pdf)
+2. [Minicurso Segurança - o que é preciso saber](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/UFSC-minicurso-SEGURANCA-o-que-e-preciso-saber-202304.pdf)
+3. Arquivo [run-a.exe](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/run-a.exe)
+4. Arquivo [run-b](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/run-b)
+5. Arquivo [run-c.txt](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/run-c.txt)
 
 
 ### LABS: Dados e recursos para atividades de modelagem e simulação
@@ -202,11 +204,6 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 1. Livro: [Metodologia de Pesquisa para Ciência da Computação do Prof. Raul Sidnei Wazlawick](https://raulwazlawick.paginas.ufsc.br/livros/metodologia-de-pesquisa-para-ciencia-da-computacao/)
 2. Live sobre Pesquisa em CC com Prof. Raul Wazlawick [https://www.youtube.com/watch?v=RayW_ELIlyc](https://www.youtube.com/watch?v=RayW_ELIlyc)
 3. Vídeo Youtube by goms tech talks: [LITERATURE REVIEW: a guide to write an effective literature review - simple and easy explanation](https://youtu.be/jzISoM3ssIw)
-
-
-### UFSC - minicurso segurança - o que é preciso saber
-1. [Minicurso Segurança - o que é preciso saber](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/UFSC-minicurso-SEGURANCA-o-que-e-preciso-saber-202304.pdf)
-
 
 ## Arquitetura de Computadores e Sistemas Operacionais
 1. Blog: Why Textbooks Should Be Free by Remzi Arpaci-Dusseau [https://from-a-to-remzi.blogspot.com/2014/01/the-case-for-free-online-books-fobs.html](https://from-a-to-remzi.blogspot.com/2014/01/the-case-for-free-online-books-fobs.html)
