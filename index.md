@@ -1,4 +1,4 @@
-Algumas referências básicas em redes de computadores, cibersegurança, arquitetura de computadores e sistemas operacionais. Objetivo original: atender às aulas na UFSC em Araranguá.
+Algumas referências básicas em redes de computadores, cibersegurança, arquitetura de computadores e sistemas operacionais. Objetivo original: atender aulas na UFSC em Araranguá.
 
 ## Redes de Computadores
 
@@ -128,12 +128,6 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 12. TLS/SSL - Check [clienttest.ssllabs.com:8443/ssltest/viewMyClient.html](https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html)
 
 
-### REDES: informações gerais
-1. Base64 - conversão [https://www.motobit.com/util/base64-decoder-encoder.as}p](https://www.motobit.com/util/base64-decoder-encoder.as}p)
-2. CyberChef - códigos e respectivas conversões além de cripto [https://gchq.github.io/CyberChef/](https://gchq.github.io/CyberChef/)
-3. URL encoder [https://www.urlencoder.io/](https://www.urlencoder.io/) e decoder [https://www.urldecoder.io/](https://www.urldecoder.io/)
-4. JWT (JSON Web Tokens) decoder [https://jwt.io/](https://jwt.io/)
-
 ### REDES: algumas organizações nacionais
 1. [NIC.br - Núcleo de Informação e Coordenação do Ponto BR https://nic.br/](https://nic.br/)
 2. [CGI.br - Comitê Gestor da Internet no Brasil https://cgi.br/](https://cgi.br/)
@@ -184,9 +178,51 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 ### LABS: segurança da informação
 1. [Segurança: práticas e informações em hashing e criptografia simétrica](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/seguranca-hashing-e-cripto-INFO-e-PRATICAS-20230925.pdf)
 2. [Minicurso Segurança - o que é preciso saber](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/UFSC-minicurso-SEGURANCA-o-que-e-preciso-saber-202304.pdf)
-3. Arquivo [run-a.exe](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/run-a.exe)
-4. Arquivo [run-b](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/run-b)
-5. Arquivo [run-c.txt](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/run-c.txt)
+
+
+### Codificação e conversão entre formatos de dados
+1. Base64 - conversão [https://www.motobit.com/util/base64-decoder-encoder.as}p](https://www.motobit.com/util/base64-decoder-encoder.asp)
+2. CyberChef - códigos e respectivas conversões além de cripto [https://cyberchef.org](https://cyberchef.org)
+3. URL encoder [https://www.urlencoder.io/](https://www.urlencoder.io/) e decoder [https://www.urldecoder.io/](https://www.urldecoder.io/)
+4. JWT (JSON Web Tokens) decoder [https://jwt.io/](https://jwt.io/)
+5. GooGle Admin Toolbox (Encode/Decode) [https://toolbox.googleapps.com/apps/encode_decode/](https://toolbox.googleapps.com/apps/encode_decode/)
+
+
+## Arquitetura de Computadores e Sistemas Operacionais
+1. Blog: Why Textbooks Should Be Free by Remzi Arpaci-Dusseau [https://from-a-to-remzi.blogspot.com/2014/01/the-case-for-free-online-books-fobs.html](https://from-a-to-remzi.blogspot.com/2014/01/the-case-for-free-online-books-fobs.html)
+2. The Concurrency Revolution by Dr.Dobbs [https://www.drdobbs.com/the-concurrency-revolution/184401916](https://www.drdobbs.com/the-concurrency-revolution/184401916)
+
+### Sistemas Operacionais
+1. Livro disponibilizado na forma livre (free online operating systems book) por Remzi H. Arpaci-Dusseau e Andrea C. Arpaci-Dusseau (University of Wisconsin-Madison): ***Operating Systems: Three Easy Pieces***. Version 1.00. Arpaci-Dusseau Books. Ago. 2018. Disponível em: [https://pages.cs.wisc.edu/\~remzi/OSTEP/](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+2. Portal sobre sistems operacionais e arquitetura [https://wiki.osdev.org/Main_Page](https://wiki.osdev.org/Main_Page)
+
+### Compilers and Assemblers (online)
+1. Compiler Explorer [https://godbolt.org/](https://godbolt.org/)
+2. OnlineGDB [https://www.onlinegdb.com/](https://www.onlinegdb.com/)
+3. Replit [https://replit.com/](https://replit.com/)
+4. JDoodle - Online Java Compiler IDE [https://www.jdoodle.com/online-java-compiler-ide](https://www.jdoodle.com/online-java-compiler-ide)
+5. Programming models for 64 bits (ISA x86-64) [https://wiki.osdev.org/X86-64](https://wiki.osdev.org/X86-64)
+6. Programming Unix/Linux with 64 bits - model LP64 [https://unix.org/version2/whatsnew/lp64_wp.html](https://unix.org/version2/whatsnew/lp64_wp.html)
+
+### RISC-V
+1. Foundation and Especification of ISA [https://riscv.org/](https://riscv.org/)
+2. Resources to Learn about [https://riscv.org/risc-v-learn-online/](https://riscv.org/risc-v-learn-online/) 
+3. RISC-V Instruction Set Architecture (ISA) - Unprivileged and Privileged [https://riscv.org/technical/specifications/](https://riscv.org/technical/specifications/)
+4. RISC-V Instruction Set Manual [https://github.com/riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual)
+5. Reference Card [Green Card (by Elsevier) - from book P&H](https://www.elsevier.com/__data/assets/pdf_file/0011/297533/RISC-V-Reference-Data.pdf#RISC-V%20Reference%20Data)
+6. Book: [Computer Organization and Design RISC-V Edition](https://shop.elsevier.com/books/computer-organization-and-design-risc-v-edition/patterson/978-0-12-820331-6) The Hardware Software Interface - 2nd Edition - Dec 11, 2020 - David A. Patterson and John L. Hennessy
+7. Emulator by Computer Architectures for Education [https://comparch.edu.cvut.cz/](https://comparch.edu.cvut.cz/)
+8. Emulator - QtRvSIM (RISC-V CPU simulator for education)[https://github.com/cvut/qtrvsim](https://github.com/cvut/qtrvsim)
+9. Emulator - QtRvSIM online: [https://comparch.edu.cvut.cz/qtrvsim/app/](https://comparch.edu.cvut.cz/qtrvsim/app/)
+10. Assembly Programming (book and simulator) by Prof. Edson Borin (Unicamp) [https://riscv-programming.org/](https://riscv-programming.org/)
+11. Assembly Programming (RISC-V book) [https://riscv-programming.org/book/riscv-book.html](https://riscv-programming.org/book/riscv-book.html)
+12. RISC-V Assembly Learn Environment [https://colab.research.google.com/drive/1PM-3ulMFqeo4Ce2hIwir3IftcWyQ0SMh?usp=sharing](https://colab.research.google.com/drive/1PM-3ulMFqeo4Ce2hIwir3IftcWyQ0SMh?usp=sharing)
+13. Interpreter by CS3410 at Cornell University [https://www.cs.cornell.edu/courses/cs3410/2019sp/riscv/interpreter/](https://www.cs.cornell.edu/courses/cs3410/2019sp/riscv/interpreter/)
+
+### Revisão de literatura (para artigos científicos)
+1. Livro [Metodologia de Pesquisa para Ciência da Computação do Prof. Raul Sidnei Wazlawick](https://raulwazlawick.paginas.ufsc.br/livros/metodologia-de-pesquisa-para-ciencia-da-computacao/)
+2. Live sobre Pesquisa em CC com Prof. Raul Wazlawick [https://www.youtube.com/watch?v=RayW_ELIlyc](https://www.youtube.com/watch?v=RayW_ELIlyc)
+3. Vídeo Youtube by goms tech talks [LITERATURE REVIEW: a guide to write an effective literature review - simple and easy explanation](https://youtu.be/jzISoM3ssIw)
 
 
 ### LABS: Dados e recursos para atividades de modelagem e simulação
@@ -200,38 +236,5 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 8. [Dados D](https://raw.githubusercontent.com/glcamillo/aulas-ufsc-materiais/gh-pages/dados-d.csv)
 
 
-### Revisão de literatura (para artigos científicos)
-1. Livro: [Metodologia de Pesquisa para Ciência da Computação do Prof. Raul Sidnei Wazlawick](https://raulwazlawick.paginas.ufsc.br/livros/metodologia-de-pesquisa-para-ciencia-da-computacao/)
-2. Live sobre Pesquisa em CC com Prof. Raul Wazlawick [https://www.youtube.com/watch?v=RayW_ELIlyc](https://www.youtube.com/watch?v=RayW_ELIlyc)
-3. Vídeo Youtube by goms tech talks: [LITERATURE REVIEW: a guide to write an effective literature review - simple and easy explanation](https://youtu.be/jzISoM3ssIw)
 
-## Arquitetura de Computadores e Sistemas Operacionais
-1. Blog: Why Textbooks Should Be Free by Remzi Arpaci-Dusseau [https://from-a-to-remzi.blogspot.com/2014/01/the-case-for-free-online-books-fobs.html](https://from-a-to-remzi.blogspot.com/2014/01/the-case-for-free-online-books-fobs.html)
-
-### Sistemas Operacionais
-1. Livro disponibilizado na forma livre (free online operating systems book) por Remzi H. Arpaci-Dusseau e Andrea C. Arpaci-Dusseau (University of Wisconsin-Madison): ***Operating Systems: Three Easy Pieces***. Version 1.00. Arpaci-Dusseau Books. Ago. 2018. Disponível em: [https://pages.cs.wisc.edu/\~remzi/OSTEP/](https://pages.cs.wisc.edu/~remzi/OSTEP/)
-2. Portal sobre sistems operacionais e arquitetura[https://wiki.osdev.org/Main_Page](https://wiki.osdev.org/Main_Page)
-
-### Compilers and Assemblers (online)
-1. Compiler Explorer: [https://godbolt.org/](https://godbolt.org/)
-2. Programming models for 64 bits (ISA x86-64):[https://wiki.osdev.org/X86-64](https://wiki.osdev.org/X86-64)
-3. Programming Unix/Linux with 64 bits - model LP64: [https://unix.org/version2/whatsnew/lp64_wp.html](https://unix.org/version2/whatsnew/lp64_wp.html)
-
-### RISC-V
-1. Foundation and Especification of ISA: [https://riscv.org/](https://riscv.org/)
-2. Resources to Learn about: [https://riscv.org/risc-v-learn-online/](https://riscv.org/risc-v-learn-online/) 
-3. RISC-V Instruction Set Architecture (ISA) - Unprivileged and Privileged:[https://riscv.org/technical/specifications/](https://riscv.org/technical/specifications/)
-4. RISC-V Instruction Set Manual[https://github.com/riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual)
-5. Reference Card - [Green Card (by Elsevier) - from book P&H](https://www.elsevier.com/__data/assets/pdf_file/0011/297533/RISC-V-Reference-Data.pdf#RISC-V%20Reference%20Data)
-6. Book: [Computer Organization and Design RISC-V Edition](https://shop.elsevier.com/books/computer-organization-and-design-risc-v-edition/patterson/978-0-12-820331-6) The Hardware Software Interface - 2nd Edition - Dec 11, 2020 - David A. Patterson and John L. Hennessy
-7. Emulator by Computer Architectures for Education: [https://comparch.edu.cvut.cz/](https://comparch.edu.cvut.cz/)
-8. Emulator - QtRvSIM (RISC-V CPU simulator for education)[https://github.com/cvut/qtrvsim](https://github.com/cvut/qtrvsim)
-9. Emulator - QtRvSIM online: [https://comparch.edu.cvut.cz/qtrvsim/app/](https://comparch.edu.cvut.cz/qtrvsim/app/)
-10. Assembly Programming (book and simulator) by Prof. Edson Borin (Unicamp): [https://riscv-programming.org/](https://riscv-programming.org/)
-11. Assembly Programming (RISC-V book):[https://riscv-programming.org/book/riscv-book.html](https://riscv-programming.org/book/riscv-book.html)
-12. RISC-V Assembly Learn Environment: [https://colab.research.google.com/drive/1PM-3ulMFqeo4Ce2hIwir3IftcWyQ0SMh?usp=sharing](https://colab.research.google.com/drive/1PM-3ulMFqeo4Ce2hIwir3IftcWyQ0SMh?usp=sharing)
-13. Interpreter by CS3410 at Cornell University:[https://www.cs.cornell.edu/courses/cs3410/2019sp/riscv/interpreter/](https://www.cs.cornell.edu/courses/cs3410/2019sp/riscv/interpreter/)
-
-
-
-Last Revision: 2023-09-15
+Last Revision: 20231103
