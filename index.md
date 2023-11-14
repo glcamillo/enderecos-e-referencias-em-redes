@@ -180,12 +180,16 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 2. [Minicurso Segurança - o que é preciso saber](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/UFSC-minicurso-SEGURANCA-o-que-e-preciso-saber-202304.pdf)
 
 
-### Codificação e conversão entre formatos de dados
+### Codificação e conversão entre formatos de dados (base64, JWT, JWS)
 1. Base64 - conversão [https://www.motobit.com/util/base64-decoder-encoder.as}p](https://www.motobit.com/util/base64-decoder-encoder.asp)
 2. CyberChef - códigos e respectivas conversões além de cripto [https://cyberchef.org](https://cyberchef.org)
 3. URL encoder [https://www.urlencoder.io/](https://www.urlencoder.io/) e decoder [https://www.urldecoder.io/](https://www.urldecoder.io/)
-4. JWT (JSON Web Tokens) decoder [https://jwt.io/](https://jwt.io/)
-5. GooGle Admin Toolbox (Encode/Decode) [https://toolbox.googleapps.com/apps/encode_decode/](https://toolbox.googleapps.com/apps/encode_decode/)
+4. JSON Editor Online [https://jsoneditoronline.org/](https://jsoneditoronline.org/)
+5. JSON Lint (validator) [https://jsonlint.com/](https://jsonlint.com/)
+6. JWT (JSON Web Tokens) decoder [https://jwt.io/](https://jwt.io/)
+7. PingIdentity Dev Tools (JWT e SAML) [https://developer.pingidentity.com/en/tools.html](https://developer.pingidentity.com/en/tools.html)
+8. JWT decoder,verifier [https://dinochiesa.github.io/jwt/](https://dinochiesa.github.io/jwt/)
+9. GooGle Admin Toolbox (Encode/Decode) [https://toolbox.googleapps.com/apps/encode_decode/](https://toolbox.googleapps.com/apps/encode_decode/)
 
 
 ## Arquitetura de Computadores e Sistemas Operacionais
@@ -214,10 +218,12 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 7. Emulator by Computer Architectures for Education [https://comparch.edu.cvut.cz/](https://comparch.edu.cvut.cz/)
 8. Emulator - QtRvSIM (RISC-V CPU simulator for education)[https://github.com/cvut/qtrvsim](https://github.com/cvut/qtrvsim)
 9. Emulator - QtRvSIM online: [https://comparch.edu.cvut.cz/qtrvsim/app/](https://comparch.edu.cvut.cz/qtrvsim/app/)
-10. Assembly Programming (book and simulator) by Prof. Edson Borin (Unicamp) [https://riscv-programming.org/](https://riscv-programming.org/)
-11. Assembly Programming (RISC-V book) [https://riscv-programming.org/book/riscv-book.html](https://riscv-programming.org/book/riscv-book.html)
-12. RISC-V Assembly Learn Environment [https://colab.research.google.com/drive/1PM-3ulMFqeo4Ce2hIwir3IftcWyQ0SMh?usp=sharing](https://colab.research.google.com/drive/1PM-3ulMFqeo4Ce2hIwir3IftcWyQ0SMh?usp=sharing)
-13. Interpreter by CS3410 at Cornell University [https://www.cs.cornell.edu/courses/cs3410/2019sp/riscv/interpreter/](https://www.cs.cornell.edu/courses/cs3410/2019sp/riscv/interpreter/)
+10. WebRISC-V [https://github.com/Mariotti94/WebRISC-V](https://github.com/Mariotti94/WebRISC-V)
+11. WebRISC-V online [https://webriscv.dii.unisi.it/](https://webriscv.dii.unisi.it/)
+12. Assembly Programming (book and simulator) by Prof. Edson Borin (Unicamp) [https://riscv-programming.org/](https://riscv-programming.org/)
+13. Assembly Programming (RISC-V book) [https://riscv-programming.org/book/riscv-book.html](https://riscv-programming.org/book/riscv-book.html)
+14. RISC-V Assembly Learn Environment [https://colab.research.google.com/drive/1PM-3ulMFqeo4Ce2hIwir3IftcWyQ0SMh?usp=sharing](https://colab.research.google.com/drive/1PM-3ulMFqeo4Ce2hIwir3IftcWyQ0SMh?usp=sharing)
+15. Interpreter by CS3410 at Cornell University [https://www.cs.cornell.edu/courses/cs3410/2019sp/riscv/interpreter/](https://www.cs.cornell.edu/courses/cs3410/2019sp/riscv/interpreter/)
 
 ### Revisão de literatura (para artigos científicos)
 1. Livro [Metodologia de Pesquisa para Ciência da Computação do Prof. Raul Sidnei Wazlawick](https://raulwazlawick.paginas.ufsc.br/livros/metodologia-de-pesquisa-para-ciencia-da-computacao/)
@@ -237,4 +243,4 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 
 
 
-Last Revision: 20231103
+Last Revision: 20231114
