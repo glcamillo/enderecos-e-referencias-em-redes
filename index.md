@@ -1,4 +1,4 @@
-Algumas referências básicas em redes de computadores, cibersegurança, arquitetura de computadores e sistemas operacionais. Objetivo original: atender aulas na UFSC em Araranguá.
+Algumas referências básicas em redes de computadores, cibersegurança, arquitetura de computadores e sistemas operacionais (coleção particular de endereços).
 
 ## Redes de Computadores
 
@@ -32,6 +32,9 @@ Algumas referências básicas em redes de computadores, cibersegurança, arquite
 10. IETF - discussão sobre ***consolidação na Internet*** [www.ietf.org/blog/consolidation](https://www.ietf.org/blog/consolidation/)
 11. IETF - ***Protocol and Engineering Effects of Consolidation*** [datatracker.ietf.org/doc/draft-lazanski-consolidation](https://datatracker.ietf.org/doc/draft-lazanski-consolidation/)
 
+### Sobre organizações em redes e internet (*não completo, apenas para indicar origem dos endereços de serviços apresentados a seguir*)
+
+NIC (Núcleo de Informação e Coordenação do Ponto BR - [NIC.br](https://nic.br)): é a instituição encarregar de implementar as decisões do Comitê Gestor ([CGI.br](https://cgi.br/)) e "é o responsável por coordenar e integrar as iniciativas e serviços da Internet no País." Principais atividades: [Registro.br](https://registro.br/), Pontos de Troca de Tráfego: [IX.br](https://ix.br/), [Cert.br](https://www.cert.br/) e [NTP.br](https://ntp.br/). Lista completa disponível em: NIC > [Atividades](https://nic.br/atividades/).
 
 ### REDES: informações/dados/testes em Redes e Internet
 1. HE (Hurricane Electric) - informação de AS referente ao ISP [bgp.he.net](https://bgp.he.net/)
@@ -85,15 +88,15 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 10. Wikipedia - pilha de protocolos TCP/IP [https://en.wikipedia.org/wiki/Internet_protocol_suite](https://en.wikipedia.org/wiki/Internet_protocol_suite)
 
 
-### Redes de Computadores - Vídeos sobre TCP/IP e OSI da ISO
-1. Vídeo-YouTube: what is TCP/IP and OSI? // FREE CCNA // EP 3 [https://www.youtube.com/watch?v=CRdL1PcherM](https://www.youtube.com/watch?v=CRdL1PcherM)
-2. Vídeo-YouTube: REAL LIFE example!! (TCP/IP and OSI layers) // FREE CCNA // EP 4 [https://www.youtube.com/watch?v=3kfO61Mensg](https://www.youtube.com/watch?v=3kfO61Mensg)
-3. Vídeo-YouTube: how the OSI model works on YouTube (Application and Transport Layers) // FREE CCNA // EP 5 [https://www.youtube.com/watch?v=oIRkXulqJA4](https://www.youtube.com/watch?v=oIRkXulqJA4)
-
-### Redes de Computadores - Vídeos sobre TCP/IP (camada rede e de enlace)
-1. Vídeo-YouTube: Ethernet (50th Birthday) - Computerphile [https://www.youtube.com/watch?v=TkOVgkcrvbg](https://www.youtube.com/watch?v=TkOVgkcrvbg)
-2. Vídeo-YouTube: How Data moves through the Internet - Networking Fundamentals [https://www.youtube.com/watch?v=YJGGYKAV4pA](https://www.youtube.com/watch?v=YJGGYKAV4pA)
-3. Vídeo-YouTube:  Routers, Switches, Packets and Frames [https://www.youtube.com/watch?v=zhlMLRNY5-4](https://www.youtube.com/watch?v=zhlMLRNY5-4)
+### Redes de Computadores - Seleção *própria e particular* de Vídeos sobre OSI e TCP/IP: camada rede e de enlace; encapsulamento e endereçamento
+1. Vídeo YouTube by NGT Academy [Routers, Switches, Packets and Frames](https://www.youtube.com/watch?v=zhlMLRNY5-4) Ótimo tutorial sobre pacotes (escopo endereçamento Internet com **endereços IPv4/IPv6 hierárquicos**) e quadros (escopo local, normalmente em rede local, mas também entre dois roteadores com **endereços MAC planos**.
+2. Vídeo Youtube by Practical Networking [Packet Traveling - How Packets Move Through a Network](https://www.youtube.com/watch?v=rYodcvhh7b8) Apresenta as camadas de rede do ponto de vista de endereçamento de camada de rede (IP) de camada de enlace (MAC), incluindo: tabelas de roteamento; tabelas de endereços MAC (nos switches, relacionam porta - endereço MAC) e tabela ARP (nos dispositivos, é uma cache da relação entre endereço IP e endereço MAC).
+3. Vídeo Youtube by Practical Networking [How Data moves through the Internet - Networking Fundamentals](https://www.youtube.com/watch?v=YJGGYKAV4pA) Versão mais recente do vídeo anterior, com maior nível de detalhamento.
+5. Vídeo YouTube by NetworkChuck [what is TCP/IP and OSI? // FREE CCNA // EP 3](https://www.youtube.com/watch?v=CRdL1PcherM) Aspectos introdutórios, com apresentação do **modelo OSI** e da **arquitetura TCP/IP** e de suas relações.
+6. Vídeo YouTube by NetworkChuck [REAL LIFE example!! (TCP/IP and OSI layers) // FREE CCNA // EP 4](https://www.youtube.com/watch?v=3kfO61Mensg)
+7. Vídeo YouTube by NetworkChuck [how the OSI model works on YouTube (Application and Transport Layers) // FREE CCNA // EP 5](https://www.youtube.com/watch?v=oIRkXulqJA4) Interessante por incluir tipos de transporte (TCP e UDP) além dos protocolos de camada de aplicação.
+8. Vídeo YouTube by LearnTech Training [Understanding Segments, Packets, and Frames - Data Encapsulation Series](https://www.youtube.com/watch?v=P5jC8D5zndc) Trata de camadas e do encapsulamento, desde a camada de aplicação até de enlace.
+9. Vídeo YouTube by Computerphile [Ethernet (50th Birthday) - Computerphile](https://www.youtube.com/watch?v=TkOVgkcrvbg) Aspectos históricos da criação do padrão Ethernet
 
 
 ### REDES: protocolo IPv6
@@ -242,5 +245,5 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 8. [Dados D](https://raw.githubusercontent.com/glcamillo/aulas-ufsc-materiais/gh-pages/dados-d.csv)
 
 
-
-Last Revision: 20231114
+Observation: the initial objective was to attend classes at UFSC (networks, security and computer architecture) (2022/2023).
+Last Revision: 20240825
