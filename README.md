@@ -1,4 +1,4 @@
-# UFSC - Araranguá
-## Materiais de aula e referências para as disciplinas de Redes de Computadores e de Modelagem e Simulação
+# Referências Básicas em Redes
+## Informações, endereços (links) e referências em Redes de Computadores, Internet e Cibersegurança.
 
-## [Link de acesso: https://glcamillo.github.io/aulas-ufsc-materiais/](https://glcamillo.github.io/aulas-ufsc-materiais/)
+## Link de acesso: [glcamillo.github.io/enderecos-e-referencias-em-redes](https://glcamillo.github.io/enderecos-e-referencias-em-redes/)
