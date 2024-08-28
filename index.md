@@ -1,6 +1,8 @@
-Algumas referências básicas em redes de computadores, cibersegurança, arquitetura de computadores e sistemas operacionais (coleção particular de endereços).
+Algumas referências básicas[^1] em redes de computadores, cibersegurança, arquitetura de computadores e sistemas operacionais. Revisto em: [^2].
 
-## Redes de Computadores
+# Redes de Computadores
+
+## Materiais e Referências em Redes e Internet (protocolos)
 
 ### Redes de Computadores - materiais de referência
 1. Livro disponibilizado na licença Creative Commons: DORDAL, Peter L. ***An Introduction to Computer Networks***. Second Ed. Department of Computer Science:Loyola University Chicago. Disponível: [https://intronetworks.cs.luc.edu/current2/html/index.html](https://intronetworks.cs.luc.edu/current2/html/index.html)
@@ -10,7 +12,7 @@ Algumas referências básicas em redes de computadores, cibersegurança, arquite
 5. IPv6 Cheat Sheet by Jens Roesen [https://www.roesen.org/files/ipv6_cheat_sheet.pdf](https://www.roesen.org/files/ipv6_cheat_sheet.pdf)
 
 
-### REDES: materiais de aula complementares
+### REDES: materiais informativos complementares
 
 1. [Redes e Internet - Princípios gerais (TANENBAUM, 2003)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/REDES-internet-PRINCIPIOS-arquiteturais-by-Tanenbaum.pdf)
 2. [Camadas e Protocolos - modelos de referência OSI e arquitetura TCP/IP)](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/REDES-modelo-referencia-OSI-e-arquitetura-TCPIP.pdf)
@@ -32,45 +34,20 @@ Algumas referências básicas em redes de computadores, cibersegurança, arquite
 10. IETF - discussão sobre ***consolidação na Internet*** [www.ietf.org/blog/consolidation](https://www.ietf.org/blog/consolidation/)
 11. IETF - ***Protocol and Engineering Effects of Consolidation*** [datatracker.ietf.org/doc/draft-lazanski-consolidation](https://datatracker.ietf.org/doc/draft-lazanski-consolidation/)
 
-### Sobre organizações em redes e internet (*não completo, apenas para indicar origem dos endereços de serviços apresentados a seguir*)
+### REDES: algumas organizações nacionais
+1. [NIC.br - Núcleo de Informação e Coordenação do Ponto BR https://nic.br/](https://nic.br/)
+2. [CGI.br - Comitê Gestor da Internet no Brasil https://cgi.br/](https://cgi.br/)
+3. [RNP - Rede Nacional de Pesquisa https://www.rnp.br/](https://www.rnp.br/)
 
 NIC (Núcleo de Informação e Coordenação do Ponto BR - [NIC.br](https://nic.br)): é a instituição encarregar de implementar as decisões do Comitê Gestor ([CGI.br](https://cgi.br/)) e "é o responsável por coordenar e integrar as iniciativas e serviços da Internet no País." Principais atividades: [Registro.br](https://registro.br/), Pontos de Troca de Tráfego: [IX.br](https://ix.br/), [Cert.br](https://www.cert.br/) e [NTP.br](https://ntp.br/). Lista completa disponível em: NIC > [Atividades](https://nic.br/atividades/).
 
-### REDES: informações/dados/testes em Redes e Internet
-1. HE (Hurricane Electric) - informação de AS referente ao ISP [bgp.he.net](https://bgp.he.net/)
-2. NIC - Simet - Teste de conexão [beta.simet.nic.br/](https://beta.simet.nic.br/)
-3. NIC - IX (ponto de troca de tráfego) - agregado [ix.br/trafego/agregado/sp](https://ix.br/trafego/agregado/sp)
-4. NIC - Mapa de Sistemas Autônomos (SA) [mapadeas.ceptro.br/](https://mapadeas.ceptro.br/)
-5. RNP - Rede Ipê (rede acadêmica brasileira) [www.rnp.br/sistema-rnp/rede-ipe](https://www.rnp.br/sistema-rnp/rede-ipe)
-6. RNP - Pontos de Presença (PoPs) [www.rnp.br/sistema-rnp/pontos-de-presenca](https://www.rnp.br/sistema-rnp/pontos-de-presenca)
-7. IP Info - informações sobre o próprio IP [ipinfo.io](https://ipinfo.io/)
-8. MeuIP - informações sobre o próprio IP [meuip.com](http://meuip.com)
-9. Registro.br (domínios) [registro.br/](https://registro.br/)
-10. Registro.br - serviço Whois (pesquisa nomes, endereços e AS) [registro.br/tecnologia/ferramentas/whois](https://registro.br/tecnologia/ferramentas/whois/)
-11. IANA - serviço Whois [www.iana.org/whois](https://www.iana.org/whois)
-12. Verisign - serviço Whois [https://webwhois.verisign.com/webwhois-ui/index.jsp?language=en_US](https://webwhois.verisign.com/webwhois-ui/index.jsp?language=en_US)
-13. CIDR-report - informações de AS e alocação endereços [www.cidr-report.org/as2.0](https://www.cidr-report.org/as2.0/)
-14. Cisco - BGPStream [https://bgpstream.crosswork.cisco.com/](https://bgpstream.crosswork.cisco.com/)
-15. HE (Hurricane Electric) - Network Tools - Internet Map [www.he.net/3d-map/](https://www.he.net/3d-map/)
-16. Telia Carrier [Internet Exposed](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/20170215_Telia_Carrier_Internet_exposed_infographic_W10158xH4921.png)
-17. Calculadora máscaras/prefixos IPv4/IPv6 by NIC [https://www.ipv6.br/paginas/subnet](https://www.ipv6.br/paginas/subnet)
-18. Calculadora máscaras rede IPv4 by Jodies [https://jodies.de/ipcalc](https://jodies.de/ipcalc)
 
-### REDES: informações e dados sobre protocolos e serviços: DNS, BGP e NTP
-1. DNS-OARC (Domain Name System Operations Analysis and Research Center) [www.dns-oarc.net](https://www.dns-oarc.net/)
-2. DNSViz pesquisa de informações de zona (domínios DNS) [dnsviz.net](https://dnsviz.net/)
-3. Google Admin Toolbox Dig - pesquisa de informações de DNS [toolbox.googleapps.com/apps/dig](https://toolbox.googleapps.com/apps/dig/)
-4. Root-Servers - 13 servidores DNS root globais [root-servers.org/](https://root-servers.org/)
-5. IANA serviço Whois (pesquisa de nomes de domínio, endereços IP e números de AS) [www.iana.org/whois](https://www.iana.org/whois)
-6. IANA arquivos com informações sobre servidores root e sobre domínios TLD [www.iana.org/domains/root/files](https://www.iana.org/domains/root/files)
-7. DNS Terminologia (IETF revisou normas anteriores para consistência de termos) [www.rfc-editor.org/rfc/rfc8499](https://www.rfc-editor.org/rfc/rfc8499)
-8. NIC - NTP.br: serviço de tempo para Internet provido pelo NIC.br [ntp.br](https://ntp.br/)
-9. Network Time Foundation: serviço de tempo a nível mundial (referência, documentação e implementação) [ntp.org](https://ntp.org/)
-10. IANA - TIme Zone Databases [www.iana.org/time-zones](https://www.iana.org/time-zones)
-11. Google Developers - serviço de tempo [developers.google.com/time](https://developers.google.com/time/)
-12. BGP e AS [https://irrexplorer.nlnog.net/](https://irrexplorer.nlnog.net/)
-13. HE (Hurricane Electric) - informação de AS referente ao ISP [bgp.he.net](https://bgp.he.net/)
-
+### REDES: organizações internacionais responsáveis por protocolos e atribuição de nomes/endereços
+1. IETF (Internet Engineering Task Force) [www.ietf.org/](https://www.ietf.org/): organização que propõe padrões/protocolos para Internet.
+2. IETF - Pesquisa de documentos relativos a protocolos Internet: Request for Comments (RFCs) [www.rfc-editor.org](https://www.rfc-editor.org/) 
+3. IANA - autoridade para atribuição de nomes/endereços IP/números de protocolos [www.iana.org](https://www.iana.org)
+4. W3C (World Wide Consortium) - padrões Web [www.w3.org](https://www.w3.org)
+5. IEEE - padrões da série 802 para redes locais [ieeexplore.ieee.org/browse/standards/get-program/page/series?id=68](https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=68) Obs.: o acesso aos documentos requer conta no sistema da IEEE.
 
 ### REDES: vídeos educativos sobre a Internet brasileira e sobre protocolos da Internet
 
@@ -106,6 +83,60 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 4. IBM - comparativo entre IPv4 e IPv6 [www.ibm.com/docs/en/i/7.2?topic=6-comparison-ipv4-ipv6](https://www.ibm.com/docs/en/i/7.2?topic=6-comparison-ipv4-ipv6)
 5. Google - estatísticas de implantação de IPv6 [www.google.com/intl/en/ipv6/statistics.html](https://www.google.com/intl/en/ipv6/statistics.html)
 
+## Sítios e Ferramentas de Informações em Redes e Internet
+
+### REDES: informações/dados/testes em Redes e Internet (obs.: alguns sítios fornecem vários serviços de pesquisa por recursos)
+1. Disponibilidade dos serviços de Internet a nível global by Internet Society [pulse.internetsociety.org](https://pulse.internetsociety.org/)
+2. HE (Hurricane Electric) - informação de AS referente ao ISP [bgp.he.net](https://bgp.he.net/)
+3. NIC - Simet - Teste de conexão [beta.simet.nic.br/](https://beta.simet.nic.br/)
+4. NIC - IX (ponto de troca de tráfego) - agregado [ix.br/trafego/agregado/sp](https://ix.br/trafego/agregado/sp)
+5. NIC - Mapa de Sistemas Autônomos (SA) [mapadeas.ceptro.br/](https://mapadeas.ceptro.br/)
+6. RNP - Rede Ipê (rede acadêmica brasileira) [www.rnp.br/sistema-rnp/rede-ipe](https://www.rnp.br/sistema-rnp/rede-ipe)
+7. RNP - Pontos de Presença (PoPs) [www.rnp.br/sistema-rnp/pontos-de-presenca](https://www.rnp.br/sistema-rnp/pontos-de-presenca)
+8. Endereçamento IP (informações sobre endereços IP, como ISP, geolocalização, faixa de rede) by IPinfo [ipinfo.io](https://ipinfo.io/)
+9. Informações sobre o próprio IP by MeuIP [meuip.com](http://meuip.com)
+10. Nomes/domínios by Registro.br [registro.br/](https://registro.br/)
+11. CIDR-report - informações de AS e alocação endereços [www.cidr-report.org/as2.0](https://www.cidr-report.org/as2.0/)
+12. Cisco - BGPStream [https://bgpstream.crosswork.cisco.com/](https://bgpstream.crosswork.cisco.com/)
+13. HE (Hurricane Electric) - Network Tools - Internet Map [www.he.net/3d-map/](https://www.he.net/3d-map/)
+14. Telia Carrier [Internet Exposed](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/20170215_Telia_Carrier_Internet_exposed_infographic_W10158xH4921.png)
+
+### REDES: máscaras e prefixos de rede
+1. Calculadora máscaras/prefixos IPv4/IPv6 by NIC [www.ipv6.br/paginas/subnet](https://www.ipv6.br/paginas/subnet)
+2. Calculadora máscaras rede IPv4 by Jodies [jodies.de/ipcalc](https://jodies.de/ipcalc)
+3. Calculadora de Wildcard Mask (usada em ACLs - Access Control Lists) by Clive Porter [www.subnet-calculator.com](https://www.subnet-calculator.com/wildcard.php)
+
+### REDES: pesquisa por nomes, domínios (serviço **Whois**)
+1. Serviço **Whois** by IANA [www.iana.org/whois](https://www.iana.org/whois)
+2. Serviço **Whois** by Verisign [https://webwhois.verisign.com/webwhois-ui/index.jsp?language=en_US](https://webwhois.verisign.com/webwhois-ui/index.jsp?language=en_US)
+3. Serviço **Whois** by Registro.br [registro.br/tecnologia/ferramentas/whois](https://registro.br/tecnologia/ferramentas/whois/)
+
+
+### REDES: informações e dados sobre protocolos e serviços: DNS, BGP e NTP
+1. DNS-OARC (Domain Name System Operations Analysis and Research Center) [www.dns-oarc.net](https://www.dns-oarc.net/)
+2. DNSViz pesquisa de informações de zona (domínios DNS) [dnsviz.net](https://dnsviz.net/)
+3. Google Admin Toolbox Dig - pesquisa de informações de DNS [toolbox.googleapps.com/apps/dig](https://toolbox.googleapps.com/apps/dig/)
+4. Root-Servers - 13 servidores DNS root globais [root-servers.org/](https://root-servers.org/)
+5. IANA serviço Whois (pesquisa de nomes de domínio, endereços IP e números de AS) [www.iana.org/whois](https://www.iana.org/whois)
+6. IANA arquivos com informações sobre servidores root e sobre domínios TLD [www.iana.org/domains/root/files](https://www.iana.org/domains/root/files)
+7. DNS Terminologia (IETF revisou normas anteriores para consistência de termos) [www.rfc-editor.org/rfc/rfc8499](https://www.rfc-editor.org/rfc/rfc8499)
+8. BGP e AS [https://irrexplorer.nlnog.net/](https://irrexplorer.nlnog.net/)
+9. HE (Hurricane Electric) - informação de AS referente ao ISP [bgp.he.net](https://bgp.he.net/)
+
+### TEMPO: protocolo NTP e serviço de tempo/data
+1. NIC - NTP.br: serviço de tempo para Internet provido pelo NIC.br [ntp.br](https://ntp.br/)
+2. Network Time Foundation: serviço de tempo a nível mundial (referência, documentação e implementação) [ntp.org](https://ntp.org/)
+3. Time Zone Databases by IANA [www.iana.org/time-zones](https://www.iana.org/time-zones)
+4. Google Developers - serviço de tempo [developers.google.com/time](https://developers.google.com/time/)
+5. Hora Legal Brasileira (HLB) by ON [www.horalegalbrasil.mct.on.br/HoraLegalBrasileira.php](http://www.horalegalbrasil.mct.on.br/HoraLegalBrasileira.php)
+6. Informações sobre Leap Second (Segundo Intercalado) by ON [www.horalegalbrasil.mct.on.br/LeapSecond.html](http://www.horalegalbrasil.mct.on.br/LeapSecond.html)
+7. Calculador Data/**Timestamp** (segundos desde 1/1/1970 00UTC) by Dan's Tools [www.unixtimestamp.com/](https://www.unixtimestamp.com/)
+8. Conversor Data/Unix Epoch Time (timestamp) by KeyCDN Tools [tools.keycdn.com/epoch-converter](https://tools.keycdn.com/epoch-converter)
+
+Sítio KeyCDN - Tools [tools.keycdn.com](https://tools.keycdn.com/) **Web** (Website Speed Test, Performance Test, HTTP Header Checker, HTTP/2 Test, Brotli Test) **Network** (IP Location Finder, DNS Checker, Ping Test, Ping IPv6 Test, Traceroute Test, BGP Looking Glass), **Security** (Certificate Checker, Certificate Chain Composer, SHA256 Generator, SSL FREAK Test, TLS Logjam Test) **Other** (Epoch Converter, Hex Converter). Também fornece ferramentas básicas de tratamento de imagens via API: [www.keycdn.com/image-processing](https://www.keycdn.com/image-processing).
+
+
+
 ### REDES: informações sobre redes celulares móveis
 1. Códigos país de de operadoras de rede celular móvel [https://mcc-mnc-list.com/list](https://mcc-mnc-list.com/list)
 2. 3GLTEInfo - informações sobre os códigos MCC e MNC [www.3glteinfo.com/mobile-country-code-mcc-and-mobile-network-code-mnc/](https://www.3glteinfo.com/mobile-country-code-mcc-and-mobile-network-code-mnc/)
@@ -131,19 +162,7 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 12. TLS/SSL - Check [clienttest.ssllabs.com:8443/ssltest/viewMyClient.html](https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html)
 
 
-### REDES: algumas organizações nacionais
-1. [NIC.br - Núcleo de Informação e Coordenação do Ponto BR https://nic.br/](https://nic.br/)
-2. [CGI.br - Comitê Gestor da Internet no Brasil https://cgi.br/](https://cgi.br/)
-3. [RNP - Rede Nacional de Pesquisa https://www.rnp.br/](https://www.rnp.br/)
-
-### REDES: organizações internacionais responsáveis por protocolos e atribuição de nomes/endereços
-1. IETF (Internet Engineering Task Force) [www.ietf.org/](https://www.ietf.org/)
-2. IETF - Pesquisa de Request for Comments (RFCs) [www.rfc-editor.org/](https://www.rfc-editor.org/) 
-3. IANA - autoridade para atribuição de nomes/endereços IP/números de protocolos [www.iana.org/](https://www.iana.org/)
-4. W3C (World Wide Consortium) - padrões Web [www.w3.org](https://www.w3.org/)
-5. IEEE - padrões da série 802 para redes locais [https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=68](https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=68) Obs.: o acesso aos documentos requer conta no sistema da IEEE.
-
-## Cibersegurança
+# Cibersegurança
 1. CERT (Centro de Estudos, Resposta e Tratamento de Incidentes de Segurança no Brasil) [https://www.cert.br](https://www.cert.br/)
 2. NIC - Cartilha de Segurança da Internet [https://cartilha.cert.br](https://cartilha.cert.br/)
 3. ANPD (Autoridade Nac Proteção Dados) [https://www.gov.br/anpd/pt-br](https://www.gov.br/anpd/pt-br)
@@ -183,7 +202,7 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 2. [Minicurso Segurança - o que é preciso saber](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/UFSC-minicurso-SEGURANCA-o-que-e-preciso-saber-202304.pdf)
 
 
-### Codificação e conversão entre formatos de dados (base64, JWT, JWS)
+### Codificação e conversão entre formatos de dados: base64, JWT, JWS; e, binário, hexadecimal e decimal.
 1. Base64 - conversão [https://www.motobit.com/util/base64-decoder-encoder.as}p](https://www.motobit.com/util/base64-decoder-encoder.asp)
 2. CyberChef - códigos e respectivas conversões além de cripto [https://cyberchef.org](https://cyberchef.org)
 3. URL encoder [https://www.urlencoder.io/](https://www.urlencoder.io/) e decoder [https://www.urldecoder.io/](https://www.urldecoder.io/)
@@ -193,9 +212,12 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 7. PingIdentity Dev Tools (JWT e SAML) [https://developer.pingidentity.com/en/tools.html](https://developer.pingidentity.com/en/tools.html)
 8. JWT decoder,verifier [https://dinochiesa.github.io/jwt/](https://dinochiesa.github.io/jwt/)
 9. GooGle Admin Toolbox (Encode/Decode) [https://toolbox.googleapps.com/apps/encode_decode/](https://toolbox.googleapps.com/apps/encode_decode/)
+10. Conversões binário, hexadecimal e decimal by BinaryHexConverter [https://www.binaryhexconverter.com/](https://www.binaryhexconverter.com/)
+11. Converões de dados e formatadores (Python, JSON, CSV, dentre as principais) by **Dan's Tools** [https://www.unixtimestamp.com/](https://www.unixtimestamp.com/)
+12. Conversão Hexadecimal/Decimal by KeyCDN Tools [https://tools.keycdn.com/hex-converter](https://tools.keycdn.com/hex-converter)
 
 
-## Arquitetura de Computadores e Sistemas Operacionais
+# Arquitetura de Computadores e Sistemas Operacionais
 1. Blog: Why Textbooks Should Be Free by Remzi Arpaci-Dusseau [https://from-a-to-remzi.blogspot.com/2014/01/the-case-for-free-online-books-fobs.html](https://from-a-to-remzi.blogspot.com/2014/01/the-case-for-free-online-books-fobs.html)
 2. The Concurrency Revolution by Dr.Dobbs [https://www.drdobbs.com/the-concurrency-revolution/184401916](https://www.drdobbs.com/the-concurrency-revolution/184401916)
 
@@ -234,7 +256,7 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 3. Vídeo Youtube by goms tech talks [LITERATURE REVIEW: a guide to write an effective literature review - simple and easy explanation](https://youtu.be/jzISoM3ssIw)
 
 
-### LABS: Dados e recursos para atividades de modelagem e simulação
+# Modelagem e Simulação: dados e recursos para laboratórios
 1. Run R code online [https://rdrr.io/snippets/](https://rdrr.io/snippets/)
 2. R online editor, IDE, compiler, interpreter [https://replit.com/languages/rlang](https://replit.com/languages/rlang)
 3. R Online Compiler by Programiz [https://www.programiz.com/r/online-compiler/](https://www.programiz.com/r/online-compiler/)
@@ -245,5 +267,8 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 8. [Dados D](https://raw.githubusercontent.com/glcamillo/aulas-ufsc-materiais/gh-pages/dados-d.csv)
 
 
-Observation: the initial objective was to attend classes at UFSC (networks, security and computer architecture) (2022/2023).
-Last Revision: 20240825
+Observações: o objetivo inicial destes links foi atender aulas na UFSC Araranguá (redes, segurança e arquitetura de computadores. (2022/2023).
+
+[^1]: Esta é uma coleção particular de endereços e referências que pretende não ser completa.
+[^2]: Última Revisão: 28 ago. 2024.
+
