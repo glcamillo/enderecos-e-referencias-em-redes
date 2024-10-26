@@ -34,20 +34,23 @@ Algumas referências básicas[^1] em redes de computadores, cibersegurança, arq
 10. IETF - discussão sobre ***consolidação na Internet*** [www.ietf.org/blog/consolidation](https://www.ietf.org/blog/consolidation/)
 11. IETF - ***Protocol and Engineering Effects of Consolidation*** [datatracker.ietf.org/doc/draft-lazanski-consolidation](https://datatracker.ietf.org/doc/draft-lazanski-consolidation/)
 
-### REDES: algumas organizações nacionais
+### REDES: ==Internet== organizações nacionais brasileiras
 1. [NIC.br - Núcleo de Informação e Coordenação do Ponto BR https://nic.br/](https://nic.br/)
 2. [CGI.br - Comitê Gestor da Internet no Brasil https://cgi.br/](https://cgi.br/)
 3. [RNP - Rede Nacional de Pesquisa https://www.rnp.br/](https://www.rnp.br/)
 
-NIC (Núcleo de Informação e Coordenação do Ponto BR - [NIC.br](https://nic.br)): é a instituição encarregar de implementar as decisões do Comitê Gestor ([CGI.br](https://cgi.br/)) e "é o responsável por coordenar e integrar as iniciativas e serviços da Internet no País." Principais atividades: [Registro.br](https://registro.br/), Pontos de Troca de Tráfego: [IX.br](https://ix.br/), [Cert.br](https://www.cert.br/) e [NTP.br](https://ntp.br/). Lista completa disponível em: NIC > [Atividades](https://nic.br/atividades/).
+NIC (Núcleo de Informação e Coordenação do Ponto BR - [NIC.br](https://nic.br)): é a instituição encarregar de implementar as decisões do Comitê Gestor da Internet no Brasil ([CGI.br](https://cgi.br/)). Principais atividades: Registro de domínios .br: [Registro.br](https://registro.br/), Pontos de Troca de Tráfego: [IX.br](https://ix.br/), Segurança Cibernética: [Cert.br](https://www.cert.br/) e Tempo [NTP.br](https://ntp.br/). Lista completa disponível em: NIC \ [Atividades](https://nic.br/atividades/).
 
 
-### REDES: organizações internacionais responsáveis por protocolos e atribuição de nomes/endereços
-1. IETF (Internet Engineering Task Force) [www.ietf.org/](https://www.ietf.org/): organização que propõe padrões/protocolos para Internet.
-2. IETF - Pesquisa de documentos relativos a protocolos Internet: Request for Comments (RFCs) [www.rfc-editor.org](https://www.rfc-editor.org/) 
-3. IANA - autoridade para atribuição de nomes/endereços IP/números de protocolos [www.iana.org](https://www.iana.org)
-4. W3C (World Wide Consortium) - padrões Web [www.w3.org](https://www.w3.org)
-5. IEEE - padrões da série 802 para redes locais [ieeexplore.ieee.org/browse/standards/get-program/page/series?id=68](https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=68) Obs.: o acesso aos documentos requer conta no sistema da IEEE.
+### REDES: ==Internet== organizações internacionais
+1. ISO (Internet Society) [www.internetsociety.org](https://www.internetsociety.org/)
+2. ICANN (Internet Corporation for Assigned Names and Numbers) - coordena espaço nomes de domínio global, o espaço de endereçamento IP e o sistema DNS [www.icann.org](https://www.icann.org/)
+3. IANA (Internet Assigned Numbers Authority) - Funções IANA - Autoridade para atribuição/distribuição de nomes globais/endereços IP/endereços ASN (números de sistemas autônomos)/números de protocolos e gerência da zona raiz DNS [www.iana.org](https://www.iana.org)
+4. ISC (Internet Systems Consortium) - Responsável pelo servidor de DNS BIND e por operar o servidor raiz DNS **F** [www.isc.org](https://www.isc.org/)
+5. IETF (Internet Engineering Task Force) - organização que propõe padrões/protocolos para Internet [www.ietf.org/](https://www.ietf.org/)
+6. IETF - Pesquisa de documentos relativos a protocolos Internet: Request for Comments (RFCs) [www.rfc-editor.org](https://www.rfc-editor.org/)
+7. W3C (World Wide Consortium) - padrões Web [www.w3.org](https://www.w3.org)
+8. IEEE - padrões da série 802 para redes locais [ieeexplore.ieee.org/browse/standards/get-program/page/series?id=68](https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=68) Obs.: o acesso aos documentos requer conta no sistema da IEEE.
 
 ### REDES: vídeos educativos sobre a Internet brasileira e sobre protocolos da Internet
 
@@ -93,13 +96,18 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 5. NIC - Mapa de Sistemas Autônomos (SA) [mapadeas.ceptro.br/](https://mapadeas.ceptro.br/)
 6. RNP - Rede Ipê (rede acadêmica brasileira) [www.rnp.br/sistema-rnp/rede-ipe](https://www.rnp.br/sistema-rnp/rede-ipe)
 7. RNP - Pontos de Presença (PoPs) [www.rnp.br/sistema-rnp/pontos-de-presenca](https://www.rnp.br/sistema-rnp/pontos-de-presenca)
-8. Endereçamento IP (informações sobre endereços IP, como ISP, geolocalização, faixa de rede) by IPinfo [ipinfo.io](https://ipinfo.io/)
-9. Informações sobre o próprio IP by MeuIP [meuip.com](http://meuip.com)
-10. Nomes/domínios by Registro.br [registro.br/](https://registro.br/)
-11. CIDR-report - informações de AS e alocação endereços [www.cidr-report.org/as2.0](https://www.cidr-report.org/as2.0/)
-12. Cisco - BGPStream [https://bgpstream.crosswork.cisco.com/](https://bgpstream.crosswork.cisco.com/)
-13. HE (Hurricane Electric) - Network Tools - Internet Map [www.he.net/3d-map/](https://www.he.net/3d-map/)
-14. Telia Carrier [Internet Exposed](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/20170215_Telia_Carrier_Internet_exposed_infographic_W10158xH4921.png)
+8. Nomes/domínios by Registro.br [registro.br/](https://registro.br/)
+9. CIDR-report - informações de AS e alocação endereços [www.cidr-report.org/as2.0](https://www.cidr-report.org/as2.0/)
+10. Cisco - BGPStream [https://bgpstream.crosswork.cisco.com/](https://bgpstream.crosswork.cisco.com/)
+11. HE (Hurricane Electric) - Network Tools - Internet Map [www.he.net/3d-map/](https://www.he.net/3d-map/)
+12. Telia Carrier [Internet Exposed](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/20170215_Telia_Carrier_Internet_exposed_infographic_W10158xH4921.png)
+
+#### REDES: como obter endereçamento IP público
+1. Informações sobre endereços IP, como ISP, geolocalização, faixa de rede) by **IPinfo** [ipinfo.io](https://ipinfo.io/)
+2. Endereço IP (IPv4 ou IPv6) [https://icanhazip.com](https://icanhazip.com/)
+3. Endereço IP (preferencialmente **IPv6**) e metadados navegador e *timestamp* [http://tnx.nl/ip](http://tnx.nl/ip)
+4. Informações sobre o próprio IP by MeuIP [meuip.com](http://meuip.com)
+5. Via linha de comando: `curl -s http://tnx.nl/ip` (IPv6) e `curl -s https://api.infoip.io/ip` e `curl -s https://checkip.amazonaws.com` (IPv4)
 
 ### REDES: máscaras e prefixos de rede
 1. Calculadora máscaras/prefixos IPv4/IPv6 by NIC [www.ipv6.br/paginas/subnet](https://www.ipv6.br/paginas/subnet)
@@ -163,17 +171,17 @@ Sítio KeyCDN - Tools [tools.keycdn.com](https://tools.keycdn.com/) **Web** (Web
 
 
 # Cibersegurança
-1. CERT (Centro de Estudos, Resposta e Tratamento de Incidentes de Segurança no Brasil) [https://www.cert.br](https://www.cert.br/)
-2. NIC - Cartilha de Segurança da Internet [https://cartilha.cert.br](https://cartilha.cert.br/)
-3. ANPD (Autoridade Nac Proteção Dados) [https://www.gov.br/anpd/pt-br](https://www.gov.br/anpd/pt-br)
-4. ANPD multas e dosimetria [https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-4-de-24-de-fevereiro-de-2023-466146077](https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-4-de-24-de-fevereiro-de-2023-466146077)
-5. Gov.br - Privacidade e Segurança da Informação [https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados](https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados)
-6. Gov.br - Guia LGPD [https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/guias-operacionais-para-adequacao-a-lei-geral-de-protecao-de-dados-pessoais-lgpd](https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/guias-operacionais-para-adequacao-a-lei-geral-de-protecao-de-dados-pessoais-lgpd)
-7. NIC - padrões de segurança para redes e ISPs [https://bcp.nic.br/i+seg/](https://bcp.nic.br/i+seg/)
-8. NIC - TOP (testes sítios, email, TLS, DNS(SEC), IPv6) [https://top.nic.br](https://top.nic.br)
+1. CERT (Centro de Estudos, Resposta e Tratamento de Incidentes de Segurança no Brasil) [www.cert.br](https://www.cert.br/)
+2. NIC - Cartilha de Segurança da Internet [cartilha.cert.br](https://cartilha.cert.br/)
+3. ANPD (Autoridade Nac Proteção Dados) [www.gov.br/anpd/pt-br](https://www.gov.br/anpd/pt-br)
+4. ANPD multas e dosimetria [www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-4-de-24-de-fevereiro-de-2023-466146077](https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-4-de-24-de-fevereiro-de-2023-466146077)
+5. Gov.br - Privacidade e Segurança da Informação [www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados](https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados)
+6. Gov.br - Guia LGPD [www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/guias-operacionais-para-adequacao-a-lei-geral-de-protecao-de-dados-pessoais-lgpd](https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/guias-operacionais-para-adequacao-a-lei-geral-de-protecao-de-dados-pessoais-lgpd)
+7. NIC - padrões de segurança para redes e ISPs [bcp.nic.br/i+seg/](https://bcp.nic.br/i+seg/)
+8. NIC - TOP (testes sítios, email, TLS, DNS(SEC), IPv6) [top.nic.br](https://top.nic.br)
 9. Teste Internet - Is your internet up to date? [www.internet.nl/](https://www.internet.nl/)
-10. Testes de SITIOS/redes by .auCheck [https://aucheck.com.au/](https://aucheck.com.au/)
-11. Testes de SITIOS/redes by Sikkerpånettet.dk [https://sikkerpånettet.dk/](https://sikkerpånettet.dk/)
+10. Testes de SITIOS/redes by .auCheck [aucheck.com.au/](https://aucheck.com.au/)
+11. Testes de SITIOS/redes by Sikkerpånettet.dk [sikkerpånettet.dk/](https://sikkerpånettet.dk/)
 12. TCP Ports - [varredura online por portas TCP abertas](https://pentest-tools.com/network-vulnerability-scanning/tcp-port-scanner-online-nmap)
 
 ### Cibersegurança - pesquisa sobre vulnerabilidades
@@ -203,18 +211,18 @@ Sítio KeyCDN - Tools [tools.keycdn.com](https://tools.keycdn.com/) **Web** (Web
 
 
 ### Codificação e conversão entre formatos de dados: base64, JWT, JWS; e, binário, hexadecimal e decimal.
-1. Base64 - conversão [https://www.motobit.com/util/base64-decoder-encoder.as}p](https://www.motobit.com/util/base64-decoder-encoder.asp)
-2. CyberChef - códigos e respectivas conversões além de cripto [https://cyberchef.org](https://cyberchef.org)
-3. URL encoder [https://www.urlencoder.io/](https://www.urlencoder.io/) e decoder [https://www.urldecoder.io/](https://www.urldecoder.io/)
-4. JSON Editor Online [https://jsoneditoronline.org/](https://jsoneditoronline.org/)
-5. JSON Lint (validator) [https://jsonlint.com/](https://jsonlint.com/)
-6. JWT (JSON Web Tokens) decoder [https://jwt.io/](https://jwt.io/)
-7. PingIdentity Dev Tools (JWT e SAML) [https://developer.pingidentity.com/en/tools.html](https://developer.pingidentity.com/en/tools.html)
-8. JWT decoder,verifier [https://dinochiesa.github.io/jwt/](https://dinochiesa.github.io/jwt/)
-9. GooGle Admin Toolbox (Encode/Decode) [https://toolbox.googleapps.com/apps/encode_decode/](https://toolbox.googleapps.com/apps/encode_decode/)
-10. Conversões binário, hexadecimal e decimal by BinaryHexConverter [https://www.binaryhexconverter.com/](https://www.binaryhexconverter.com/)
-11. Converões de dados e formatadores (Python, JSON, CSV, dentre as principais) by **Dan's Tools** [https://www.unixtimestamp.com/](https://www.unixtimestamp.com/)
-12. Conversão Hexadecimal/Decimal by KeyCDN Tools [https://tools.keycdn.com/hex-converter](https://tools.keycdn.com/hex-converter)
+1. Base64 - conversão [www.motobit.com/util/base64-decoder-encoder.as}p](https://www.motobit.com/util/base64-decoder-encoder.asp)
+2. CyberChef - códigos e respectivas conversões além de cripto [cyberchef.org](https://cyberchef.org)
+3. URL encoder [www.urlencoder.io/](https://www.urlencoder.io/) e decoder [https://www.urldecoder.io/](https://www.urldecoder.io/)
+4. JSON Editor Online [jsoneditoronline.org/](https://jsoneditoronline.org/)
+5. JSON Lint (validator) [jsonlint.com/](https://jsonlint.com/)
+6. JWT (JSON Web Tokens) decoder [jwt.io/](https://jwt.io/)
+7. PingIdentity Dev Tools (JWT e SAML) [developer.pingidentity.com/en/tools.html](https://developer.pingidentity.com/en/tools.html)
+8. JWT decoder,verifier [dinochiesa.github.io/jwt/](https://dinochiesa.github.io/jwt/)
+9. GooGle Admin Toolbox (Encode/Decode) [toolbox.googleapps.com/apps/encode_decode/](https://toolbox.googleapps.com/apps/encode_decode/)
+10. Conversões binário, hexadecimal e decimal by BinaryHexConverter [www.binaryhexconverter.com/](https://www.binaryhexconverter.com/)
+11. Converões de dados e formatadores (Python, JSON, CSV, dentre as principais) by **Dan's Tools** [www.unixtimestamp.com/](https://www.unixtimestamp.com/)
+12. Conversão Hexadecimal/Decimal by KeyCDN Tools [tools.keycdn.com/hex-converter](https://tools.keycdn.com/hex-converter)
 
 
 # Arquitetura de Computadores e Sistemas Operacionais
