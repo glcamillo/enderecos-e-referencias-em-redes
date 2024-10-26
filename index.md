@@ -107,7 +107,7 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 2. Endereço IP (IPv4 ou IPv6) [https://icanhazip.com](https://icanhazip.com/)
 3. Endereço IP (preferencialmente **IPv6**) e metadados navegador e *timestamp* [http://tnx.nl/ip](http://tnx.nl/ip)
 4. Informações sobre o próprio IP by MeuIP [meuip.com](http://meuip.com)
-5. Via linha de comando: `curl -s http://tnx.nl/ip` (IPv6) e `curl -s https://api.infoip.io/ip` e `curl -s https://checkip.amazonaws.com` (IPv4)
+5. Via linha de comando: ```curl -s http://tnx.nl/ip``` (IPv6) e ```curl -s https://api.infoip.io/ip``` e ```curl -s https://checkip.amazonaws.com``` (IPv4)
 
 ### REDES: máscaras e prefixos de rede
 1. Calculadora máscaras/prefixos IPv4/IPv6 by NIC [www.ipv6.br/paginas/subnet](https://www.ipv6.br/paginas/subnet)
@@ -128,7 +128,7 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 5. IANA serviço Whois (pesquisa de nomes de domínio, endereços IP e números de AS) [www.iana.org/whois](https://www.iana.org/whois)
 6. IANA arquivos com informações sobre servidores root e sobre domínios TLD [www.iana.org/domains/root/files](https://www.iana.org/domains/root/files)
 7. DNS Terminologia (IETF revisou normas anteriores para consistência de termos) [www.rfc-editor.org/rfc/rfc8499](https://www.rfc-editor.org/rfc/rfc8499)
-8. BGP e AS [https://irrexplorer.nlnog.net/](https://irrexplorer.nlnog.net/)
+8. BGP e AS [irrexplorer.nlnog.net/](https://irrexplorer.nlnog.net/)
 9. HE (Hurricane Electric) - informação de AS referente ao ISP [bgp.he.net](https://bgp.he.net/)
 
 ### TEMPO: protocolo NTP e serviço de tempo/data
@@ -278,5 +278,5 @@ Sítio KeyCDN - Tools [tools.keycdn.com](https://tools.keycdn.com/) **Web** (Web
 Observações: o objetivo inicial destes links foi atender aulas na UFSC Araranguá (redes, segurança e arquitetura de computadores. (2022/2023).
 
 [^1]: Esta é uma coleção particular de endereços e referências que pretende não ser completa.
-[^2]: Última Revisão: 28 ago. 2024.
+[^2]: Última Revisão: 26 out. 2024.
 
