@@ -90,19 +90,21 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 
 ### REDES: informações/dados/testes em Redes e Internet (obs.: alguns sítios fornecem vários serviços de pesquisa por recursos)
 1. Disponibilidade dos serviços de Internet a nível global by Internet Society [pulse.internetsociety.org](https://pulse.internetsociety.org/)
-2. HE (Hurricane Electric) - informação de AS referente ao ISP [bgp.he.net](https://bgp.he.net/)
-3. NIC - Simet - Teste de conexão [beta.simet.nic.br/](https://beta.simet.nic.br/)
-4. NIC - IX (ponto de troca de tráfego) - agregado [ix.br/trafego/agregado/sp](https://ix.br/trafego/agregado/sp)
-5. NIC - Mapa de Sistemas Autônomos (SA) [mapadeas.ceptro.br/](https://mapadeas.ceptro.br/)
-6. RNP - Rede Ipê (rede acadêmica brasileira) [www.rnp.br/sistema-rnp/rede-ipe](https://www.rnp.br/sistema-rnp/rede-ipe)
-7. RNP - Pontos de Presença (PoPs) [www.rnp.br/sistema-rnp/pontos-de-presenca](https://www.rnp.br/sistema-rnp/pontos-de-presenca)
-8. Nomes/domínios by Registro.br [registro.br/](https://registro.br/)
-9. CIDR-report - informações de AS e alocação endereços [www.cidr-report.org/as2.0](https://www.cidr-report.org/as2.0/)
-10. Cisco - BGPStream [https://bgpstream.crosswork.cisco.com/](https://bgpstream.crosswork.cisco.com/)
-11. HE (Hurricane Electric) - Network Tools - Internet Map [www.he.net/3d-map/](https://www.he.net/3d-map/)
-12. Telia Carrier [Internet Exposed](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/20170215_Telia_Carrier_Internet_exposed_infographic_W10158xH4921.png)
+2. HE (Hurricane Electric) - informação sobre ASNs e rotas BGP [bgp.he.net](https://bgp.he.net/)
+3. PeeringDB - dados de AS e troca de tráfego [www.peeringdb.com](https://www.peeringdb.com)
+4. NIC - Simet - Teste de conexão [beta.simet.nic.br/](https://beta.simet.nic.br/)
+5. NIC - IX (ponto de troca de tráfego) - agregado [ix.br/trafego/agregado/sp](https://ix.br/trafego/agregado/sp)
+6. NIC - Mapa de Sistemas Autônomos (SA) [mapadeas.ceptro.br/](https://mapadeas.ceptro.br/)
+7. RNP - Rede Ipê (rede acadêmica brasileira) [www.rnp.br/sistema-rnp/rede-ipe](https://www.rnp.br/sistema-rnp/rede-ipe)
+8. RNP - Pontos de Presença (PoPs) [www.rnp.br/sistema-rnp/pontos-de-presenca](https://www.rnp.br/sistema-rnp/pontos-de-presenca)
+9. Nomes/domínios by Registro.br [registro.br/](https://registro.br/)
+10. CIDR-report - informações de AS e alocação endereços [www.cidr-report.org/as2.0](https://www.cidr-report.org/as2.0/)
+11. Cisco - BGPStream [https://bgpstream.crosswork.cisco.com/](https://bgpstream.crosswork.cisco.com/)
+12. HE (Hurricane Electric) - Network Tools - Internet Map [www.he.net/3d-map/](https://www.he.net/3d-map/)
+13. Telia Carrier [Internet Exposed](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/20170215_Telia_Carrier_Internet_exposed_infographic_W10158xH4921.png)
+14. Google's Edge Network [peering.google.com](https://peering.google.com/)
 
-#### REDES: como obter endereçamento IP público
+#### REDES: como obter informação sobre endereçamento IP público
 1. Informações sobre endereços IP, como ISP, geolocalização, faixa de rede) by **IPinfo** [ipinfo.io](https://ipinfo.io/)
 2. Endereço IP (IPv4 ou IPv6) [https://icanhazip.com](https://icanhazip.com/)
 3. Endereço IP (preferencialmente **IPv6**) e metadados navegador e *timestamp* [http://tnx.nl/ip](http://tnx.nl/ip)
@@ -129,7 +131,8 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 6. IANA arquivos com informações sobre servidores root e sobre domínios TLD [www.iana.org/domains/root/files](https://www.iana.org/domains/root/files)
 7. DNS Terminologia (IETF revisou normas anteriores para consistência de termos) [www.rfc-editor.org/rfc/rfc8499](https://www.rfc-editor.org/rfc/rfc8499)
 8. BGP e AS [irrexplorer.nlnog.net/](https://irrexplorer.nlnog.net/)
-9. HE (Hurricane Electric) - informação de AS referente ao ISP [bgp.he.net](https://bgp.he.net/)
+9. Sobre Peering entre AS [drpeering.net/core/ch4-Internet-Peering.html](https://drpeering.net/core/ch4-Internet-Peering.html)
+10. HE (Hurricane Electric) - informação de AS referente ao ISP [bgp.he.net](https://bgp.he.net/)
 
 ### TEMPO: protocolo NTP e serviço de tempo/data
 1. NIC - NTP.br: serviço de tempo para Internet provido pelo NIC.br [ntp.br](https://ntp.br/)
@@ -146,14 +149,15 @@ Sítio KeyCDN - Tools [tools.keycdn.com](https://tools.keycdn.com/) **Web** (Web
 
 
 ### REDES: informações sobre redes celulares móveis
-1. Códigos país de de operadoras de rede celular móvel [https://mcc-mnc-list.com/list](https://mcc-mnc-list.com/list)
-2. 3GLTEInfo - informações sobre os códigos MCC e MNC [www.3glteinfo.com/mobile-country-code-mcc-and-mobile-network-code-mnc/](https://www.3glteinfo.com/mobile-country-code-mcc-and-mobile-network-code-mnc/)
-3. Banco de dados de células em redes de telefonia [opencellid.org](https://opencellid.org/)
-4. Busca de células em redes de telefonia [cellidfinder.com](https://cellidfinder.com/)
-5. Informações sobre as frequências alocadas às redes móveis celulares no Brasil [www.teleco.com.br/areasc.asp](https://www.teleco.com.br/areasc.asp)
-6. GSMArena - informações de cobertura celular no mundo [www.gsmarena.com/network-bands.php3](https://www.gsmarena.com/network-bands.php3)
-7. CellTower Locator [www.cell2gps.com](http://www.cell2gps.com/)
-8. CellMapper - calculadora de ID de célula [www.cellmapper.net/enbid](https://www.cellmapper.net/enbid)
+1. ~Códigos país de de operadoras de rede celular móvel [https://mcc-mnc-list.com/list](https://mcc-mnc-list.com/list)~
+2. Códigos de país (MCC) e códigos de operadora (MNC): [en.wikipedia.org/wiki/Mobile_country_code](https://en.wikipedia.org/wiki/Mobile_country_code)
+3. 3GLTEInfo - informações sobre os códigos MCC e MNC [www.3glteinfo.com/mobile-country-code-mcc-and-mobile-network-code-mnc/](https://www.3glteinfo.com/mobile-country-code-mcc-and-mobile-network-code-mnc/)
+4. Banco de dados de células em redes de telefonia [opencellid.org](https://opencellid.org/)
+5. Busca de células em redes de telefonia [cellidfinder.com](https://cellidfinder.com/)
+6. Informações sobre as frequências alocadas às redes móveis celulares no Brasil [www.teleco.com.br/areasc.asp](https://www.teleco.com.br/areasc.asp)
+7. GSMArena - informações de cobertura celular no mundo [www.gsmarena.com/network-bands.php3](https://www.gsmarena.com/network-bands.php3)
+8. CellTower Locator [www.cell2gps.com](http://www.cell2gps.com/)
+9. CellMapper - calculadora de ID de célula [www.cellmapper.net/enbid](https://www.cellmapper.net/enbid)
 
 ### REDES: HTTP, Web e REST APIs
 1. HTTP Dev [http.dev](https://http.dev/)
@@ -264,19 +268,15 @@ Sítio KeyCDN - Tools [tools.keycdn.com](https://tools.keycdn.com/) **Web** (Web
 3. Vídeo Youtube by goms tech talks [LITERATURE REVIEW: a guide to write an effective literature review - simple and easy explanation](https://youtu.be/jzISoM3ssIw)
 
 
-# Modelagem e Simulação: dados e recursos para laboratórios
+# Estatística, linguagem R e conceitos
 1. Run R code online [https://rdrr.io/snippets/](https://rdrr.io/snippets/)
 2. R online editor, IDE, compiler, interpreter [https://replit.com/languages/rlang](https://replit.com/languages/rlang)
 3. R Online Compiler by Programiz [https://www.programiz.com/r/online-compiler/](https://www.programiz.com/r/online-compiler/)
-4. [Dados A1](https://raw.githubusercontent.com/glcamillo/aulas-ufsc-materiais/gh-pages/dados-a1.csv)
-5. [Dados A2](https://raw.githubusercontent.com/glcamillo/aulas-ufsc-materiais/gh-pages/dados-a2.csv)
-6. [Dados B](https://raw.githubusercontent.com/glcamillo/aulas-ufsc-materiais/gh-pages/dados-b.csv)
-7. [Dados C](https://raw.githubusercontent.com/glcamillo/aulas-ufsc-materiais/gh-pages/dados-c.csv)
-8. [Dados D](https://raw.githubusercontent.com/glcamillo/aulas-ufsc-materiais/gh-pages/dados-d.csv)
+4. R Psychologist - Interpreting **Confidence Intervals** [https://rpsychologist.com/d3/ci/](https://rpsychologist.com/d3/ci/)
 
 
-Observações: o objetivo inicial destes links foi atender aulas na UFSC Araranguá (redes, segurança e arquitetura de computadores. (2022/2023).
+Observações: o objetivo inicial destes links foi atender aulas na UFSC Araranguá (redes, segurança, arquitetura de computadores e modelagem e simulação (2022/2023).
 
 [^1]: Esta é uma coleção particular de endereços e referências que pretende não ser completa.
-[^2]: Última Revisão: 26 out. 2024.
+[^2]: Última Revisão: 07 mar. 2025.
 
