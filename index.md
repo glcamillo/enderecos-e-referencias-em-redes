@@ -149,7 +149,7 @@ Sítio KeyCDN - Tools [tools.keycdn.com](https://tools.keycdn.com/) **Web** (Web
 
 
 ### REDES: informações sobre redes celulares móveis
-1. ~Códigos país de de operadoras de rede celular móvel [https://mcc-mnc-list.com/list](https://mcc-mnc-list.com/list)~
+1. Códigos país de de operadoras de rede celular móvel [https://mcc-mnc-list.com/list](https://mcc-mnc-list.com/list)
 2. Códigos de país (MCC) e códigos de operadora (MNC): [en.wikipedia.org/wiki/Mobile_country_code](https://en.wikipedia.org/wiki/Mobile_country_code)
 3. 3GLTEInfo - informações sobre os códigos MCC e MNC [www.3glteinfo.com/mobile-country-code-mcc-and-mobile-network-code-mnc/](https://www.3glteinfo.com/mobile-country-code-mcc-and-mobile-network-code-mnc/)
 4. Banco de dados de células em redes de telefonia [opencellid.org](https://opencellid.org/)
@@ -175,18 +175,19 @@ Sítio KeyCDN - Tools [tools.keycdn.com](https://tools.keycdn.com/) **Web** (Web
 
 
 # Cibersegurança
-1. CERT (Centro de Estudos, Resposta e Tratamento de Incidentes de Segurança no Brasil) [www.cert.br](https://www.cert.br/)
-2. NIC - Cartilha de Segurança da Internet [cartilha.cert.br](https://cartilha.cert.br/)
-3. ANPD (Autoridade Nac Proteção Dados) [www.gov.br/anpd/pt-br](https://www.gov.br/anpd/pt-br)
-4. ANPD multas e dosimetria [www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-4-de-24-de-fevereiro-de-2023-466146077](https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-4-de-24-de-fevereiro-de-2023-466146077)
-5. Gov.br - Privacidade e Segurança da Informação [www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados](https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados)
-6. Gov.br - Guia LGPD [www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/guias-operacionais-para-adequacao-a-lei-geral-de-protecao-de-dados-pessoais-lgpd](https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/guias-operacionais-para-adequacao-a-lei-geral-de-protecao-de-dados-pessoais-lgpd)
-7. NIC - padrões de segurança para redes e ISPs [bcp.nic.br/i+seg/](https://bcp.nic.br/i+seg/)
-8. NIC - TOP (testes sítios, email, TLS, DNS(SEC), IPv6) [top.nic.br](https://top.nic.br)
-9. Teste Internet - Is your internet up to date? [www.internet.nl/](https://www.internet.nl/)
-10. Testes de SITIOS/redes by .auCheck [aucheck.com.au/](https://aucheck.com.au/)
-11. Testes de SITIOS/redes by Sikkerpånettet.dk [sikkerpånettet.dk/](https://sikkerpånettet.dk/)
-12. TCP Ports - [varredura online por portas TCP abertas](https://pentest-tools.com/network-vulnerability-scanning/tcp-port-scanner-online-nmap)
+1. CTIR Gov (Centro de Prevenção, Tratamento e Resposta a Incidentes Cibernéticos de Governo) - Números e estatísticas [www.gov.br/ctir/pt-br/assuntos/ctir-gov-em-numeros](https://www.gov.br/ctir/pt-br/assuntos/ctir-gov-em-numeros) :new:
+2. CERT (Centro de Estudos, Resposta e Tratamento de Incidentes de Segurança no Brasil) [www.cert.br](https://www.cert.br/)
+3. NIC - Cartilha de Segurança da Internet [cartilha.cert.br](https://cartilha.cert.br/)
+4. ANPD (Autoridade Nac Proteção Dados) [www.gov.br/anpd/pt-br](https://www.gov.br/anpd/pt-br)
+5. ANPD multas e dosimetria [www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-4-de-24-de-fevereiro-de-2023-466146077](https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-4-de-24-de-fevereiro-de-2023-466146077)
+6. Gov.br - Privacidade e Segurança da Informação [www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados](https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados)
+7. Gov.br - Guia LGPD [www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/guias-operacionais-para-adequacao-a-lei-geral-de-protecao-de-dados-pessoais-lgpd](https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/guias-operacionais-para-adequacao-a-lei-geral-de-protecao-de-dados-pessoais-lgpd)
+8. NIC - padrões de segurança para redes e ISPs [bcp.nic.br/i+seg/](https://bcp.nic.br/i+seg/)
+9. NIC - TOP (testes sítios, email, TLS, DNS(SEC), IPv6) [top.nic.br](https://top.nic.br)
+10. Teste Internet - Is your internet up to date? [www.internet.nl/](https://www.internet.nl/)
+11. Testes de SITIOS/redes by .auCheck [aucheck.com.au/](https://aucheck.com.au/)
+12. Testes de SITIOS/redes by Sikkerpånettet.dk [sikkerpånettet.dk/](https://sikkerpånettet.dk/)
+13. TCP Ports - [varredura online por portas TCP abertas](https://pentest-tools.com/network-vulnerability-scanning/tcp-port-scanner-online-nmap)
 
 ### Cibersegurança - pesquisa sobre vulnerabilidades
 1. Vulnerabilidades (CVE) by CVE.org [https://www.cve.org/](https://www.cve.org/)
@@ -276,7 +277,7 @@ Sítio KeyCDN - Tools [tools.keycdn.com](https://tools.keycdn.com/) **Web** (Web
 
 
 Observações: o objetivo inicial destes links foi atender aulas na UFSC Araranguá (redes, segurança, arquitetura de computadores e modelagem e simulação (2022/2023).
-
+Fonte: [Complete list of github markdown emoji markup - Github/rxaviers](https://gist.github.com/rxaviers/7360908)
 [^1]: Esta é uma coleção particular de endereços e referências que pretende não ser completa.
-[^2]: Última Revisão: 07 mar. 2025.
+[^2]: Última Revisão: 27 mar. 2025.
 
