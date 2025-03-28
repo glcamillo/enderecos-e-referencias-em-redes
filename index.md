@@ -102,7 +102,7 @@ Vídeos sobre o funcionamento básicos da Internet (protocolos IP e DNS)
 11. Cisco - BGPStream [https://bgpstream.crosswork.cisco.com/](https://bgpstream.crosswork.cisco.com/)
 12. HE (Hurricane Electric) - Network Tools - Internet Map [www.he.net/3d-map/](https://www.he.net/3d-map/)
 13. Telia Carrier [Internet Exposed](https://github.com/glcamillo/aulas-ufsc-materiais/blob/gh-pages/20170215_Telia_Carrier_Internet_exposed_infographic_W10158xH4921.png)
-14. Google's Edge Network [peering.google.com](https://peering.google.com/)
+14. Google's Edge Network [peering.google.com](https://peering.google.com/) :new:
 
 #### REDES: como obter informação sobre endereçamento IP público
 1. Informações sobre endereços IP, como ISP, geolocalização, faixa de rede) by **IPinfo** [ipinfo.io](https://ipinfo.io/)
@@ -277,7 +277,10 @@ Sítio KeyCDN - Tools [tools.keycdn.com](https://tools.keycdn.com/) **Web** (Web
 
 
 Observações: o objetivo inicial destes links foi atender aulas na UFSC Araranguá (redes, segurança, arquitetura de computadores e modelagem e simulação (2022/2023).
+
 Fonte: [Complete list of github markdown emoji markup - Github/rxaviers](https://gist.github.com/rxaviers/7360908)
+
 [^1]: Esta é uma coleção particular de endereços e referências que pretende não ser completa.
+
 [^2]: Última Revisão: 27 mar. 2025.
 
